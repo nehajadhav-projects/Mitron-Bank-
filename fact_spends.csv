@@ -1,0 +1,4000 @@
+customer_id,month,category,payment_type,spend
+ATQCUS1371,July,Health & Wellness,Credit Card,1114
+ATQCUS0368,October,Groceries,Credit Card,1466
+ATQCUS0595,May,Health & Wellness,Credit Card,387
+ATQCUS0667,October,Electronics,Credit Card,1137
+ATQCUS3477,September,Bills,UPI,2102
+ATQCUS1972,October,Health & Wellness,UPI,243
+ATQCUS2843,June,Entertainment,Credit Card,268
+ATQCUS2634,August,Apparel,Debit Card,737
+ATQCUS2165,July,Food,UPI,506
+ATQCUS0908,September,Others,UPI,380
+ATQCUS1115,May,Food,UPI,361
+ATQCUS1279,August,Entertainment,Debit Card,443
+ATQCUS0108,September,Groceries,Credit Card,361
+ATQCUS3883,May,Groceries,Credit Card,56
+ATQCUS2594,October,Electronics,Credit Card,873
+ATQCUS0558,June,Apparel,Net Banking,51
+ATQCUS0650,August,Groceries,UPI,1273
+ATQCUS1019,August,Bills,Net Banking,555
+ATQCUS1521,October,Groceries,Net Banking,410
+ATQCUS2564,May,Health & Wellness,Debit Card,2158
+ATQCUS2867,August,Health & Wellness,Net Banking,463
+ATQCUS3551,August,Electronics,UPI,1104
+ATQCUS0700,May,Travel,Debit Card,245
+ATQCUS0829,September,Entertainment,UPI,405
+ATQCUS2026,July,Apparel,Credit Card,945
+ATQCUS0394,June,Travel,Credit Card,1573
+ATQCUS3907,August,Apparel,Credit Card,1079
+ATQCUS1524,August,Health & Wellness,UPI,706
+ATQCUS1515,July,Bills,Credit Card,1179
+ATQCUS0740,May,Bills,Credit Card,884
+ATQCUS2019,October,Apparel,Debit Card,928
+ATQCUS1665,May,Entertainment,Debit Card,407
+ATQCUS0699,July,Bills,UPI,806
+ATQCUS3174,September,Apparel,Credit Card,650
+ATQCUS0167,June,Food,UPI,608
+ATQCUS0627,May,Bills,UPI,1496
+ATQCUS3785,May,Food,Credit Card,365
+ATQCUS3915,August,Travel,UPI,1687
+ATQCUS2450,June,Health & Wellness,UPI,239
+ATQCUS3705,September,Electronics,Debit Card,617
+ATQCUS2847,July,Health & Wellness,Credit Card,1125
+ATQCUS2103,September,Food,UPI,1007
+ATQCUS1712,May,Electronics,Debit Card,464
+ATQCUS3368,July,Entertainment,UPI,1167
+ATQCUS1118,August,Apparel,Net Banking,115
+ATQCUS1744,June,Electronics,UPI,219
+ATQCUS3212,May,Bills,UPI,305
+ATQCUS2778,July,Electronics,UPI,329
+ATQCUS1564,July,Electronics,Net Banking,300
+ATQCUS1956,July,Health & Wellness,Net Banking,283
+ATQCUS1908,September,Travel,Debit Card,739
+ATQCUS2627,October,Food,Debit Card,517
+ATQCUS2795,September,Groceries,Credit Card,968
+ATQCUS1295,May,Bills,Debit Card,877
+ATQCUS3374,October,Electronics,Net Banking,161
+ATQCUS2917,September,Travel,Net Banking,213
+ATQCUS3265,June,Entertainment,Debit Card,1309
+ATQCUS2463,July,Bills,Net Banking,266
+ATQCUS1584,May,Apparel,Net Banking,68
+ATQCUS0112,July,Bills,Debit Card,245
+ATQCUS3997,September,Entertainment,Credit Card,187
+ATQCUS2483,August,Groceries,Debit Card,460
+ATQCUS0725,May,Apparel,Credit Card,89
+ATQCUS0166,June,Entertainment,UPI,628
+ATQCUS3756,May,Travel,UPI,357
+ATQCUS1621,October,Others,Net Banking,29
+ATQCUS2175,September,Groceries,Credit Card,1052
+ATQCUS0163,October,Health & Wellness,Credit Card,766
+ATQCUS2663,August,Electronics,UPI,385
+ATQCUS1462,June,Apparel,Credit Card,278
+ATQCUS2391,October,Food,Net Banking,83
+ATQCUS2921,July,Others,UPI,113
+ATQCUS1395,July,Apparel,Net Banking,40
+ATQCUS2964,August,Others,UPI,228
+ATQCUS3571,July,Travel,Credit Card,1390
+ATQCUS2711,October,Entertainment,Credit Card,253
+ATQCUS3759,October,Bills,Net Banking,106
+ATQCUS2362,May,Entertainment,Credit Card,290
+ATQCUS2037,October,Bills,UPI,102
+ATQCUS3441,June,Apparel,Debit Card,233
+ATQCUS0919,October,Food,Debit Card,922
+ATQCUS1386,July,Food,Net Banking,161
+ATQCUS2849,July,Food,UPI,203
+ATQCUS2489,July,Entertainment,Debit Card,89
+ATQCUS3451,August,Groceries,UPI,2776
+ATQCUS2590,July,Travel,Net Banking,197
+ATQCUS3726,September,Electronics,Debit Card,929
+ATQCUS0184,June,Entertainment,Credit Card,639
+ATQCUS1351,June,Health & Wellness,Credit Card,1093
+ATQCUS2298,August,Health & Wellness,UPI,1293
+ATQCUS2325,August,Electronics,Credit Card,896
+ATQCUS0669,May,Bills,Credit Card,937
+ATQCUS0321,August,Bills,Debit Card,2078
+ATQCUS1855,May,Travel,Debit Card,462
+ATQCUS1726,August,Groceries,UPI,1292
+ATQCUS3157,June,Entertainment,Net Banking,604
+ATQCUS0307,June,Health & Wellness,UPI,238
+ATQCUS0181,July,Entertainment,UPI,345
+ATQCUS2529,May,Travel,Net Banking,267
+ATQCUS2185,September,Food,Debit Card,470
+ATQCUS0712,July,Bills,Debit Card,574
+ATQCUS2152,August,Food,UPI,916
+ATQCUS1560,September,Food,Credit Card,539
+ATQCUS2860,October,Bills,Credit Card,563
+ATQCUS3566,May,Travel,UPI,589
+ATQCUS2377,June,Electronics,Debit Card,391
+ATQCUS2119,June,Electronics,Net Banking,172
+ATQCUS2672,May,Entertainment,Net Banking,36
+ATQCUS3696,September,Apparel,Credit Card,573
+ATQCUS1528,May,Electronics,Debit Card,898
+ATQCUS0269,August,Apparel,Credit Card,328
+ATQCUS1514,June,Entertainment,Net Banking,71
+ATQCUS2858,October,Others,Net Banking,63
+ATQCUS3218,September,Health & Wellness,UPI,310
+ATQCUS3732,May,Entertainment,Credit Card,463
+ATQCUS2137,May,Apparel,Credit Card,532
+ATQCUS2599,May,Travel,Credit Card,655
+ATQCUS2158,June,Electronics,Net Banking,149
+ATQCUS3991,August,Food,Credit Card,497
+ATQCUS2014,July,Health & Wellness,Credit Card,601
+ATQCUS2189,June,Bills,Debit Card,1342
+ATQCUS2479,September,Health & Wellness,UPI,1243
+ATQCUS0521,October,Bills,Net Banking,428
+ATQCUS1109,July,Apparel,UPI,154
+ATQCUS3192,May,Bills,Credit Card,193
+ATQCUS0689,August,Travel,Credit Card,1122
+ATQCUS3498,August,Health & Wellness,Debit Card,352
+ATQCUS0306,August,Food,UPI,345
+ATQCUS2938,May,Electronics,Net Banking,117
+ATQCUS2077,October,Others,Debit Card,39
+ATQCUS0142,September,Health & Wellness,UPI,565
+ATQCUS0868,July,Health & Wellness,Net Banking,93
+ATQCUS2498,September,Food,Net Banking,117
+ATQCUS1568,June,Entertainment,Debit Card,176
+ATQCUS3642,August,Entertainment,Net Banking,98
+ATQCUS2882,May,Apparel,Debit Card,280
+ATQCUS0448,June,Groceries,Net Banking,236
+ATQCUS3837,September,Others,UPI,424
+ATQCUS1934,August,Entertainment,Debit Card,242
+ATQCUS0085,August,Others,UPI,123
+ATQCUS1379,June,Others,Net Banking,69
+ATQCUS0323,September,Entertainment,Net Banking,245
+ATQCUS2422,August,Electronics,Net Banking,149
+ATQCUS1571,May,Apparel,Net Banking,55
+ATQCUS2355,October,Others,Debit Card,76
+ATQCUS1396,October,Food,Credit Card,400
+ATQCUS1022,June,Health & Wellness,UPI,765
+ATQCUS0889,September,Health & Wellness,Credit Card,534
+ATQCUS0641,October,Bills,Credit Card,1594
+ATQCUS2151,May,Food,Credit Card,690
+ATQCUS3204,October,Entertainment,Net Banking,514
+ATQCUS0341,October,Groceries,Net Banking,826
+ATQCUS3196,September,Health & Wellness,Debit Card,278
+ATQCUS2779,August,Entertainment,Net Banking,123
+ATQCUS1210,September,Health & Wellness,Net Banking,287
+ATQCUS1799,October,Bills,Credit Card,1873
+ATQCUS1125,September,Apparel,Credit Card,410
+ATQCUS2825,July,Health & Wellness,Credit Card,1194
+ATQCUS0422,July,Entertainment,Debit Card,173
+ATQCUS2864,September,Apparel,UPI,421
+ATQCUS1732,October,Apparel,Credit Card,149
+ATQCUS3235,June,Electronics,UPI,1031
+ATQCUS0316,May,Apparel,Credit Card,332
+ATQCUS3958,September,Apparel,Net Banking,122
+ATQCUS2204,August,Health & Wellness,Debit Card,1071
+ATQCUS1233,September,Health & Wellness,Credit Card,2705
+ATQCUS2682,August,Apparel,Debit Card,620
+ATQCUS1392,October,Entertainment,UPI,297
+ATQCUS0274,May,Travel,Credit Card,960
+ATQCUS0996,June,Travel,Credit Card,1090
+ATQCUS0016,June,Groceries,Net Banking,117
+ATQCUS2776,July,Bills,Credit Card,749
+ATQCUS2694,May,Bills,Debit Card,552
+ATQCUS2426,August,Electronics,Debit Card,253
+ATQCUS0693,August,Travel,Net Banking,157
+ATQCUS2100,September,Travel,Debit Card,1354
+ATQCUS1765,May,Groceries,Debit Card,481
+ATQCUS1148,September,Electronics,Debit Card,2068
+ATQCUS2619,May,Health & Wellness,UPI,1690
+ATQCUS2999,August,Bills,UPI,716
+ATQCUS0956,October,Food,Net Banking,189
+ATQCUS2048,July,Others,Debit Card,66
+ATQCUS1993,May,Food,UPI,203
+ATQCUS3200,July,Apparel,UPI,582
+ATQCUS2712,October,Groceries,UPI,492
+ATQCUS3193,October,Groceries,Net Banking,93
+ATQCUS0205,October,Others,Net Banking,60
+ATQCUS3493,June,Travel,Net Banking,137
+ATQCUS1729,August,Travel,Credit Card,1237
+ATQCUS1278,June,Apparel,Debit Card,209
+ATQCUS3345,August,Food,Credit Card,306
+ATQCUS2888,May,Entertainment,UPI,172
+ATQCUS1372,June,Food,Credit Card,658
+ATQCUS3342,May,Food,Net Banking,113
+ATQCUS1704,August,Health & Wellness,Net Banking,863
+ATQCUS1090,October,Travel,UPI,752
+ATQCUS0039,July,Electronics,Debit Card,522
+ATQCUS3902,July,Entertainment,Net Banking,194
+ATQCUS0702,October,Travel,Net Banking,213
+ATQCUS3731,July,Electronics,UPI,541
+ATQCUS1609,August,Entertainment,UPI,228
+ATQCUS2053,May,Health & Wellness,Credit Card,350
+ATQCUS1865,July,Apparel,UPI,171
+ATQCUS3568,September,Groceries,Debit Card,1176
+ATQCUS2218,June,Electronics,UPI,916
+ATQCUS1190,July,Bills,Net Banking,433
+ATQCUS0114,September,Apparel,UPI,421
+ATQCUS1666,August,Electronics,UPI,1121
+ATQCUS0579,August,Others,Debit Card,122
+ATQCUS0639,June,Groceries,Net Banking,358
+ATQCUS2819,July,Apparel,Net Banking,138
+ATQCUS3409,August,Food,Credit Card,714
+ATQCUS1654,September,Groceries,UPI,2282
+ATQCUS0037,June,Bills,UPI,143
+ATQCUS2773,May,Apparel,Debit Card,399
+ATQCUS2692,July,Food,Net Banking,165
+ATQCUS1834,July,Bills,Credit Card,1305
+ATQCUS1027,June,Travel,UPI,620
+ATQCUS2447,August,Groceries,Net Banking,84
+ATQCUS0489,September,Bills,Debit Card,3220
+ATQCUS0471,June,Food,Net Banking,234
+ATQCUS2461,September,Entertainment,UPI,482
+ATQCUS0775,June,Food,Credit Card,1076
+ATQCUS2925,September,Food,Credit Card,420
+ATQCUS0257,June,Entertainment,UPI,386
+ATQCUS1487,August,Groceries,Credit Card,776
+ATQCUS1640,September,Entertainment,Net Banking,138
+ATQCUS2767,October,Travel,Debit Card,392
+ATQCUS1287,August,Bills,UPI,2240
+ATQCUS0611,October,Bills,Net Banking,463
+ATQCUS0672,May,Apparel,UPI,77
+ATQCUS1021,August,Groceries,Debit Card,1517
+ATQCUS2541,September,Food,Credit Card,1388
+ATQCUS1852,June,Electronics,UPI,392
+ATQCUS1873,July,Travel,Credit Card,650
+ATQCUS2309,September,Apparel,UPI,388
+ATQCUS2392,July,Travel,Debit Card,217
+ATQCUS3941,June,Travel,Net Banking,83
+ATQCUS1029,July,Groceries,UPI,1185
+ATQCUS0025,July,Travel,UPI,780
+ATQCUS1602,August,Others,Credit Card,157
+ATQCUS3957,July,Others,UPI,98
+ATQCUS1384,August,Entertainment,Net Banking,64
+ATQCUS1048,October,Travel,Net Banking,184
+ATQCUS0759,May,Bills,Debit Card,1213
+ATQCUS2303,June,Food,UPI,194
+ATQCUS3681,September,Health & Wellness,Credit Card,2442
+ATQCUS0946,June,Others,Net Banking,57
+ATQCUS3352,July,Apparel,Net Banking,116
+ATQCUS0127,September,Travel,Debit Card,180
+ATQCUS2684,June,Others,UPI,113
+ATQCUS2637,July,Food,UPI,989
+ATQCUS0792,September,Travel,UPI,1292
+ATQCUS1662,June,Electronics,UPI,1013
+ATQCUS1025,June,Entertainment,Net Banking,115
+ATQCUS2982,September,Groceries,Credit Card,3163
+ATQCUS1133,October,Travel,Net Banking,145
+ATQCUS3764,July,Electronics,Debit Card,330
+ATQCUS3865,June,Others,UPI,191
+ATQCUS0283,July,Entertainment,Net Banking,291
+ATQCUS1231,July,Electronics,Debit Card,195
+ATQCUS0453,May,Groceries,Debit Card,696
+ATQCUS2351,May,Health & Wellness,UPI,692
+ATQCUS1355,May,Travel,Credit Card,1071
+ATQCUS3467,May,Food,UPI,293
+ATQCUS2562,September,Groceries,Credit Card,1950
+ATQCUS1764,May,Electronics,Credit Card,1317
+ATQCUS1694,August,Groceries,Credit Card,2082
+ATQCUS2003,August,Groceries,Net Banking,633
+ATQCUS2478,September,Health & Wellness,Debit Card,948
+ATQCUS2697,May,Others,UPI,147
+ATQCUS2949,October,Travel,Debit Card,265
+ATQCUS3509,May,Electronics,UPI,463
+ATQCUS2768,October,Bills,Net Banking,279
+ATQCUS2880,June,Electronics,Net Banking,103
+ATQCUS2231,June,Groceries,Credit Card,2719
+ATQCUS1224,September,Apparel,Debit Card,436
+ATQCUS3916,September,Entertainment,UPI,98
+ATQCUS0674,June,Groceries,Debit Card,456
+ATQCUS1936,May,Apparel,Debit Card,223
+ATQCUS3849,August,Food,Debit Card,597
+ATQCUS1885,July,Others,Debit Card,130
+ATQCUS3540,May,Bills,UPI,498
+ATQCUS2664,September,Bills,UPI,1043
+ATQCUS3917,October,Electronics,Credit Card,657
+ATQCUS2611,October,Apparel,Net Banking,110
+ATQCUS1881,June,Apparel,Debit Card,199
+ATQCUS3480,August,Apparel,Credit Card,818
+ATQCUS0731,June,Travel,UPI,1211
+ATQCUS2385,June,Health & Wellness,Debit Card,712
+ATQCUS0615,September,Bills,UPI,1757
+ATQCUS2411,June,Food,Credit Card,682
+ATQCUS3405,August,Others,UPI,69
+ATQCUS0423,May,Groceries,Debit Card,994
+ATQCUS2607,May,Apparel,Net Banking,21
+ATQCUS3811,August,Health & Wellness,UPI,808
+ATQCUS2690,July,Groceries,Credit Card,2474
+ATQCUS1271,July,Apparel,Net Banking,563
+ATQCUS1192,September,Entertainment,Net Banking,58
+ATQCUS0494,October,Bills,Debit Card,200
+ATQCUS2798,June,Groceries,Credit Card,1071
+ATQCUS2954,October,Health & Wellness,Credit Card,2734
+ATQCUS2589,May,Entertainment,Credit Card,304
+ATQCUS2516,October,Health & Wellness,Net Banking,258
+ATQCUS0118,May,Electronics,Credit Card,509
+ATQCUS3545,September,Others,Debit Card,324
+ATQCUS0884,June,Groceries,UPI,1030
+ATQCUS0879,September,Apparel,UPI,140
+ATQCUS1442,August,Food,Net Banking,105
+ATQCUS2224,September,Health & Wellness,Credit Card,4128
+ATQCUS0728,June,Travel,Credit Card,498
+ATQCUS1974,October,Apparel,Net Banking,68
+ATQCUS3034,May,Others,UPI,125
+ATQCUS2335,September,Apparel,Net Banking,74
+ATQCUS1203,May,Entertainment,UPI,1065
+ATQCUS0774,May,Food,Credit Card,341
+ATQCUS1345,July,Bills,Credit Card,1616
+ATQCUS0538,October,Health & Wellness,Debit Card,124
+ATQCUS2974,August,Travel,Debit Card,705
+ATQCUS2192,September,Travel,Credit Card,1313
+ATQCUS3691,May,Others,Credit Card,86
+ATQCUS1420,September,Travel,Net Banking,473
+ATQCUS1445,July,Others,Credit Card,240
+ATQCUS1474,September,Apparel,Net Banking,186
+ATQCUS1382,August,Food,UPI,310
+ATQCUS2073,September,Bills,Debit Card,1967
+ATQCUS3844,October,Health & Wellness,Debit Card,612
+ATQCUS0057,September,Groceries,Debit Card,1634
+ATQCUS2793,July,Apparel,Credit Card,1090
+ATQCUS0286,October,Health & Wellness,Credit Card,3268
+ATQCUS2803,June,Food,UPI,490
+ATQCUS3063,July,Others,Net Banking,47
+ATQCUS0160,October,Food,Credit Card,539
+ATQCUS0367,June,Electronics,Debit Card,519
+ATQCUS2790,June,Groceries,UPI,1122
+ATQCUS0043,June,Entertainment,Credit Card,828
+ATQCUS3546,August,Apparel,UPI,1708
+ATQCUS0385,October,Entertainment,Debit Card,768
+ATQCUS3666,May,Others,Net Banking,78
+ATQCUS1874,October,Others,Credit Card,132
+ATQCUS1211,October,Travel,Net Banking,232
+ATQCUS1424,June,Health & Wellness,Credit Card,1351
+ATQCUS3931,June,Health & Wellness,Credit Card,1166
+ATQCUS2666,September,Others,Credit Card,320
+ATQCUS1495,May,Travel,Debit Card,273
+ATQCUS3950,August,Travel,Credit Card,1529
+ATQCUS1678,August,Electronics,UPI,2041
+ATQCUS2193,October,Travel,Credit Card,286
+ATQCUS0300,September,Apparel,Net Banking,103
+ATQCUS2845,June,Apparel,UPI,338
+ATQCUS0278,October,Apparel,UPI,117
+ATQCUS1596,October,Food,Net Banking,206
+ATQCUS1544,October,Travel,Net Banking,425
+ATQCUS0619,July,Health & Wellness,Net Banking,170
+ATQCUS3317,June,Electronics,Credit Card,777
+ATQCUS3648,July,Travel,Debit Card,709
+ATQCUS1960,May,Entertainment,UPI,117
+ATQCUS3614,May,Others,UPI,78
+ATQCUS2905,May,Bills,Debit Card,344
+ATQCUS0158,September,Electronics,UPI,954
+ATQCUS1475,August,Groceries,Credit Card,2174
+ATQCUS2701,June,Groceries,Net Banking,330
+ATQCUS3457,October,Entertainment,Debit Card,73
+ATQCUS0012,August,Food,Net Banking,68
+ATQCUS1854,August,Bills,Debit Card,1690
+ATQCUS3328,August,Bills,Credit Card,3707
+ATQCUS1949,May,Health & Wellness,Net Banking,106
+ATQCUS0664,May,Apparel,Net Banking,178
+ATQCUS1607,May,Apparel,UPI,198
+ATQCUS2115,October,Bills,Debit Card,1735
+ATQCUS3537,September,Electronics,UPI,797
+ATQCUS2643,May,Groceries,Credit Card,1026
+ATQCUS2504,July,Electronics,Debit Card,1344
+ATQCUS0455,June,Entertainment,Net Banking,85
+ATQCUS2261,June,Others,Credit Card,197
+ATQCUS1950,June,Food,Credit Card,882
+ATQCUS2476,August,Entertainment,Credit Card,2823
+ATQCUS1081,September,Health & Wellness,Credit Card,1334
+ATQCUS1668,October,Travel,UPI,298
+ATQCUS0064,May,Apparel,UPI,34
+ATQCUS0019,June,Entertainment,Credit Card,419
+ATQCUS1039,September,Food,Credit Card,407
+ATQCUS2799,June,Food,Net Banking,211
+ATQCUS3395,August,Food,UPI,1054
+ATQCUS0218,June,Travel,Debit Card,582
+ATQCUS0668,October,Others,Net Banking,29
+ATQCUS3331,October,Entertainment,Credit Card,579
+ATQCUS2708,September,Apparel,Credit Card,981
+ATQCUS3870,May,Health & Wellness,Debit Card,215
+ATQCUS1323,May,Others,Net Banking,41
+ATQCUS1763,August,Groceries,UPI,3012
+ATQCUS3682,May,Electronics,Debit Card,388
+ATQCUS2035,May,Others,UPI,208
+ATQCUS1473,July,Others,Credit Card,263
+ATQCUS0945,August,Health & Wellness,Credit Card,314
+ATQCUS1083,August,Bills,Debit Card,2235
+ATQCUS3798,May,Others,Credit Card,302
+ATQCUS2496,May,Apparel,Debit Card,176
+ATQCUS2653,August,Groceries,UPI,2321
+ATQCUS2418,July,Apparel,Credit Card,636
+ATQCUS3878,October,Groceries,Net Banking,236
+ATQCUS1466,August,Electronics,UPI,1301
+ATQCUS0113,September,Food,Debit Card,488
+ATQCUS3420,June,Electronics,UPI,320
+ATQCUS0539,July,Bills,Net Banking,333
+ATQCUS3927,June,Groceries,Credit Card,702
+ATQCUS0891,October,Health & Wellness,Net Banking,220
+ATQCUS0652,July,Electronics,Credit Card,335
+ATQCUS0468,July,Electronics,UPI,428
+ATQCUS0860,May,Health & Wellness,UPI,851
+ATQCUS1819,July,Groceries,Credit Card,1644
+ATQCUS0502,October,Electronics,Net Banking,214
+ATQCUS3819,June,Others,UPI,115
+ATQCUS0162,October,Apparel,Debit Card,626
+ATQCUS0686,August,Entertainment,Debit Card,132
+ATQCUS2884,June,Apparel,Credit Card,686
+ATQCUS0678,July,Health & Wellness,UPI,303
+ATQCUS2801,October,Electronics,Credit Card,612
+ATQCUS2636,June,Groceries,Net Banking,29
+ATQCUS3269,September,Food,Net Banking,120
+ATQCUS3108,June,Electronics,Debit Card,356
+ATQCUS1588,October,Travel,Net Banking,98
+ATQCUS0365,July,Apparel,Net Banking,63
+ATQCUS3638,October,Apparel,Credit Card,803
+ATQCUS1895,July,Entertainment,Debit Card,668
+ATQCUS2648,July,Food,Debit Card,318
+ATQCUS0031,August,Health & Wellness,Credit Card,285
+ATQCUS0642,September,Others,Debit Card,249
+ATQCUS0881,October,Food,UPI,357
+ATQCUS0509,July,Apparel,Debit Card,185
+ATQCUS3626,August,Entertainment,Debit Card,185
+ATQCUS3588,June,Apparel,Credit Card,1744
+ATQCUS2511,July,Travel,Debit Card,849
+ATQCUS2163,September,Health & Wellness,UPI,779
+ATQCUS1174,October,Apparel,Net Banking,49
+ATQCUS0013,May,Others,Credit Card,126
+ATQCUS0054,June,Others,UPI,92
+ATQCUS3995,July,Travel,UPI,461
+ATQCUS0288,May,Bills,Debit Card,1131
+ATQCUS1711,July,Bills,Credit Card,271
+ATQCUS1809,October,Bills,Credit Card,718
+ATQCUS0028,June,Entertainment,UPI,355
+ATQCUS3071,August,Others,Credit Card,337
+ATQCUS3152,May,Electronics,Net Banking,144
+ATQCUS1576,May,Groceries,Net Banking,266
+ATQCUS0084,October,Apparel,Credit Card,156
+ATQCUS3318,June,Travel,Debit Card,834
+ATQCUS1643,August,Others,Debit Card,126
+ATQCUS1283,August,Food,Debit Card,840
+ATQCUS0034,July,Electronics,Net Banking,400
+ATQCUS3429,July,Health & Wellness,Credit Card,298
+ATQCUS1946,July,Electronics,UPI,627
+ATQCUS3858,August,Apparel,Debit Card,136
+ATQCUS0803,June,Others,Debit Card,52
+ATQCUS0529,September,Travel,UPI,499
+ATQCUS1717,September,Apparel,Debit Card,275
+ATQCUS1139,July,Apparel,Debit Card,283
+ATQCUS2286,June,Apparel,Net Banking,56
+ATQCUS0128,July,Food,UPI,1419
+ATQCUS0336,October,Bills,UPI,302
+ATQCUS2006,July,Bills,Credit Card,1050
+ATQCUS1076,June,Electronics,UPI,1366
+ATQCUS1939,June,Apparel,Debit Card,282
+ATQCUS2407,May,Groceries,Credit Card,1076
+ATQCUS3356,June,Entertainment,UPI,126
+ATQCUS3198,May,Health & Wellness,UPI,278
+ATQCUS3050,June,Groceries,UPI,960
+ATQCUS2994,October,Food,UPI,327
+ATQCUS0738,May,Electronics,Debit Card,672
+ATQCUS3923,October,Others,Net Banking,34
+ATQCUS0697,May,Food,Net Banking,86
+ATQCUS3089,August,Groceries,Debit Card,818
+ATQCUS3496,June,Health & Wellness,Net Banking,134
+ATQCUS1776,May,Food,Net Banking,119
+ATQCUS1835,May,Electronics,Debit Card,812
+ATQCUS0612,September,Others,Debit Card,114
+ATQCUS2605,July,Apparel,UPI,329
+ATQCUS1709,September,Travel,Credit Card,896
+ATQCUS0635,June,Groceries,UPI,231
+ATQCUS1266,May,Bills,UPI,493
+ATQCUS0545,September,Bills,UPI,2384
+ATQCUS3653,May,Food,Debit Card,219
+ATQCUS1246,June,Bills,Net Banking,527
+ATQCUS1546,October,Bills,Net Banking,404
+ATQCUS0276,July,Food,UPI,350
+ATQCUS0254,June,Food,Net Banking,244
+ATQCUS3183,October,Groceries,Credit Card,2740
+ATQCUS3248,July,Others,Debit Card,208
+ATQCUS0831,September,Apparel,Net Banking,244
+ATQCUS1963,August,Travel,Net Banking,412
+ATQCUS3256,August,Others,Net Banking,29
+ATQCUS0395,May,Others,UPI,90
+ATQCUS1540,August,Entertainment,Debit Card,1110
+ATQCUS2621,May,Entertainment,Net Banking,128
+ATQCUS3775,July,Food,Net Banking,294
+ATQCUS0848,July,Apparel,Debit Card,37
+ATQCUS3298,June,Groceries,Net Banking,206
+ATQCUS0063,June,Health & Wellness,Credit Card,355
+ATQCUS3873,September,Entertainment,Net Banking,149
+ATQCUS0563,September,Apparel,Debit Card,94
+ATQCUS0090,September,Entertainment,Net Banking,250
+ATQCUS3701,May,Bills,Credit Card,1350
+ATQCUS2769,May,Apparel,Credit Card,163
+ATQCUS2814,June,Bills,Net Banking,485
+ATQCUS3664,September,Apparel,Debit Card,202
+ATQCUS1734,October,Others,UPI,105
+ATQCUS0556,July,Apparel,UPI,98
+ATQCUS0914,July,Electronics,Net Banking,297
+ATQCUS1160,September,Bills,Net Banking,533
+ATQCUS0333,October,Travel,Credit Card,1642
+ATQCUS3659,October,Others,Credit Card,344
+ATQCUS0022,August,Entertainment,Credit Card,800
+ATQCUS1923,October,Health & Wellness,Net Banking,77
+ATQCUS1164,August,Travel,Credit Card,1549
+ATQCUS2331,August,Apparel,Credit Card,546
+ATQCUS1293,August,Health & Wellness,UPI,206
+ATQCUS1971,August,Others,Debit Card,153
+ATQCUS2132,June,Apparel,Net Banking,172
+ATQCUS1774,October,Travel,Debit Card,299
+ATQCUS3226,August,Groceries,Debit Card,1279
+ATQCUS1891,August,Groceries,Credit Card,2120
+ATQCUS1586,July,Food,Credit Card,464
+ATQCUS0074,October,Others,Credit Card,92
+ATQCUS1094,August,Health & Wellness,Debit Card,266
+ATQCUS0675,August,Health & Wellness,Debit Card,264
+ATQCUS2078,June,Electronics,UPI,1469
+ATQCUS2170,May,Health & Wellness,Debit Card,387
+ATQCUS3640,September,Others,Debit Card,86
+ATQCUS2985,July,Food,Debit Card,452
+ATQCUS3550,October,Others,Debit Card,130
+ATQCUS1028,May,Apparel,Net Banking,136
+ATQCUS3348,October,Apparel,Net Banking,168
+ATQCUS2940,September,Groceries,Debit Card,1314
+ATQCUS3271,August,Travel,Debit Card,868
+ATQCUS1840,July,Entertainment,UPI,260
+ATQCUS2477,August,Bills,Net Banking,313
+ATQCUS2771,September,Food,Credit Card,1527
+ATQCUS2308,July,Groceries,UPI,1346
+ATQCUS0607,September,Groceries,Credit Card,3912
+ATQCUS0206,May,Travel,Net Banking,216
+ATQCUS3688,May,Others,Net Banking,40
+ATQCUS3492,August,Travel,Net Banking,105
+ATQCUS2055,October,Bills,UPI,545
+ATQCUS2000,October,Health & Wellness,UPI,791
+ATQCUS2120,October,Bills,Credit Card,889
+ATQCUS1331,October,Bills,UPI,1077
+ATQCUS2240,May,Electronics,Debit Card,311
+ATQCUS2766,October,Health & Wellness,Debit Card,611
+ATQCUS1284,July,Travel,UPI,308
+ATQCUS3153,May,Bills,UPI,204
+ATQCUS3222,June,Apparel,Debit Card,189
+ATQCUS2649,July,Entertainment,Credit Card,498
+ATQCUS0636,July,Health & Wellness,Debit Card,315
+ATQCUS1406,May,Travel,Debit Card,561
+ATQCUS3942,May,Food,Net Banking,49
+ATQCUS2281,September,Others,Credit Card,62
+ATQCUS2043,August,Bills,Net Banking,260
+ATQCUS1615,May,Health & Wellness,UPI,182
+ATQCUS2465,May,Groceries,Debit Card,348
+ATQCUS3073,June,Apparel,Debit Card,121
+ATQCUS2532,October,Groceries,UPI,1198
+ATQCUS2866,July,Electronics,Credit Card,819
+ATQCUS1033,October,Apparel,Debit Card,687
+ATQCUS1858,May,Apparel,Credit Card,372
+ATQCUS3511,May,Health & Wellness,UPI,183
+ATQCUS0362,August,Health & Wellness,UPI,1111
+ATQCUS1907,October,Bills,UPI,915
+ATQCUS0050,June,Groceries,Debit Card,368
+ATQCUS1010,June,Food,Net Banking,78
+ATQCUS3086,June,Travel,Net Banking,119
+ATQCUS0755,October,Health & Wellness,Net Banking,192
+ATQCUS0099,May,Apparel,Credit Card,132
+ATQCUS3423,May,Health & Wellness,UPI,197
+ATQCUS1969,June,Health & Wellness,Debit Card,279
+ATQCUS0594,May,Bills,Credit Card,1354
+ATQCUS0806,June,Groceries,Net Banking,117
+ATQCUS1013,August,Bills,Net Banking,441
+ATQCUS3655,September,Food,Debit Card,263
+ATQCUS0917,September,Bills,Net Banking,287
+ATQCUS3390,October,Apparel,UPI,178
+ATQCUS3024,May,Travel,Net Banking,96
+ATQCUS3960,June,Apparel,Debit Card,365
+ATQCUS3422,October,Apparel,UPI,633
+ATQCUS2125,June,Groceries,Credit Card,2040
+ATQCUS0311,June,Food,UPI,401
+ATQCUS1184,July,Health & Wellness,Net Banking,258
+ATQCUS3948,May,Electronics,Debit Card,372
+ATQCUS3683,May,Others,Credit Card,265
+ATQCUS0616,July,Bills,Debit Card,546
+ATQCUS0621,October,Health & Wellness,Credit Card,531
+ATQCUS0264,September,Travel,Net Banking,299
+ATQCUS0068,October,Apparel,Net Banking,375
+ATQCUS1690,May,Health & Wellness,UPI,661
+ATQCUS3369,September,Travel,UPI,1031
+ATQCUS0825,May,Bills,Debit Card,247
+ATQCUS3458,October,Entertainment,UPI,113
+ATQCUS3388,September,Groceries,Debit Card,1635
+ATQCUS0035,October,Entertainment,Debit Card,345
+ATQCUS3308,June,Travel,Debit Card,581
+ATQCUS1309,August,Bills,Net Banking,380
+ATQCUS3609,June,Others,UPI,156
+ATQCUS3739,June,Food,Net Banking,167
+ATQCUS1496,May,Health & Wellness,Net Banking,266
+ATQCUS3832,July,Groceries,Debit Card,413
+ATQCUS3838,August,Food,UPI,887
+ATQCUS3657,June,Groceries,UPI,694
+ATQCUS1346,July,Travel,Credit Card,151
+ATQCUS0520,August,Travel,Credit Card,228
+ATQCUS2188,September,Apparel,Debit Card,226
+ATQCUS1795,July,Others,UPI,69
+ATQCUS1525,September,Others,Credit Card,221
+ATQCUS2348,May,Apparel,Net Banking,91
+ATQCUS1036,May,Entertainment,Net Banking,76
+ATQCUS2693,May,Apparel,Credit Card,266
+ATQCUS3424,July,Health & Wellness,Net Banking,99
+ATQCUS3685,October,Groceries,UPI,422
+ATQCUS1339,May,Travel,Net Banking,314
+ATQCUS0332,October,Food,Debit Card,567
+ATQCUS1253,May,Bills,Debit Card,533
+ATQCUS0396,May,Entertainment,Net Banking,52
+ATQCUS1693,June,Others,Debit Card,137
+ATQCUS0505,September,Bills,UPI,2432
+ATQCUS1306,May,Travel,Debit Card,281
+ATQCUS2195,September,Groceries,Debit Card,1527
+ATQCUS3478,June,Others,Debit Card,81
+ATQCUS2274,August,Others,Net Banking,43
+ATQCUS1054,October,Health & Wellness,Net Banking,133
+ATQCUS3516,July,Apparel,Debit Card,136
+ATQCUS1597,July,Groceries,Debit Card,195
+ATQCUS1890,May,Entertainment,Net Banking,91
+ATQCUS2978,May,Travel,UPI,336
+ATQCUS1808,October,Groceries,UPI,2317
+ATQCUS3438,August,Bills,Debit Card,2100
+ATQCUS2339,June,Travel,Credit Card,146
+ATQCUS2853,May,Entertainment,Net Banking,325
+ATQCUS0030,May,Others,Debit Card,94
+ATQCUS0021,October,Bills,Debit Card,1004
+ATQCUS1836,August,Travel,UPI,777
+ATQCUS1177,May,Electronics,Credit Card,1072
+ATQCUS1265,July,Health & Wellness,Debit Card,425
+ATQCUS2900,May,Food,Debit Card,264
+ATQCUS3523,September,Travel,Net Banking,158
+ATQCUS2457,May,Food,Net Banking,115
+ATQCUS2593,September,Food,Debit Card,688
+ATQCUS0457,July,Electronics,UPI,328
+ATQCUS0020,October,Electronics,Net Banking,361
+ATQCUS1322,June,Apparel,Debit Card,152
+ATQCUS0122,June,Bills,Net Banking,369
+ATQCUS0981,October,Health & Wellness,Credit Card,2419
+ATQCUS3533,June,Electronics,Debit Card,483
+ATQCUS2356,August,Electronics,Debit Card,1841
+ATQCUS1430,May,Travel,Credit Card,936
+ATQCUS2527,July,Entertainment,UPI,276
+ATQCUS3564,August,Travel,UPI,641
+ATQCUS2371,June,Health & Wellness,Net Banking,54
+ATQCUS3216,October,Travel,Debit Card,574
+ATQCUS2133,May,Health & Wellness,Debit Card,717
+ATQCUS0483,July,Groceries,Debit Card,1389
+ATQCUS0318,May,Food,Credit Card,371
+ATQCUS3527,August,Entertainment,Debit Card,845
+ATQCUS0514,July,Travel,Debit Card,563
+ATQCUS3595,June,Apparel,UPI,161
+ATQCUS3632,August,Apparel,UPI,128
+ATQCUS3300,August,Groceries,Debit Card,1301
+ATQCUS0378,August,Apparel,UPI,186
+ATQCUS2015,July,Apparel,UPI,75
+ATQCUS0856,June,Apparel,Debit Card,194
+ATQCUS2352,July,Travel,Debit Card,165
+ATQCUS3005,September,Travel,Credit Card,4600
+ATQCUS3278,May,Bills,Debit Card,1133
+ATQCUS0971,August,Apparel,Credit Card,1069
+ATQCUS3547,May,Bills,Credit Card,2361
+ATQCUS2088,August,Travel,Debit Card,672
+ATQCUS1044,September,Entertainment,UPI,169
+ATQCUS3793,September,Bills,UPI,1974
+ATQCUS1896,August,Others,Debit Card,282
+ATQCUS2239,September,Health & Wellness,Net Banking,372
+ATQCUS2387,October,Bills,Debit Card,701
+ATQCUS1119,September,Groceries,Debit Card,1348
+ATQCUS0570,July,Food,UPI,440
+ATQCUS1859,May,Others,UPI,56
+ATQCUS0495,July,Bills,Credit Card,448
+ATQCUS0223,June,Bills,Net Banking,136
+ATQCUS2018,October,Electronics,Net Banking,132
+ATQCUS2172,May,Food,Net Banking,109
+ATQCUS0709,August,Apparel,Debit Card,427
+ATQCUS0414,October,Apparel,Net Banking,82
+ATQCUS3678,May,Groceries,Net Banking,499
+ATQCUS3470,September,Food,Net Banking,236
+ATQCUS3922,July,Health & Wellness,UPI,717
+ATQCUS3541,May,Apparel,Net Banking,40
+ATQCUS3293,June,Apparel,UPI,381
+ATQCUS2128,September,Others,Net Banking,114
+ATQCUS1107,July,Health & Wellness,UPI,328
+ATQCUS3970,June,Travel,UPI,507
+ATQCUS2569,August,Electronics,Debit Card,289
+ATQCUS2409,September,Apparel,Net Banking,144
+ATQCUS0420,September,Travel,Debit Card,448
+ATQCUS0490,May,Entertainment,Net Banking,246
+ATQCUS3560,May,Groceries,Net Banking,232
+ATQCUS1249,September,Food,Net Banking,109
+ATQCUS0360,June,Apparel,UPI,214
+ATQCUS3141,October,Others,Credit Card,252
+ATQCUS1882,September,Apparel,UPI,583
+ATQCUS1235,September,Travel,Net Banking,121
+ATQCUS2436,July,Travel,UPI,1140
+ATQCUS2139,October,Groceries,UPI,1722
+ATQCUS1312,July,Health & Wellness,Credit Card,1384
+ATQCUS1877,October,Health & Wellness,Net Banking,631
+ATQCUS1932,October,Entertainment,UPI,1831
+ATQCUS3391,August,Travel,Net Banking,124
+ATQCUS0400,October,Entertainment,Debit Card,100
+ATQCUS3920,June,Health & Wellness,Credit Card,1152
+ATQCUS2011,September,Entertainment,Net Banking,241
+ATQCUS2310,May,Travel,Debit Card,375
+ATQCUS0985,October,Health & Wellness,UPI,190
+ATQCUS2136,October,Entertainment,Credit Card,488
+ATQCUS2089,July,Apparel,Net Banking,72
+ATQCUS1053,June,Apparel,Credit Card,370
+ATQCUS2961,July,Food,Debit Card,371
+ATQCUS2020,July,Apparel,UPI,92
+ATQCUS2024,August,Apparel,Debit Card,68
+ATQCUS1071,June,Travel,Net Banking,89
+ATQCUS0753,October,Food,Credit Card,1219
+ATQCUS3004,May,Groceries,Debit Card,705
+ATQCUS1761,October,Others,Net Banking,39
+ATQCUS1999,June,Entertainment,UPI,335
+ATQCUS1600,June,Electronics,Net Banking,119
+ATQCUS0282,May,Electronics,Debit Card,390
+ATQCUS3539,August,Travel,Credit Card,1322
+ATQCUS0421,September,Electronics,Debit Card,477
+ATQCUS1599,June,Travel,Credit Card,2519
+ATQCUS0100,May,Travel,UPI,172
+ATQCUS2787,May,Apparel,Credit Card,1181
+ATQCUS3175,June,Apparel,Net Banking,95
+ATQCUS2513,September,Groceries,Debit Card,140
+ATQCUS2907,August,Travel,Credit Card,940
+ATQCUS2368,October,Food,Net Banking,90
+ATQCUS0088,October,Health & Wellness,Debit Card,507
+ATQCUS1064,July,Apparel,Credit Card,259
+ATQCUS2169,May,Entertainment,Debit Card,167
+ATQCUS3006,September,Groceries,Net Banking,1571
+ATQCUS0314,May,Travel,UPI,587
+ATQCUS1741,May,Bills,Net Banking,452
+ATQCUS1468,May,Entertainment,Credit Card,553
+ATQCUS0240,September,Electronics,Credit Card,1188
+ATQCUS2951,October,Entertainment,Net Banking,76
+ATQCUS0618,September,Travel,UPI,1054
+ATQCUS3401,October,Apparel,Net Banking,119
+ATQCUS2256,August,Food,Net Banking,204
+ATQCUS0004,September,Health & Wellness,Credit Card,4878
+ATQCUS3363,August,Health & Wellness,Debit Card,613
+ATQCUS1676,October,Electronics,Debit Card,217
+ATQCUS1376,October,Apparel,Debit Card,247
+ATQCUS1441,May,Electronics,UPI,467
+ATQCUS2439,August,Health & Wellness,Credit Card,1253
+ATQCUS0062,May,Travel,Net Banking,132
+ATQCUS0876,July,Apparel,UPI,635
+ATQCUS1802,August,Health & Wellness,Debit Card,418
+ATQCUS2131,August,Travel,Credit Card,1066
+ATQCUS2713,July,Health & Wellness,Credit Card,197
+ATQCUS0401,September,Travel,Debit Card,784
+ATQCUS0245,October,Travel,Credit Card,765
+ATQCUS3099,September,Food,Credit Card,1367
+ATQCUS3220,October,Groceries,UPI,2335
+ATQCUS0613,May,Travel,Debit Card,208
+ATQCUS3780,May,Bills,Credit Card,841
+ATQCUS1682,August,Groceries,Credit Card,3128
+ATQCUS1947,May,Apparel,Debit Card,127
+ATQCUS2161,October,Bills,Debit Card,465
+ATQCUS3326,May,Electronics,Net Banking,231
+ATQCUS3505,July,Groceries,Net Banking,368
+ATQCUS3711,August,Travel,Net Banking,557
+ATQCUS0003,June,Others,Net Banking,62
+ATQCUS0836,May,Apparel,Debit Card,109
+ATQCUS0116,October,Bills,UPI,316
+ATQCUS1830,June,Groceries,UPI,1751
+ATQCUS3803,October,Entertainment,Debit Card,412
+ATQCUS3260,June,Bills,Credit Card,246
+ATQCUS0430,September,Entertainment,Net Banking,71
+ATQCUS3110,May,Entertainment,UPI,216
+ATQCUS3660,October,Electronics,Net Banking,255
+ATQCUS1889,October,Others,Debit Card,137
+ATQCUS0343,May,Travel,UPI,1009
+ATQCUS3919,August,Apparel,Net Banking,73
+ATQCUS1593,October,Food,Net Banking,115
+ATQCUS3536,August,Apparel,Debit Card,1285
+ATQCUS3047,May,Others,Debit Card,51
+ATQCUS2794,October,Bills,Credit Card,3498
+ATQCUS0677,September,Health & Wellness,Net Banking,732
+ATQCUS2587,October,Travel,Debit Card,271
+ATQCUS0899,September,Health & Wellness,Net Banking,894
+ATQCUS3100,September,Travel,UPI,1272
+ATQCUS0666,June,Groceries,Debit Card,823
+ATQCUS0376,June,Apparel,UPI,162
+ATQCUS1193,October,Electronics,Net Banking,391
+ATQCUS3048,May,Groceries,Debit Card,1704
+ATQCUS3172,September,Groceries,Credit Card,4027
+ATQCUS0992,October,Travel,UPI,304
+ATQCUS0015,October,Bills,Net Banking,308
+ATQCUS3569,July,Health & Wellness,Net Banking,194
+ATQCUS0993,October,Health & Wellness,UPI,223
+ATQCUS3398,September,Travel,UPI,540
+ATQCUS2442,June,Groceries,UPI,717
+ATQCUS1006,June,Entertainment,UPI,1430
+ATQCUS3982,June,Groceries,Credit Card,764
+ATQCUS2936,October,Bills,Credit Card,1326
+ATQCUS0008,May,Groceries,Debit Card,262
+ATQCUS2586,October,Food,UPI,1144
+ATQCUS1824,July,Bills,Net Banking,362
+ATQCUS0150,July,Food,UPI,373
+ATQCUS2702,September,Electronics,UPI,213
+ATQCUS2178,October,Food,Net Banking,89
+ATQCUS1735,October,Others,Debit Card,93
+ATQCUS1068,June,Travel,Net Banking,79
+ATQCUS0523,July,Travel,Net Banking,338
+ATQCUS0690,September,Health & Wellness,Credit Card,1611
+ATQCUS3075,September,Health & Wellness,Debit Card,778
+ATQCUS0151,August,Others,UPI,122
+ATQCUS3224,October,Others,UPI,189
+ATQCUS3758,July,Apparel,UPI,103
+ATQCUS3402,May,Electronics,Net Banking,89
+ATQCUS3708,August,Others,Net Banking,44
+ATQCUS1935,October,Food,UPI,1124
+ATQCUS2342,October,Others,Credit Card,116
+ATQCUS2585,July,Groceries,UPI,802
+ATQCUS1330,May,Bills,Credit Card,2150
+ATQCUS0159,September,Groceries,Credit Card,1942
+ATQCUS3066,October,Apparel,Credit Card,308
+ATQCUS3228,September,Electronics,UPI,583
+ATQCUS2500,October,Travel,UPI,169
+ATQCUS0871,October,Entertainment,Debit Card,134
+ATQCUS0258,August,Health & Wellness,UPI,530
+ATQCUS1196,October,Health & Wellness,Net Banking,344
+ATQCUS2276,September,Travel,Net Banking,179
+ATQCUS3887,August,Others,UPI,447
+ATQCUS3211,July,Bills,Debit Card,1067
+ATQCUS2338,September,Groceries,Net Banking,316
+ATQCUS3733,October,Entertainment,Net Banking,133
+ATQCUS3023,August,Health & Wellness,UPI,1123
+ATQCUS3745,August,Bills,UPI,309
+ATQCUS0591,July,Others,UPI,192
+ATQCUS1041,June,Groceries,UPI,204
+ATQCUS2830,October,Bills,Net Banking,1025
+ATQCUS2841,August,Food,Debit Card,277
+ATQCUS0464,June,Health & Wellness,UPI,270
+ATQCUS2291,May,Health & Wellness,Debit Card,403
+ATQCUS1316,August,Entertainment,Debit Card,613
+ATQCUS3121,June,Bills,UPI,2693
+ATQCUS0632,September,Apparel,Credit Card,528
+ATQCUS1500,May,Travel,Debit Card,367
+ATQCUS2785,July,Others,Credit Card,256
+ATQCUS2645,October,Travel,Debit Card,349
+ATQCUS2373,June,Groceries,UPI,737
+ATQCUS2047,August,Health & Wellness,Net Banking,120
+ATQCUS0213,October,Electronics,UPI,869
+ATQCUS1337,September,Apparel,UPI,198
+ATQCUS3556,May,Apparel,Credit Card,483
+ATQCUS2493,June,Others,UPI,103
+ATQCUS2364,July,Bills,Credit Card,575
+ATQCUS0136,July,Electronics,UPI,1080
+ATQCUS3167,May,Electronics,Net Banking,126
+ATQCUS0555,September,Apparel,Debit Card,177
+ATQCUS2287,October,Food,Net Banking,254
+ATQCUS0653,May,Groceries,Debit Card,1466
+ATQCUS3906,July,Groceries,Credit Card,1097
+ATQCUS1393,September,Apparel,Debit Card,466
+ATQCUS1504,October,Entertainment,UPI,746
+ATQCUS3897,August,Apparel,UPI,438
+ATQCUS0762,August,Health & Wellness,Debit Card,2181
+ATQCUS0768,June,Apparel,Debit Card,346
+ATQCUS1343,July,Groceries,Credit Card,969
+ATQCUS0342,July,Travel,UPI,694
+ATQCUS1628,June,Food,UPI,660
+ATQCUS0974,June,Apparel,UPI,239
+ATQCUS1277,May,Food,Net Banking,105
+ATQCUS2278,August,Groceries,Credit Card,1335
+ATQCUS2950,October,Groceries,Net Banking,354
+ATQCUS0059,September,Entertainment,Debit Card,319
+ATQCUS3579,June,Travel,UPI,1020
+ATQCUS3289,July,Health & Wellness,Net Banking,146
+ATQCUS3901,May,Groceries,Debit Card,1452
+ATQCUS1422,July,Health & Wellness,Debit Card,285
+ATQCUS2065,July,Entertainment,Debit Card,275
+ATQCUS0802,August,Travel,UPI,636
+ATQCUS2140,June,Travel,UPI,148
+ATQCUS1647,June,Groceries,Credit Card,597
+ATQCUS0109,July,Entertainment,Net Banking,186
+ATQCUS2782,June,Apparel,Debit Card,235
+ATQCUS2786,October,Entertainment,Credit Card,361
+ATQCUS2862,September,Electronics,Credit Card,2403
+ATQCUS2223,July,Food,Net Banking,234
+ATQCUS1399,June,Apparel,Net Banking,229
+ATQCUS0805,September,Food,Debit Card,498
+ATQCUS2215,July,Bills,Credit Card,968
+ATQCUS3473,September,Groceries,UPI,426
+ATQCUS2556,August,Travel,Net Banking,263
+ATQCUS0047,August,Others,Debit Card,111
+ATQCUS0027,May,Apparel,Debit Card,285
+ATQCUS3437,September,Groceries,Net Banking,629
+ATQCUS3132,September,Electronics,UPI,1212
+ATQCUS3435,May,Food,Net Banking,296
+ATQCUS1614,August,Electronics,Net Banking,611
+ATQCUS0304,May,Health & Wellness,Credit Card,647
+ATQCUS2903,August,Apparel,UPI,795
+ATQCUS1037,August,Others,Net Banking,89
+ATQCUS3375,July,Travel,Debit Card,97
+ATQCUS2406,June,Groceries,Net Banking,224
+ATQCUS3955,June,Groceries,UPI,749
+ATQCUS0507,June,Apparel,Credit Card,230
+ATQCUS1047,July,Food,UPI,418
+ATQCUS2861,May,Bills,Debit Card,1023
+ATQCUS0346,July,Electronics,Credit Card,984
+ATQCUS2243,September,Others,Net Banking,108
+ATQCUS3847,September,Entertainment,Net Banking,62
+ATQCUS0079,August,Bills,Net Banking,92
+ATQCUS0232,October,Others,Credit Card,308
+ATQCUS2591,September,Groceries,Credit Card,3400
+ATQCUS2503,August,Travel,Debit Card,316
+ATQCUS1491,October,Travel,UPI,570
+ATQCUS0337,June,Health & Wellness,Net Banking,157
+ATQCUS1085,October,Entertainment,Debit Card,96
+ATQCUS2592,October,Food,Net Banking,96
+ATQCUS0217,July,Groceries,Credit Card,1275
+ATQCUS0026,August,Electronics,UPI,360
+ATQCUS2777,September,Bills,UPI,516
+ATQCUS0906,August,Groceries,Net Banking,131
+ATQCUS2039,August,Entertainment,UPI,1349
+ATQCUS1163,May,Entertainment,Net Banking,42
+ATQCUS2283,May,Groceries,Net Banking,230
+ATQCUS2268,June,Apparel,Credit Card,149
+ATQCUS0878,August,Groceries,Net Banking,329
+ATQCUS0852,May,Travel,Credit Card,417
+ATQCUS3663,August,Others,Debit Card,114
+ATQCUS1419,May,Bills,Credit Card,1107
+ATQCUS3397,May,Apparel,Debit Card,239
+ATQCUS3898,July,Travel,UPI,264
+ATQCUS2424,October,Entertainment,Net Banking,159
+ATQCUS1122,July,Entertainment,Credit Card,679
+ATQCUS1803,July,Electronics,Net Banking,241
+ATQCUS1968,August,Entertainment,Net Banking,129
+ATQCUS0375,July,Apparel,Credit Card,724
+ATQCUS0911,September,Health & Wellness,Debit Card,325
+ATQCUS3823,May,Entertainment,Debit Card,139
+ATQCUS2740,June,Health & Wellness,UPI,246
+ATQCUS0117,May,Travel,Net Banking,236
+ATQCUS3932,October,Travel,Debit Card,1072
+ATQCUS0837,August,Health & Wellness,Net Banking,242
+ATQCUS3128,September,Electronics,UPI,838
+ATQCUS2067,May,Bills,UPI,1208
+ATQCUS0819,June,Health & Wellness,UPI,306
+ATQCUS0842,October,Electronics,Debit Card,816
+ATQCUS2269,October,Electronics,UPI,1079
+ATQCUS0146,September,Entertainment,Debit Card,294
+ATQCUS3313,May,Others,Debit Card,44
+ATQCUS2718,June,Travel,Credit Card,1512
+ATQCUS1380,May,Travel,UPI,334
+ATQCUS2723,September,Groceries,UPI,3709
+ATQCUS2975,September,Food,UPI,1605
+ATQCUS0355,September,Bills,UPI,1576
+ATQCUS3748,June,Others,Net Banking,67
+ATQCUS1925,June,Food,Debit Card,286
+ATQCUS3810,October,Entertainment,Debit Card,217
+ATQCUS1622,June,Groceries,Debit Card,422
+ATQCUS2129,October,Electronics,UPI,827
+ATQCUS2559,October,Food,Credit Card,276
+ATQCUS2028,September,Entertainment,Net Banking,73
+ATQCUS3728,September,Health & Wellness,UPI,321
+ATQCUS2415,May,Groceries,Credit Card,405
+ATQCUS2063,August,Apparel,UPI,1280
+ATQCUS1888,June,Food,Credit Card,318
+ATQCUS2358,September,Others,Net Banking,33
+ATQCUS0847,September,Groceries,Net Banking,587
+ATQCUS0893,July,Bills,Net Banking,917
+ATQCUS2748,June,Travel,Net Banking,140
+ATQCUS3436,August,Food,UPI,678
+ATQCUS2382,August,Travel,Credit Card,973
+ATQCUS3707,October,Apparel,UPI,527
+ATQCUS2838,October,Apparel,UPI,339
+ATQCUS1831,June,Groceries,Credit Card,161
+ATQCUS2660,August,Others,Debit Card,87
+ATQCUS3297,August,Entertainment,Net Banking,311
+ATQCUS1723,October,Electronics,Debit Card,453
+ATQCUS3607,August,Electronics,Net Banking,243
+ATQCUS0541,July,Food,Debit Card,146
+ATQCUS3673,June,Bills,Credit Card,1257
+ATQCUS3718,September,Health & Wellness,Debit Card,834
+ATQCUS3291,August,Health & Wellness,UPI,265
+ATQCUS2625,May,Travel,Credit Card,275
+ATQCUS3944,June,Apparel,Net Banking,177
+ATQCUS3208,August,Bills,Debit Card,965
+ATQCUS2574,June,Groceries,Net Banking,83
+ATQCUS1920,October,Travel,Credit Card,780
+ATQCUS0208,October,Entertainment,Debit Card,229
+ATQCUS3237,September,Electronics,Debit Card,504
+ATQCUS3989,May,Bills,Debit Card,589
+ATQCUS3124,September,Groceries,Credit Card,1477
+ATQCUS1904,September,Groceries,Net Banking,445
+ATQCUS1749,August,Electronics,Debit Card,1436
+ATQCUS3299,October,Food,UPI,843
+ATQCUS2506,September,Bills,Credit Card,3918
+ATQCUS2873,June,Electronics,Debit Card,432
+ATQCUS0732,October,Entertainment,Debit Card,1225
+ATQCUS3416,May,Groceries,Credit Card,589
+ATQCUS1927,August,Travel,Net Banking,108
+ATQCUS0499,May,Travel,Debit Card,61
+ATQCUS0542,May,Food,Net Banking,175
+ATQCUS0920,September,Electronics,Credit Card,1286
+ATQCUS0193,August,Entertainment,Net Banking,115
+ATQCUS0551,July,Health & Wellness,Net Banking,102
+ATQCUS2109,September,Travel,Credit Card,1576
+ATQCUS0224,June,Electronics,Net Banking,247
+ATQCUS3466,October,Entertainment,Debit Card,577
+ATQCUS3964,June,Travel,Debit Card,320
+ATQCUS1032,June,Health & Wellness,Debit Card,465
+ATQCUS2033,May,Bills,Credit Card,1540
+ATQCUS3169,June,Travel,Credit Card,442
+ATQCUS3481,May,Entertainment,Credit Card,113
+ATQCUS3963,July,Health & Wellness,Debit Card,496
+ATQCUS3324,June,Groceries,Net Banking,205
+ATQCUS1359,October,Groceries,Debit Card,290
+ATQCUS1169,September,Food,Net Banking,141
+ATQCUS2806,July,Food,UPI,632
+ATQCUS2134,June,Bills,UPI,359
+ATQCUS3449,May,Electronics,Debit Card,275
+ATQCUS2469,May,Others,Net Banking,27
+ATQCUS0060,August,Groceries,Debit Card,1959
+ATQCUS0134,June,Groceries,Credit Card,530
+ATQCUS2487,June,Groceries,Net Banking,92
+ATQCUS0892,May,Groceries,UPI,2034
+ATQCUS0734,October,Food,Debit Card,390
+ATQCUS0765,May,Food,Debit Card,288
+ATQCUS1451,August,Groceries,Net Banking,661
+ATQCUS1797,June,Groceries,UPI,235
+ATQCUS2206,July,Entertainment,UPI,1570
+ATQCUS0620,July,Food,Debit Card,354
+ATQCUS1659,July,Entertainment,Credit Card,360
+ATQCUS0516,August,Others,Credit Card,887
+ATQCUS0164,August,Entertainment,Credit Card,566
+ATQCUS0659,June,Travel,Net Banking,194
+ATQCUS0780,September,Bills,Net Banking,591
+ATQCUS1135,August,Electronics,Net Banking,129
+ATQCUS3930,August,Apparel,UPI,402
+ATQCUS3078,October,Health & Wellness,Debit Card,455
+ATQCUS1132,September,Food,UPI,341
+ATQCUS1397,August,Bills,Debit Card,764
+ATQCUS2737,May,Apparel,UPI,238
+ATQCUS2146,October,Groceries,UPI,691
+ATQCUS3600,June,Groceries,Credit Card,159
+ATQCUS2202,August,Travel,UPI,382
+ATQCUS1563,May,Electronics,Net Banking,149
+ATQCUS2831,June,Groceries,Net Banking,922
+ATQCUS1344,August,Travel,Net Banking,158
+ATQCUS3836,September,Entertainment,Credit Card,464
+ATQCUS3801,July,Bills,Net Banking,133
+ATQCUS0726,August,Bills,Credit Card,1391
+ATQCUS0498,June,Electronics,Net Banking,245
+ATQCUS3372,July,Electronics,UPI,1711
+ATQCUS0239,October,Groceries,Net Banking,52
+ATQCUS2759,June,Entertainment,Net Banking,63
+ATQCUS0451,June,Health & Wellness,Credit Card,299
+ATQCUS2340,October,Entertainment,UPI,169
+ATQCUS3565,June,Electronics,Credit Card,814
+ATQCUS0904,May,Travel,Credit Card,1005
+ATQCUS3306,July,Bills,Net Banking,1278
+ATQCUS1402,July,Food,UPI,152
+ATQCUS0861,July,Apparel,Net Banking,207
+ATQCUS3026,July,Health & Wellness,UPI,252
+ATQCUS2764,October,Food,Credit Card,571
+ATQCUS2601,June,Groceries,Net Banking,378
+ATQCUS1987,August,Others,Debit Card,127
+ATQCUS0518,August,Travel,Debit Card,705
+ATQCUS2474,October,Electronics,Debit Card,379
+ATQCUS1822,October,Others,UPI,267
+ATQCUS1476,May,Bills,UPI,276
+ATQCUS3827,September,Health & Wellness,Credit Card,4353
+ATQCUS3627,September,Health & Wellness,Credit Card,5008
+ATQCUS1433,June,Travel,Debit Card,723
+ATQCUS0599,July,Others,Credit Card,446
+ATQCUS3450,June,Electronics,Credit Card,615
+ATQCUS0727,May,Health & Wellness,Net Banking,253
+ATQCUS0219,September,Apparel,Credit Card,1474
+ATQCUS3567,August,Entertainment,Net Banking,285
+ATQCUS1057,August,Travel,Debit Card,102
+ATQCUS3676,October,Travel,Net Banking,118
+ATQCUS1334,September,Entertainment,UPI,186
+ATQCUS1444,July,Bills,UPI,164
+ATQCUS0772,May,Apparel,Net Banking,53
+ATQCUS2106,May,Entertainment,UPI,172
+ATQCUS3329,May,Travel,UPI,564
+ATQCUS0330,July,Bills,UPI,1499
+ATQCUS1823,September,Others,Net Banking,123
+ATQCUS2280,September,Entertainment,Credit Card,652
+ATQCUS3928,July,Bills,Debit Card,2552
+ATQCUS1453,July,Food,UPI,375
+ATQCUS1110,September,Groceries,Credit Card,120
+ATQCUS3501,August,Apparel,Debit Card,162
+ATQCUS0853,July,Apparel,Credit Card,757
+ATQCUS1431,October,Travel,UPI,749
+ATQCUS0040,June,Others,Net Banking,42
+ATQCUS1461,May,Travel,Debit Card,349
+ATQCUS0076,May,Entertainment,UPI,137
+ATQCUS3763,September,Entertainment,UPI,412
+ATQCUS0053,October,Electronics,Net Banking,146
+ATQCUS0508,May,Electronics,Credit Card,640
+ATQCUS0790,October,Health & Wellness,UPI,870
+ATQCUS0214,July,Bills,Net Banking,231
+ATQCUS1162,May,Electronics,Net Banking,239
+ATQCUS1826,September,Apparel,Debit Card,85
+ATQCUS2651,October,Groceries,UPI,1454
+ATQCUS1412,October,Entertainment,UPI,504
+ATQCUS1876,September,Others,Net Banking,32
+ATQCUS1315,September,Groceries,Net Banking,296
+ATQCUS3312,September,Health & Wellness,UPI,545
+ATQCUS2792,October,Entertainment,Debit Card,183
+ATQCUS2869,September,Health & Wellness,Credit Card,4020
+ATQCUS2919,August,Food,Debit Card,413
+ATQCUS0924,July,Apparel,Net Banking,89
+ATQCUS1296,July,Travel,UPI,172
+ATQCUS1008,September,Electronics,Debit Card,478
+ATQCUS3442,July,Apparel,UPI,104
+ATQCUS2813,September,Travel,Net Banking,154
+ATQCUS2658,October,Bills,Net Banking,544
+ATQCUS3603,May,Travel,Credit Card,1827
+ATQCUS1913,September,Others,Credit Card,242
+ATQCUS0185,May,Electronics,Credit Card,551
+ATQCUS0154,June,Apparel,Credit Card,535
+ATQCUS2656,September,Travel,Credit Card,3451
+ATQCUS0776,May,Others,Credit Card,146
+ATQCUS3880,October,Apparel,Net Banking,338
+ATQCUS3698,September,Others,UPI,139
+ATQCUS2330,July,Entertainment,Net Banking,98
+ATQCUS3044,May,Health & Wellness,UPI,825
+ATQCUS1140,July,Bills,Credit Card,2244
+ATQCUS2618,July,Others,UPI,138
+ATQCUS1202,September,Electronics,Net Banking,464
+ATQCUS2253,August,Health & Wellness,Credit Card,870
+ATQCUS0209,September,Groceries,Net Banking,123
+ATQCUS0009,October,Entertainment,Debit Card,62
+ATQCUS1001,August,Health & Wellness,Credit Card,1027
+ATQCUS3386,October,Bills,Debit Card,834
+ATQCUS2977,June,Travel,Net Banking,554
+ATQCUS1307,May,Electronics,UPI,150
+ATQCUS0519,September,Apparel,UPI,456
+ATQCUS1537,July,Travel,UPI,574
+ATQCUS0381,August,Others,UPI,100
+ATQCUS2729,September,Travel,Credit Card,849
+ATQCUS3984,July,Health & Wellness,Credit Card,470
+ATQCUS2327,July,Travel,UPI,367
+ATQCUS3302,May,Health & Wellness,Debit Card,138
+ATQCUS0791,July,Bills,Credit Card,1877
+ATQCUS0133,June,Food,UPI,491
+ATQCUS1223,July,Food,UPI,979
+ATQCUS0415,October,Food,UPI,1157
+ATQCUS1239,June,Bills,UPI,1045
+ATQCUS0648,August,Bills,Credit Card,2285
+ATQCUS3221,May,Travel,Net Banking,249
+ATQCUS2761,September,Health & Wellness,Net Banking,587
+ATQCUS3612,June,Apparel,UPI,482
+ATQCUS2596,June,Electronics,Credit Card,2694
+ATQCUS0771,October,Entertainment,Net Banking,148
+ATQCUS0979,September,Health & Wellness,UPI,391
+ATQCUS1435,June,Health & Wellness,Net Banking,83
+ATQCUS3305,October,Entertainment,UPI,140
+ATQCUS3394,May,Health & Wellness,Net Banking,197
+ATQCUS0487,October,Health & Wellness,Credit Card,639
+ATQCUS0886,October,Electronics,Debit Card,832
+ATQCUS0527,August,Bills,Net Banking,577
+ATQCUS0363,June,Others,UPI,340
+ATQCUS1692,July,Electronics,Credit Card,1104
+ATQCUS3464,August,Apparel,Debit Card,294
+ATQCUS1566,June,Health & Wellness,Net Banking,455
+ATQCUS1842,October,Health & Wellness,Credit Card,525
+ATQCUS1186,May,Bills,Credit Card,3825
+ATQCUS0849,October,Travel,UPI,1125
+ATQCUS0706,September,Apparel,UPI,429
+ATQCUS1236,September,Electronics,Debit Card,1863
+ATQCUS2826,July,Entertainment,Credit Card,722
+ATQCUS0340,August,Apparel,Net Banking,91
+ATQCUS1900,May,Bills,Debit Card,754
+ATQCUS0203,October,Health & Wellness,Net Banking,721
+ATQCUS0658,July,Apparel,Debit Card,166
+ATQCUS3162,August,Food,Credit Card,1175
+ATQCUS0042,October,Electronics,Debit Card,486
+ATQCUS3314,May,Entertainment,Credit Card,444
+ATQCUS3286,June,Others,Credit Card,123
+ATQCUS3914,July,Groceries,Credit Card,3225
+ATQCUS0828,June,Travel,Credit Card,1045
+ATQCUS1790,August,Others,UPI,408
+ATQCUS2822,August,Entertainment,Debit Card,157
+ATQCUS1917,June,Bills,Debit Card,389
+ATQCUS1933,July,Entertainment,Debit Card,185
+ATQCUS2835,June,Others,Credit Card,215
+ATQCUS1446,October,Travel,Net Banking,89
+ATQCUS1489,July,Health & Wellness,Credit Card,3669
+ATQCUS2428,October,Health & Wellness,Net Banking,278
+ATQCUS3488,May,Groceries,Credit Card,581
+ATQCUS0962,June,Others,UPI,308
+ATQCUS2546,May,Entertainment,Credit Card,607
+ATQCUS3971,August,Others,Credit Card,337
+ATQCUS0770,June,Bills,Net Banking,224
+ATQCUS2160,June,Travel,Debit Card,1013
+ATQCUS0975,August,Electronics,Debit Card,535
+ATQCUS2217,June,Electronics,Credit Card,2811
+ATQCUS3741,June,Apparel,Debit Card,420
+ATQCUS3407,July,Entertainment,Net Banking,43
+ATQCUS2948,June,Others,UPI,146
+ATQCUS3021,July,Groceries,Credit Card,634
+ATQCUS1123,September,Others,Credit Card,533
+ATQCUS3485,May,Electronics,Credit Card,182
+ATQCUS0438,August,Others,UPI,98
+ATQCUS0874,August,Food,Debit Card,404
+ATQCUS2413,July,Travel,Debit Card,238
+ATQCUS1274,September,Food,UPI,1979
+ATQCUS0626,October,Electronics,Credit Card,3903
+ATQCUS1630,October,Apparel,UPI,467
+ATQCUS3230,October,Others,UPI,148
+ATQCUS3120,July,Health & Wellness,UPI,914
+ATQCUS2706,September,Apparel,UPI,163
+ATQCUS0818,August,Health & Wellness,Net Banking,336
+ATQCUS2635,October,Electronics,Debit Card,907
+ATQCUS3830,August,Food,Net Banking,351
+ATQCUS2840,October,Apparel,Net Banking,270
+ATQCUS1642,September,Travel,Debit Card,195
+ATQCUS1024,June,Travel,Credit Card,1090
+ATQCUS1893,June,Health & Wellness,Net Banking,59
+ATQCUS3557,August,Travel,Credit Card,1799
+ATQCUS3888,September,Health & Wellness,UPI,2086
+ATQCUS2229,September,Apparel,UPI,198
+ATQCUS3833,August,Others,Debit Card,124
+ATQCUS1755,August,Food,UPI,1211
+ATQCUS2179,June,Health & Wellness,UPI,406
+ATQCUS0530,September,Entertainment,Credit Card,306
+ATQCUS0463,October,Travel,Debit Card,265
+ATQCUS0195,September,Bills,Net Banking,1440
+ATQCUS0671,July,Food,Debit Card,454
+ATQCUS3322,October,Entertainment,Credit Card,301
+ATQCUS2080,May,Others,UPI,121
+ATQCUS0427,May,Travel,Net Banking,89
+ATQCUS0720,July,Entertainment,UPI,62
+ATQCUS1839,May,Others,UPI,117
+ATQCUS2248,July,Others,Net Banking,61
+ATQCUS0107,August,Apparel,Debit Card,181
+ATQCUS0769,October,Travel,UPI,655
+ATQCUS0638,July,Electronics,Debit Card,368
+ATQCUS0325,September,Groceries,UPI,1900
+ATQCUS3176,June,Bills,Debit Card,996
+ATQCUS1108,May,Travel,Credit Card,199
+ATQCUS1471,August,Entertainment,Net Banking,72
+ATQCUS3202,August,Health & Wellness,Net Banking,110
+ATQCUS1533,September,Travel,UPI,1001
+ATQCUS3734,August,Electronics,Credit Card,4443
+ATQCUS3053,September,Travel,Net Banking,181
+ATQCUS1705,July,Others,Debit Card,124
+ATQCUS1124,October,Entertainment,UPI,483
+ATQCUS3561,May,Travel,Net Banking,91
+ATQCUS0935,October,Entertainment,Net Banking,106
+ATQCUS1562,July,Entertainment,Debit Card,321
+ATQCUS2889,June,Groceries,UPI,1387
+ATQCUS1667,September,Others,Debit Card,190
+ATQCUS3687,June,Bills,Debit Card,1192
+ATQCUS2716,June,Bills,UPI,939
+ATQCUS3126,August,Electronics,Debit Card,574
+ATQCUS0711,July,Apparel,Net Banking,233
+ATQCUS3738,May,Health & Wellness,Net Banking,56
+ATQCUS2629,May,Groceries,UPI,2461
+ATQCUS1986,May,Groceries,Credit Card,511
+ATQCUS2227,June,Food,Net Banking,444
+ATQCUS1232,September,Groceries,Debit Card,1375
+ATQCUS1159,June,Others,UPI,126
+ATQCUS1603,June,Others,Credit Card,191
+ATQCUS0428,August,Health & Wellness,UPI,784
+ATQCUS0234,September,Entertainment,UPI,2529
+ATQCUS3131,June,Health & Wellness,Debit Card,459
+ATQCUS1738,October,Apparel,Net Banking,71
+ATQCUS0247,August,Food,Credit Card,729
+ATQCUS0977,August,Food,Credit Card,1751
+ATQCUS2560,August,Health & Wellness,Debit Card,184
+ATQCUS2427,August,Electronics,Credit Card,1658
+ATQCUS1837,May,Travel,Credit Card,166
+ATQCUS2581,August,Bills,Net Banking,345
+ATQCUS0331,May,Entertainment,UPI,1495
+ATQCUS1957,September,Travel,UPI,587
+ATQCUS1696,July,Food,UPI,815
+ATQCUS2361,September,Health & Wellness,Credit Card,846
+ATQCUS0096,May,Groceries,UPI,1418
+ATQCUS3503,October,Apparel,Debit Card,235
+ATQCUS2519,September,Entertainment,Net Banking,236
+ATQCUS0724,May,Groceries,Debit Card,405
+ATQCUS0491,October,Health & Wellness,Debit Card,241
+ATQCUS1292,August,Groceries,Credit Card,1811
+ATQCUS3526,June,Food,Debit Card,404
+ATQCUS0309,June,Electronics,UPI,697
+ATQCUS1220,August,Food,Net Banking,120
+ATQCUS0673,August,Travel,Credit Card,2171
+ATQCUS2859,August,Bills,Debit Card,823
+ATQCUS3699,May,Groceries,Debit Card,527
+ATQCUS2960,October,Electronics,Credit Card,1754
+ATQCUS3018,August,Bills,UPI,1469
+ATQCUS2123,July,Others,Debit Card,193
+ATQCUS1329,June,Bills,Net Banking,54
+ATQCUS0273,September,Health & Wellness,UPI,1223
+ATQCUS0721,September,Bills,Credit Card,2602
+ATQCUS0737,October,Food,Net Banking,95
+ATQCUS1204,September,Health & Wellness,Net Banking,918
+ATQCUS0663,May,Electronics,UPI,726
+ATQCUS1144,July,Food,UPI,394
+ATQCUS2049,August,Bills,Net Banking,1188
+ATQCUS1205,October,Bills,Debit Card,147
+ATQCUS1878,October,Bills,Credit Card,1732
+ATQCUS0504,September,Others,UPI,357
+ATQCUS2944,July,Travel,Credit Card,1181
+ATQCUS1304,May,Travel,Net Banking,100
+ATQCUS1958,July,Groceries,Debit Card,515
+ATQCUS0821,July,Entertainment,Debit Card,166
+ATQCUS2495,September,Travel,Credit Card,1302
+ATQCUS3020,August,Apparel,Debit Card,106
+ATQCUS1261,September,Electronics,Debit Card,1385
+ATQCUS1034,May,Health & Wellness,UPI,1392
+ATQCUS3040,September,Bills,Credit Card,6347
+ATQCUS2833,June,Food,Net Banking,78
+ATQCUS0763,July,Others,Credit Card,101
+ATQCUS2677,May,Electronics,Net Banking,135
+ATQCUS2644,May,Health & Wellness,UPI,447
+ATQCUS1074,August,Bills,Debit Card,1171
+ATQCUS1321,May,Groceries,Net Banking,618
+ATQCUS2668,October,Health & Wellness,UPI,1406
+ATQCUS1733,August,Travel,UPI,645
+ATQCUS1526,September,Entertainment,Debit Card,202
+ATQCUS1708,July,Others,UPI,88
+ATQCUS2084,October,Entertainment,UPI,2159
+ATQCUS1129,July,Groceries,UPI,1404
+ATQCUS2091,September,Entertainment,UPI,236
+ATQCUS0969,August,Groceries,Net Banking,103
+ATQCUS3255,September,Entertainment,Credit Card,957
+ATQCUS2615,August,Entertainment,Credit Card,408
+ATQCUS3190,September,Food,UPI,639
+ATQCUS2537,May,Groceries,Net Banking,324
+ATQCUS1464,July,Others,Net Banking,81
+ATQCUS3980,August,Food,Net Banking,136
+ATQCUS3340,August,Bills,UPI,824
+ATQCUS2075,October,Travel,UPI,742
+ATQCUS2816,October,Travel,Debit Card,477
+ATQCUS2367,August,Entertainment,Debit Card,111
+ATQCUS3150,July,Health & Wellness,UPI,455
+ATQCUS2837,June,Apparel,Net Banking,64
+ATQCUS2575,October,Electronics,Net Banking,471
+ATQCUS0915,September,Entertainment,Debit Card,423
+ATQCUS3787,October,Apparel,UPI,353
+ATQCUS3103,July,Food,Net Banking,256
+ATQCUS2980,September,Health & Wellness,Net Banking,612
+ATQCUS3634,June,Electronics,Net Banking,514
+ATQCUS0132,August,Travel,UPI,554
+ATQCUS2064,October,Entertainment,Net Banking,123
+ATQCUS0704,October,Groceries,Debit Card,1821
+ATQCUS3482,June,Health & Wellness,Net Banking,47
+ATQCUS2724,May,Travel,Debit Card,120
+ATQCUS1077,September,Travel,Debit Card,638
+ATQCUS0685,June,Food,Debit Card,116
+ATQCUS2230,July,Bills,Net Banking,386
+ATQCUS1101,October,Travel,UPI,1346
+ATQCUS3214,August,Others,Credit Card,232
+ATQCUS0843,July,Food,Net Banking,325
+ATQCUS0531,July,Entertainment,Credit Card,132
+ATQCUS3186,September,Groceries,Net Banking,293
+ATQCUS3721,October,Food,UPI,352
+ATQCUS3454,September,Health & Wellness,UPI,213
+ATQCUS2696,May,Apparel,Net Banking,242
+ATQCUS0407,September,Food,Credit Card,335
+ATQCUS3119,June,Groceries,UPI,1421
+ATQCUS0866,June,Health & Wellness,Net Banking,114
+ATQCUS1394,August,Food,UPI,1548
+ATQCUS3521,October,Apparel,Net Banking,54
+ATQCUS1311,July,Groceries,Debit Card,515
+ATQCUS1374,September,Travel,Net Banking,143
+ATQCUS1481,May,Electronics,Debit Card,558
+ATQCUS3621,September,Apparel,UPI,279
+ATQCUS2241,June,Apparel,Net Banking,43
+ATQCUS3899,June,Groceries,Debit Card,372
+ATQCUS2962,May,Bills,UPI,1147
+ATQCUS3148,September,Groceries,Debit Card,1112
+ATQCUS1227,May,Apparel,UPI,241
+ATQCUS3277,July,Others,UPI,127
+ATQCUS1632,September,Health & Wellness,UPI,336
+ATQCUS2536,October,Groceries,Debit Card,443
+ATQCUS2911,July,Entertainment,UPI,158
+ATQCUS0808,May,Groceries,Net Banking,221
+ATQCUS3517,October,Others,Credit Card,289
+ATQCUS1387,September,Apparel,Debit Card,111
+ATQCUS3074,August,Groceries,Net Banking,712
+ATQCUS0161,July,Apparel,Net Banking,101
+ATQCUS0735,July,Food,Credit Card,420
+ATQCUS1040,July,Bills,Net Banking,773
+ATQCUS1570,August,Food,Net Banking,77
+ATQCUS0692,June,Groceries,Net Banking,445
+ATQCUS3637,September,Bills,Net Banking,510
+ATQCUS1317,August,Apparel,Debit Card,51
+ATQCUS3531,June,Apparel,Debit Card,767
+ATQCUS0859,October,Groceries,UPI,336
+ATQCUS2347,May,Others,Credit Card,326
+ATQCUS0393,September,Groceries,Credit Card,1653
+ATQCUS1185,May,Electronics,Net Banking,323
+ATQCUS1257,September,Health & Wellness,Net Banking,456
+ATQCUS2817,September,Health & Wellness,Debit Card,278
+ATQCUS0603,May,Entertainment,Net Banking,317
+ATQCUS3974,October,Electronics,Credit Card,1530
+ATQCUS2747,October,Travel,Net Banking,214
+ATQCUS0643,October,Health & Wellness,Debit Card,854
+ATQCUS2212,July,Bills,Credit Card,2043
+ATQCUS0462,July,Entertainment,UPI,321
+ATQCUS2393,October,Groceries,Debit Card,388
+ATQCUS2416,September,Apparel,UPI,813
+ATQCUS1513,May,Bills,Debit Card,169
+ATQCUS1787,June,Others,UPI,94
+ATQCUS3572,September,Groceries,Credit Card,965
+ATQCUS1215,October,Electronics,Credit Card,868
+ATQCUS1165,August,Bills,UPI,946
+ATQCUS0077,August,Apparel,Credit Card,925
+ATQCUS3661,May,Electronics,Debit Card,794
+ATQCUS2687,August,Apparel,Credit Card,341
+ATQCUS2927,July,Apparel,Debit Card,244
+ATQCUS3979,June,Groceries,UPI,1088
+ATQCUS3549,May,Travel,Credit Card,817
+ATQCUS3744,June,Travel,Debit Card,341
+ATQCUS1553,October,Apparel,Debit Card,534
+ATQCUS0481,September,Apparel,Credit Card,528
+ATQCUS0073,September,Entertainment,Credit Card,833
+ATQCUS1188,September,Travel,Credit Card,2449
+ATQCUS0782,July,Food,Credit Card,632
+ATQCUS1365,May,Travel,UPI,878
+ATQCUS2394,July,Others,Credit Card,318
+ATQCUS0143,October,Food,UPI,628
+ATQCUS0098,August,Others,Debit Card,234
+ATQCUS3292,August,Apparel,Credit Card,2491
+ATQCUS2756,June,Apparel,UPI,848
+ATQCUS3199,October,Food,Debit Card,291
+ATQCUS2878,May,Bills,UPI,615
+ATQCUS0688,May,Travel,UPI,657
+ATQCUS1988,May,Groceries,Net Banking,270
+ATQCUS2898,October,Others,Credit Card,144
+ATQCUS0662,May,Others,Net Banking,27
+ATQCUS2214,July,Entertainment,Debit Card,180
+ATQCUS1530,July,Travel,Debit Card,183
+ATQCUS2553,October,Apparel,Net Banking,177
+ATQCUS2410,September,Groceries,Debit Card,1125
+ATQCUS3408,June,Groceries,Credit Card,1260
+ATQCUS3737,June,Electronics,Net Banking,182
+ATQCUS0590,September,Food,UPI,1855
+ATQCUS0938,September,Bills,Net Banking,307
+ATQCUS1850,September,Others,UPI,220
+ATQCUS3692,August,Others,UPI,519
+ATQCUS2121,May,Entertainment,Credit Card,174
+ATQCUS1000,May,Travel,Net Banking,102
+ATQCUS0248,May,Bills,UPI,1023
+ATQCUS0111,June,Groceries,Net Banking,37
+ATQCUS1548,October,Others,Net Banking,35
+ATQCUS0857,June,Food,Debit Card,517
+ATQCUS3426,August,Apparel,Net Banking,60
+ATQCUS2561,June,Apparel,Debit Card,261
+ATQCUS1014,August,Bills,Net Banking,1103
+ATQCUS2083,September,Others,Debit Card,94
+ATQCUS1612,October,Food,Credit Card,329
+ATQCUS0995,July,Food,Debit Card,160
+ATQCUS3229,October,Apparel,Credit Card,663
+ATQCUS3796,June,Food,Credit Card,286
+ATQCUS3677,July,Apparel,Credit Card,258
+ATQCUS2680,May,Electronics,Net Banking,157
+ATQCUS3649,July,Health & Wellness,Net Banking,62
+ATQCUS3303,July,Bills,UPI,71
+ATQCUS1062,May,Entertainment,Debit Card,489
+ATQCUS0834,June,Entertainment,UPI,135
+ATQCUS0102,July,Entertainment,Credit Card,682
+ATQCUS1138,July,Travel,Debit Card,717
+ATQCUS3371,October,Groceries,Credit Card,1500
+ATQCUS3223,October,Groceries,Net Banking,238
+ATQCUS3978,October,Entertainment,Net Banking,266
+ATQCUS0075,August,Travel,Credit Card,3111
+ATQCUS3083,July,Bills,Debit Card,945
+ATQCUS0905,September,Travel,Debit Card,505
+ATQCUS1610,August,Apparel,Debit Card,82
+ATQCUS2726,September,Apparel,UPI,153
+ATQCUS3658,September,Groceries,UPI,885
+ATQCUS3770,May,Others,UPI,169
+ATQCUS2604,July,Groceries,Net Banking,639
+ATQCUS0809,June,Bills,Credit Card,1370
+ATQCUS2255,May,Entertainment,Debit Card,331
+ATQCUS3723,May,Apparel,Credit Card,112
+ATQCUS2839,October,Health & Wellness,UPI,85
+ATQCUS1244,October,Food,Credit Card,932
+ATQCUS2836,October,Bills,Net Banking,786
+ATQCUS3601,October,Food,Net Banking,142
+ATQCUS2856,May,Entertainment,Net Banking,52
+ATQCUS3774,August,Entertainment,Credit Card,802
+ATQCUS0440,October,Groceries,Debit Card,920
+ATQCUS0272,May,Bills,Credit Card,216
+ATQCUS3514,August,Bills,Net Banking,801
+ATQCUS0308,June,Entertainment,Net Banking,357
+ATQCUS3042,June,Groceries,Debit Card,633
+ATQCUS1698,June,Health & Wellness,Net Banking,255
+ATQCUS2846,August,Entertainment,UPI,275
+ATQCUS2959,August,Health & Wellness,Debit Card,549
+ATQCUS0121,July,Travel,Debit Card,468
+ATQCUS3740,May,Food,Credit Card,308
+ATQCUS1977,August,Bills,UPI,2471
+ATQCUS1669,September,Food,Credit Card,588
+ATQCUS3575,August,Others,Debit Card,258
+ATQCUS2097,July,Bills,UPI,1704
+ATQCUS2156,September,Others,Debit Card,185
+ATQCUS1336,May,Health & Wellness,Net Banking,577
+ATQCUS1093,May,Others,Net Banking,67
+ATQCUS2912,June,Groceries,UPI,956
+ATQCUS1411,August,Others,Net Banking,69
+ATQCUS2472,July,Entertainment,Debit Card,570
+ATQCUS0649,August,Others,UPI,165
+ATQCUS0994,June,Bills,UPI,2151
+ATQCUS1975,August,Health & Wellness,Debit Card,1349
+ATQCUS0007,October,Travel,Credit Card,790
+ATQCUS2234,June,Travel,Net Banking,218
+ATQCUS2399,June,Electronics,Credit Card,2620
+ATQCUS0445,July,Bills,Net Banking,241
+ATQCUS1297,July,Others,Credit Card,403
+ATQCUS1921,August,Others,Net Banking,69
+ATQCUS2797,October,Bills,Credit Card,1169
+ATQCUS3840,July,Bills,Net Banking,251
+ATQCUS3180,October,Health & Wellness,Debit Card,232
+ATQCUS2548,September,Groceries,Debit Card,753
+ATQCUS1594,June,Electronics,UPI,1266
+ATQCUS2832,May,Others,Credit Card,231
+ATQCUS3977,July,Groceries,UPI,686
+ATQCUS3019,August,Entertainment,UPI,106
+ATQCUS0561,June,Electronics,Credit Card,775
+ATQCUS3622,October,Travel,Credit Card,382
+ATQCUS2828,June,Food,Debit Card,190
+ATQCUS2734,October,Entertainment,UPI,409
+ATQCUS2209,September,Health & Wellness,UPI,252
+ATQCUS1714,May,Groceries,Debit Card,1374
+ATQCUS3236,October,Health & Wellness,Debit Card,175
+ATQCUS2939,September,Others,UPI,166
+ATQCUS1778,September,Electronics,UPI,900
+ATQCUS1099,October,Entertainment,UPI,175
+ATQCUS3808,August,Groceries,Debit Card,1879
+ATQCUS2345,August,Bills,UPI,651
+ATQCUS3512,October,Health & Wellness,UPI,430
+ATQCUS1985,June,Apparel,Debit Card,198
+ATQCUS1983,July,Food,Credit Card,416
+ATQCUS0885,October,Food,Net Banking,182
+ATQCUS3147,October,Apparel,Debit Card,123
+ATQCUS2481,May,Groceries,Debit Card,681
+ATQCUS3461,August,Others,UPI,263
+ATQCUS2076,July,Travel,Net Banking,32
+ATQCUS1781,July,Apparel,Net Banking,100
+ATQCUS0397,May,Health & Wellness,Debit Card,117
+ATQCUS3362,May,Groceries,UPI,1734
+ATQCUS0600,July,Bills,UPI,695
+ATQCUS1777,July,Apparel,UPI,133
+ATQCUS3316,October,Entertainment,UPI,238
+ATQCUS0157,September,Entertainment,Net Banking,144
+ATQCUS2730,July,Bills,UPI,477
+ATQCUS3008,September,Travel,UPI,586
+ATQCUS2441,July,Others,Debit Card,98
+ATQCUS0324,October,Electronics,Debit Card,284
+ATQCUS0233,May,Food,Credit Card,522
+ATQCUS1486,July,Others,Debit Card,85
+ATQCUS3491,October,Health & Wellness,Debit Card,1208
+ATQCUS2638,September,Health & Wellness,UPI,218
+ATQCUS3387,October,Electronics,Net Banking,134
+ATQCUS0633,August,Electronics,Debit Card,466
+ATQCUS1181,June,Others,UPI,115
+ATQCUS3616,August,Health & Wellness,UPI,1600
+ATQCUS2181,June,Electronics,Credit Card,216
+ATQCUS3334,September,Food,Debit Card,505
+ATQCUS3122,May,Groceries,Credit Card,425
+ATQCUS2445,August,Groceries,Net Banking,321
+ATQCUS2641,August,Health & Wellness,Credit Card,3280
+ATQCUS0646,May,Entertainment,Debit Card,256
+ATQCUS3947,May,Health & Wellness,Debit Card,264
+ATQCUS3304,May,Entertainment,Credit Card,197
+ATQCUS1937,June,Travel,UPI,331
+ATQCUS0867,June,Bills,Debit Card,2295
+ATQCUS0947,June,Apparel,Net Banking,17
+ATQCUS3490,August,Electronics,Credit Card,2639
+ATQCUS1940,May,Travel,Debit Card,114
+ATQCUS2857,September,Bills,Credit Card,684
+ATQCUS2704,May,Others,Credit Card,198
+ATQCUS1685,May,Electronics,UPI,308
+ATQCUS2796,August,Groceries,UPI,637
+ATQCUS1046,October,Travel,Debit Card,269
+ATQCUS2689,May,Apparel,Net Banking,83
+ATQCUS0266,August,Travel,Net Banking,245
+ATQCUS3522,June,Electronics,Net Banking,127
+ATQCUS1226,July,Apparel,Net Banking,37
+ATQCUS0432,May,Entertainment,Credit Card,379
+ATQCUS1674,September,Apparel,Net Banking,159
+ATQCUS0830,October,Travel,UPI,584
+ATQCUS1222,September,Apparel,Credit Card,678
+ATQCUS0005,June,Entertainment,UPI,189
+ATQCUS2946,May,Apparel,Net Banking,72
+ATQCUS3996,June,Groceries,Debit Card,1300
+ATQCUS2630,May,Bills,Net Banking,88
+ATQCUS2244,August,Bills,Credit Card,4779
+ATQCUS0811,May,Travel,Credit Card,917
+ATQCUS2372,September,Travel,Net Banking,363
+ATQCUS0297,August,Electronics,Net Banking,124
+ATQCUS2507,June,Food,Debit Card,82
+ATQCUS2157,June,Electronics,UPI,533
+ATQCUS3926,July,Groceries,Debit Card,234
+ATQCUS3684,June,Others,Debit Card,344
+ATQCUS0477,September,Groceries,Debit Card,3734
+ATQCUS3465,May,Others,Debit Card,68
+ATQCUS0754,July,Food,Debit Card,379
+ATQCUS1870,September,Apparel,Credit Card,492
+ATQCUS2509,June,Travel,Credit Card,522
+ATQCUS0377,May,Food,Debit Card,411
+ATQCUS2941,June,Others,Net Banking,134
+ATQCUS3570,August,Electronics,Net Banking,247
+ATQCUS0390,September,Food,Net Banking,534
+ATQCUS2875,September,Others,UPI,202
+ATQCUS1587,July,Bills,Debit Card,941
+ATQCUS2251,May,Electronics,Net Banking,411
+ATQCUS2402,June,Food,UPI,1151
+ATQCUS3240,August,Travel,Debit Card,450
+ATQCUS1012,September,Travel,UPI,391
+ATQCUS1066,July,Bills,Net Banking,544
+ATQCUS3151,May,Groceries,Debit Card,671
+ATQCUS1745,July,Others,Net Banking,32
+ATQCUS0949,October,Others,Credit Card,143
+ATQCUS1172,July,Bills,Credit Card,274
+ATQCUS0634,September,Electronics,Debit Card,576
+ATQCUS3747,July,Food,UPI,616
+ATQCUS1981,September,Food,Debit Card,304
+ATQCUS1313,August,Bills,UPI,1942
+ATQCUS0055,September,Electronics,Credit Card,4365
+ATQCUS2976,September,Others,Net Banking,56
+ATQCUS0188,August,Entertainment,UPI,334
+ATQCUS1702,June,Groceries,Credit Card,355
+ATQCUS2052,June,Others,Debit Card,208
+ATQCUS2703,October,Travel,Net Banking,126
+ATQCUS1221,August,Entertainment,Credit Card,778
+ATQCUS0152,May,Entertainment,UPI,935
+ATQCUS3805,August,Food,Net Banking,346
+ATQCUS1250,July,Others,Net Banking,43
+ATQCUS3170,June,Groceries,Credit Card,285
+ATQCUS2462,September,Bills,Credit Card,1320
+ATQCUS1472,September,Travel,Credit Card,665
+ATQCUS0605,May,Entertainment,Debit Card,363
+ATQCUS0553,September,Health & Wellness,UPI,363
+ATQCUS1863,August,Food,Debit Card,502
+ATQCUS1141,August,Bills,Net Banking,116
+ATQCUS3294,June,Electronics,Debit Card,268
+ATQCUS2623,June,Apparel,UPI,99
+ATQCUS0543,October,Health & Wellness,Debit Card,222
+ATQCUS0251,June,Apparel,Debit Card,851
+ATQCUS3347,October,Apparel,UPI,393
+ATQCUS0204,July,Health & Wellness,Debit Card,672
+ATQCUS3669,June,Electronics,Debit Card,1959
+ATQCUS3094,July,Apparel,Debit Card,82
+ATQCUS2173,June,Bills,UPI,803
+ATQCUS1281,May,Apparel,Net Banking,126
+ATQCUS2414,August,Entertainment,Credit Card,185
+ATQCUS3332,May,Food,UPI,676
+ATQCUS3768,May,Electronics,Net Banking,111
+ATQCUS1938,July,Food,Debit Card,445
+ATQCUS1982,July,Entertainment,Credit Card,1361
+ATQCUS3508,September,Groceries,UPI,2068
+ATQCUS2284,July,Bills,Debit Card,206
+ATQCUS1335,June,Entertainment,Net Banking,110
+ATQCUS0548,May,Electronics,Debit Card,565
+ATQCUS2914,July,Others,Credit Card,102
+ATQCUS0356,August,Food,Debit Card,316
+ATQCUS1608,July,Bills,Debit Card,1719
+ATQCUS1403,June,Groceries,UPI,2690
+ATQCUS1601,October,Travel,Debit Card,1053
+ATQCUS0640,September,Entertainment,Credit Card,312
+ATQCUS0766,September,Entertainment,Net Banking,152
+ATQCUS0405,June,Entertainment,Net Banking,126
+ATQCUS0465,September,Bills,Net Banking,28
+ATQCUS0928,May,Others,UPI,127
+ATQCUS0703,August,Apparel,Net Banking,321
+ATQCUS3913,October,Apparel,Credit Card,189
+ATQCUS1589,June,Others,Credit Card,369
+ATQCUS1829,July,Groceries,Net Banking,218
+ATQCUS3530,July,Groceries,UPI,1810
+ATQCUS3975,August,Entertainment,Credit Card,861
+ATQCUS1758,September,Travel,UPI,778
+ATQCUS1301,August,Others,Net Banking,65
+ATQCUS2322,August,Apparel,Debit Card,91
+ATQCUS2733,July,Travel,Debit Card,176
+ATQCUS3335,October,Food,Net Banking,76
+ATQCUS3580,August,Apparel,Credit Card,333
+ATQCUS3231,May,Groceries,Debit Card,379
+ATQCUS1409,July,Groceries,Debit Card,277
+ATQCUS3274,September,Groceries,Debit Card,1561
+ATQCUS0344,October,Travel,Credit Card,1733
+ATQCUS1679,August,Others,Debit Card,118
+ATQCUS2074,May,Bills,Credit Card,3099
+ATQCUS3998,September,Bills,UPI,857
+ATQCUS2384,August,Travel,UPI,1278
+ATQCUS3088,October,Electronics,UPI,654
+ATQCUS0482,June,Travel,Net Banking,95
+ATQCUS1075,July,Food,Debit Card,189
+ATQCUS0670,June,Groceries,Credit Card,676
+ATQCUS3866,May,Electronics,Debit Card,857
+ATQCUS3935,June,Food,Credit Card,499
+ATQCUS1810,May,Groceries,Credit Card,760
+ATQCUS3618,October,Entertainment,UPI,178
+ATQCUS1492,June,Apparel,Net Banking,59
+ATQCUS2968,October,Entertainment,Credit Card,786
+ATQCUS1796,August,Electronics,Credit Card,2031
+ATQCUS2032,September,Health & Wellness,Credit Card,1327
+ATQCUS2213,May,Apparel,Debit Card,286
+ATQCUS1945,August,Bills,UPI,3452
+ATQCUS0503,September,Bills,Credit Card,2264
+ATQCUS3934,August,Groceries,Debit Card,1848
+ATQCUS0982,October,Food,Net Banking,127
+ATQCUS3014,September,Health & Wellness,Credit Card,631
+ATQCUS1325,July,Food,Credit Card,613
+ATQCUS3370,October,Groceries,Credit Card,1224
+ATQCUS1941,September,Electronics,Debit Card,599
+ATQCUS0873,August,Entertainment,UPI,367
+ATQCUS2714,May,Travel,Debit Card,265
+ATQCUS3251,May,Apparel,Net Banking,71
+ATQCUS0500,May,Food,Net Banking,104
+ATQCUS2060,October,Electronics,Net Banking,164
+ATQCUS3875,May,Others,Credit Card,470
+ATQCUS3856,September,Food,Net Banking,183
+ATQCUS0335,September,Apparel,Debit Card,337
+ATQCUS2236,July,Apparel,Credit Card,788
+ATQCUS3694,July,Health & Wellness,Debit Card,229
+ATQCUS3608,May,Entertainment,UPI,311
+ATQCUS0588,September,Groceries,Credit Card,985
+ATQCUS3695,August,Health & Wellness,Credit Card,2232
+ATQCUS3604,June,Groceries,Debit Card,409
+ATQCUS3273,June,Electronics,Credit Card,2768
+ATQCUS1229,September,Entertainment,UPI,622
+ATQCUS1998,September,Others,UPI,286
+ATQCUS1421,August,Bills,Credit Card,4340
+ATQCUS3143,May,Groceries,Credit Card,390
+ATQCUS3319,August,Travel,Net Banking,141
+ATQCUS2904,June,Others,Debit Card,42
+ATQCUS3433,October,Others,Debit Card,114
+ATQCUS1592,May,Electronics,Net Banking,229
+ATQCUS3605,August,Apparel,Credit Card,331
+ATQCUS3981,May,Electronics,Credit Card,714
+ATQCUS1503,August,Entertainment,Credit Card,719
+ATQCUS3986,June,Electronics,Credit Card,3035
+ATQCUS1992,May,Groceries,UPI,1524
+ATQCUS3577,August,Electronics,Net Banking,283
+ATQCUS2755,September,Entertainment,Net Banking,152
+ATQCUS1356,July,Groceries,UPI,440
+ATQCUS0929,August,Apparel,UPI,507
+ATQCUS2045,June,Travel,Net Banking,224
+ATQCUS0119,June,Groceries,Net Banking,276
+ATQCUS0265,May,Others,Credit Card,91
+ATQCUS3581,October,Electronics,Debit Card,311
+ATQCUS0606,August,Travel,Net Banking,127
+ATQCUS0281,May,Entertainment,Credit Card,976
+ATQCUS1620,June,Groceries,Credit Card,769
+ATQCUS1872,July,Health & Wellness,UPI,164
+ATQCUS3285,May,Bills,Debit Card,1007
+ATQCUS1995,July,Entertainment,Net Banking,300
+ATQCUS1097,June,Travel,UPI,484
+ATQCUS1518,May,Bills,Credit Card,2450
+ATQCUS2296,August,Groceries,Debit Card,1804
+ATQCUS2141,September,Food,Credit Card,572
+ATQCUS1909,May,Travel,Debit Card,492
+ATQCUS0730,June,Health & Wellness,Debit Card,635
+ATQCUS2313,May,Bills,Debit Card,80
+ATQCUS1629,October,Groceries,UPI,523
+ATQCUS2376,May,Bills,Net Banking,378
+ATQCUS2301,October,Health & Wellness,Net Banking,86
+ATQCUS0745,May,Bills,Net Banking,241
+ATQCUS2945,October,Health & Wellness,Net Banking,410
+ATQCUS2557,September,Health & Wellness,Credit Card,2282
+ATQCUS2891,July,Bills,Credit Card,1922
+ATQCUS3636,September,Entertainment,Credit Card,821
+ATQCUS3562,August,Others,Net Banking,128
+ATQCUS1455,October,Others,Debit Card,379
+ATQCUS2316,May,Others,UPI,163
+ATQCUS2130,October,Health & Wellness,Debit Card,2549
+ATQCUS2683,August,Food,UPI,268
+ATQCUS1450,June,Food,Net Banking,239
+ATQCUS3889,September,Electronics,Credit Card,2758
+ATQCUS0552,May,Electronics,Debit Card,218
+ATQCUS0419,July,Groceries,Credit Card,595
+ATQCUS1456,May,Electronics,UPI,765
+ATQCUS1258,May,Bills,Credit Card,1553
+ATQCUS2628,September,Groceries,Debit Card,357
+ATQCUS1961,May,Groceries,UPI,517
+ATQCUS2354,June,Health & Wellness,Net Banking,187
+ATQCUS1944,May,Others,UPI,195
+ATQCUS2632,August,Health & Wellness,Credit Card,2036
+ATQCUS1134,May,Others,Net Banking,13
+ATQCUS3574,September,Others,Net Banking,168
+ATQCUS0049,September,Entertainment,Credit Card,821
+ATQCUS2820,May,Bills,Credit Card,1018
+ATQCUS0293,September,Food,Net Banking,203
+ATQCUS2057,August,Entertainment,UPI,251
+ATQCUS0417,June,Bills,Debit Card,335
+ATQCUS0305,July,Others,Net Banking,77
+ATQCUS1238,May,Health & Wellness,Net Banking,102
+ATQCUS0350,May,Travel,UPI,266
+ATQCUS3719,September,Electronics,Net Banking,297
+ATQCUS1633,October,Food,Credit Card,447
+ATQCUS1105,May,Others,Credit Card,98
+ATQCUS1771,June,Health & Wellness,UPI,351
+ATQCUS0589,August,Food,Net Banking,162
+ATQCUS3383,June,Health & Wellness,UPI,1790
+ATQCUS2321,October,Entertainment,Credit Card,633
+ATQCUS3713,May,Apparel,UPI,415
+ATQCUS2535,August,Electronics,Credit Card,671
+ATQCUS3921,August,Apparel,UPI,552
+ATQCUS3079,May,Others,Net Banking,25
+ATQCUS3905,August,Apparel,Credit Card,480
+ATQCUS3149,May,Entertainment,Net Banking,301
+ATQCUS2597,June,Apparel,Debit Card,552
+ATQCUS3573,September,Others,Debit Card,417
+ATQCUS3197,August,Groceries,Debit Card,859
+ATQCUS3624,May,Travel,UPI,433
+ATQCUS0192,July,Bills,Net Banking,577
+ATQCUS2665,October,Apparel,Credit Card,781
+ATQCUS2577,May,Bills,Net Banking,198
+ATQCUS2022,June,Health & Wellness,Net Banking,308
+ATQCUS2736,August,Entertainment,Credit Card,648
+ATQCUS1194,October,Travel,UPI,263
+ATQCUS0228,October,Apparel,Debit Card,333
+ATQCUS0743,October,Electronics,Debit Card,230
+ATQCUS1509,May,Others,Net Banking,46
+ATQCUS0250,August,Food,UPI,518
+ATQCUS2235,August,Health & Wellness,Credit Card,632
+ATQCUS3515,October,Food,Debit Card,171
+ATQCUS2092,May,Apparel,UPI,86
+ATQCUS1843,July,Apparel,Debit Card,462
+ATQCUS0263,May,Travel,Debit Card,470
+ATQCUS2818,June,Others,UPI,125
+ATQCUS2746,September,Apparel,Debit Card,284
+ATQCUS2363,July,Food,Net Banking,173
+ATQCUS2369,September,Travel,UPI,347
+ATQCUS0812,July,Food,Debit Card,616
+ATQCUS0194,May,Entertainment,Net Banking,85
+ATQCUS1650,July,Entertainment,Net Banking,346
+ATQCUS1605,September,Apparel,Net Banking,24
+ATQCUS3140,May,Electronics,Credit Card,1345
+ATQCUS0610,June,Travel,Credit Card,1092
+ATQCUS1804,September,Health & Wellness,Credit Card,699
+ATQCUS1959,May,Groceries,Net Banking,182
+ATQCUS2494,September,Health & Wellness,UPI,571
+ATQCUS1574,July,Others,Credit Card,427
+ATQCUS2066,July,Groceries,UPI,664
+ATQCUS2688,September,Bills,Credit Card,2212
+ATQCUS2451,September,Electronics,Debit Card,322
+ATQCUS3453,May,Travel,UPI,224
+ATQCUS2007,August,Health & Wellness,Credit Card,1494
+ATQCUS1080,May,Travel,UPI,188
+ATQCUS2380,October,Health & Wellness,Credit Card,622
+ATQCUS1916,August,Travel,Credit Card,429
+ATQCUS0319,May,Bills,Debit Card,2346
+ATQCUS2068,September,Food,UPI,396
+ATQCUS1078,July,Others,Net Banking,40
+ATQCUS0433,May,Travel,Debit Card,217
+ATQCUS2983,June,Others,Net Banking,23
+ATQCUS0550,May,Electronics,Credit Card,506
+ATQCUS3519,May,Groceries,Credit Card,836
+ATQCUS3665,June,Travel,Net Banking,158
+ATQCUS0953,September,Food,Credit Card,534
+ATQCUS2021,September,Others,Debit Card,138
+ATQCUS3973,September,Apparel,Debit Card,115
+ATQCUS0894,June,Entertainment,Net Banking,108
+ATQCUS3336,July,Travel,Net Banking,434
+ATQCUS2443,August,Groceries,Credit Card,356
+ATQCUS2499,July,Entertainment,Debit Card,1647
+ATQCUS1805,May,Apparel,Net Banking,106
+ATQCUS0313,July,Electronics,UPI,676
+ATQCUS2681,October,Electronics,Debit Card,365
+ATQCUS3321,July,Bills,UPI,230
+ATQCUS1291,October,Food,Net Banking,88
+ATQCUS3351,July,Entertainment,Net Banking,238
+ATQCUS1847,August,Bills,Net Banking,124
+ATQCUS1794,June,Health & Wellness,Net Banking,338
+ATQCUS2972,August,Groceries,UPI,831
+ATQCUS1288,July,Entertainment,Credit Card,1853
+ATQCUS1784,September,Travel,UPI,907
+ATQCUS2267,June,Electronics,Net Banking,142
+ATQCUS1314,August,Electronics,Debit Card,443
+ATQCUS1268,July,Groceries,Net Banking,562
+ATQCUS3812,August,Apparel,Debit Card,246
+ATQCUS1543,June,Apparel,Net Banking,170
+ATQCUS3365,May,Electronics,Debit Card,613
+ATQCUS3155,October,Food,Credit Card,788
+ATQCUS0934,September,Apparel,Credit Card,1121
+ATQCUS2008,May,Electronics,Net Banking,219
+ATQCUS3620,July,Apparel,Net Banking,106
+ATQCUS2549,June,Others,Debit Card,153
+ATQCUS2182,June,Food,Debit Card,218
+ATQCUS2167,October,Others,Credit Card,507
+ATQCUS3385,August,Travel,UPI,1217
+ATQCUS3253,October,Health & Wellness,UPI,249
+ATQCUS0140,July,Electronics,Credit Card,955
+ATQCUS1948,October,Others,Credit Card,176
+ATQCUS0261,June,Food,Credit Card,394
+ATQCUS0067,September,Groceries,Debit Card,796
+ATQCUS0872,June,Food,Credit Card,390
+ATQCUS3771,June,Food,Net Banking,100
+ATQCUS2149,October,Apparel,Debit Card,67
+ATQCUS3343,May,Travel,UPI,416
+ATQCUS2264,June,Bills,Debit Card,707
+ATQCUS2890,August,Food,Debit Card,732
+ATQCUS3895,October,Health & Wellness,Net Banking,436
+ATQCUS1480,June,Health & Wellness,Credit Card,338
+ATQCUS3284,October,Travel,Net Banking,252
+ATQCUS1377,August,Electronics,Net Banking,91
+ATQCUS3959,October,Entertainment,Credit Card,571
+ATQCUS0291,June,Electronics,Debit Card,275
+ATQCUS3933,September,Others,Net Banking,92
+ATQCUS0002,September,Health & Wellness,UPI,625
+ATQCUS2744,July,Food,UPI,335
+ATQCUS3158,May,Entertainment,Net Banking,108
+ATQCUS0571,May,Electronics,Net Banking,219
+ATQCUS1724,July,Groceries,Credit Card,186
+ATQCUS0583,October,Food,UPI,794
+ATQCUS2275,September,Groceries,Net Banking,494
+ATQCUS2266,June,Entertainment,UPI,478
+ATQCUS3809,August,Others,Credit Card,272
+ATQCUS2722,July,Entertainment,Credit Card,126
+ATQCUS1347,October,Electronics,UPI,1005
+ATQCUS0810,June,Health & Wellness,Credit Card,1311
+ATQCUS1635,October,Groceries,UPI,1116
+ATQCUS1414,September,Travel,Net Banking,269
+ATQCUS3116,August,Travel,UPI,1295
+ATQCUS1634,July,Food,Credit Card,733
+ATQCUS2893,August,Health & Wellness,Net Banking,116
+ATQCUS1477,September,Electronics,Net Banking,587
+ATQCUS1565,May,Food,UPI,251
+ATQCUS0135,May,Food,Credit Card,218
+ATQCUS3826,June,Electronics,Debit Card,1223
+ATQCUS2051,July,Entertainment,UPI,249
+ATQCUS3062,June,Apparel,Credit Card,1150
+ATQCUS2397,September,Others,UPI,439
+ATQCUS2454,September,Food,Net Banking,274
+ATQCUS3084,July,Entertainment,Net Banking,285
+ATQCUS1275,May,Bills,Net Banking,56
+ATQCUS3425,May,Health & Wellness,UPI,377
+ATQCUS3776,September,Apparel,Net Banking,266
+ATQCUS0601,September,Electronics,Debit Card,765
+ATQCUS1943,June,Groceries,Credit Card,1800
+ATQCUS0202,October,Entertainment,Net Banking,389
+ATQCUS0412,July,Food,Debit Card,282
+ATQCUS2257,October,Apparel,UPI,247
+ATQCUS1862,May,Apparel,Credit Card,465
+ATQCUS2725,September,Bills,UPI,1288
+ATQCUS0186,October,Food,Credit Card,1029
+ATQCUS0560,July,Others,Net Banking,93
+ATQCUS1126,August,Bills,Net Banking,1366
+ATQCUS1290,May,Others,Credit Card,526
+ATQCUS2956,July,Food,Debit Card,135
+ATQCUS3254,June,Groceries,Net Banking,232
+ATQCUS0011,May,Food,Debit Card,316
+ATQCUS1448,October,Groceries,UPI,3757
+ATQCUS2056,May,Health & Wellness,Debit Card,405
+ATQCUS0846,May,Food,UPI,424
+ATQCUS3769,May,Electronics,Debit Card,504
+ATQCUS3139,October,Bills,Debit Card,152
+ATQCUS3815,June,Health & Wellness,Net Banking,196
+ATQCUS0522,May,Apparel,Net Banking,32
+ATQCUS3095,July,Bills,UPI,626
+ATQCUS0095,September,Travel,Debit Card,385
+ATQCUS3417,July,Bills,Net Banking,69
+ATQCUS2789,May,Bills,Credit Card,339
+ATQCUS2920,September,Health & Wellness,Debit Card,1479
+ATQCUS0547,September,Groceries,Credit Card,940
+ATQCUS3613,May,Entertainment,Debit Card,244
+ATQCUS2827,September,Groceries,Debit Card,1300
+ATQCUS0299,May,Apparel,Debit Card,691
+ATQCUS1175,May,Others,UPI,192
+ATQCUS2915,September,Bills,Debit Card,2387
+ATQCUS0177,June,Entertainment,Debit Card,145
+ATQCUS2579,September,Bills,Net Banking,187
+ATQCUS3633,August,Food,Debit Card,469
+ATQCUS2194,September,Bills,Net Banking,1020
+ATQCUS1098,August,Others,Net Banking,21
+ATQCUS3842,September,Health & Wellness,Debit Card,309
+ATQCUS0840,August,Travel,UPI,772
+ATQCUS3027,June,Others,UPI,125
+ATQCUS0838,May,Travel,Net Banking,191
+ATQCUS1604,June,Groceries,Net Banking,324
+ATQCUS1016,September,Health & Wellness,Debit Card,4444
+ATQCUS3295,June,Groceries,Debit Card,580
+ATQCUS1759,August,Others,Net Banking,65
+ATQCUS3323,July,Health & Wellness,Debit Card,142
+ATQCUS3361,July,Bills,Debit Card,1035
+ATQCUS3069,June,Electronics,Net Banking,269
+ATQCUS3184,June,Bills,UPI,549
+ATQCUS1214,July,Electronics,Debit Card,453
+ATQCUS0241,September,Health & Wellness,Net Banking,164
+ATQCUS2751,June,Travel,Debit Card,502
+ATQCUS2715,August,Bills,Net Banking,342
+ATQCUS1501,September,Health & Wellness,Debit Card,237
+ATQCUS2750,October,Health & Wellness,UPI,1031
+ATQCUS1818,June,Electronics,UPI,338
+ATQCUS1350,October,Travel,Net Banking,374
+ATQCUS3210,September,Health & Wellness,UPI,128
+ATQCUS2809,September,Entertainment,UPI,747
+ATQCUS0532,July,Groceries,Net Banking,161
+ATQCUS2420,July,Food,Debit Card,400
+ATQCUS0604,August,Apparel,Credit Card,238
+ATQCUS0048,October,Bills,Credit Card,1710
+ATQCUS3534,September,Bills,Net Banking,66
+ATQCUS3259,July,Apparel,Net Banking,122
+ATQCUS1404,September,Others,Debit Card,338
+ATQCUS3015,August,Health & Wellness,Credit Card,488
+ATQCUS1800,May,Electronics,Debit Card,421
+ATQCUS0173,August,Others,Credit Card,132
+ATQCUS2582,October,Groceries,UPI,568
+ATQCUS3506,October,Apparel,Debit Card,538
+ATQCUS0684,June,Health & Wellness,Debit Card,705
+ATQCUS1038,July,Groceries,Net Banking,225
+ATQCUS0781,May,Bills,UPI,828
+ATQCUS3043,October,Apparel,Debit Card,245
+ATQCUS3893,September,Others,Debit Card,304
+ATQCUS0439,May,Travel,Net Banking,168
+ATQCUS3469,July,Apparel,Credit Card,898
+ATQCUS0010,September,Entertainment,Credit Card,923
+ATQCUS1182,July,Health & Wellness,Credit Card,828
+ATQCUS2095,July,Groceries,Net Banking,787
+ATQCUS3563,June,Travel,Credit Card,947
+ATQCUS1752,October,Food,Net Banking,254
+ATQCUS0586,September,Electronics,Credit Card,1179
+ATQCUS3232,October,Food,Net Banking,209
+ATQCUS0526,September,Groceries,Net Banking,560
+ATQCUS2062,October,Health & Wellness,Credit Card,1640
+ATQCUS3489,October,Apparel,Net Banking,97
+ATQCUS2145,August,Apparel,UPI,258
+ATQCUS3434,October,Electronics,UPI,1607
+ATQCUS2002,July,Others,UPI,103
+ATQCUS1112,July,Apparel,Credit Card,280
+ATQCUS1187,September,Health & Wellness,Debit Card,763
+ATQCUS3346,May,Electronics,Debit Card,915
+ATQCUS3064,May,Electronics,Debit Card,676
+ATQCUS3246,May,Food,Credit Card,318
+ATQCUS0093,June,Food,Debit Card,362
+ATQCUS0544,July,Food,Credit Card,615
+ATQCUS0244,October,Food,UPI,423
+ATQCUS3843,September,Others,UPI,121
+ATQCUS2197,June,Travel,UPI,403
+ATQCUS0403,October,Bills,UPI,512
+ATQCUS1520,October,Apparel,Net Banking,130
+ATQCUS1267,July,Apparel,Credit Card,244
+ATQCUS0676,May,Food,Debit Card,406
+ATQCUS3814,September,Bills,Credit Card,1823
+ATQCUS3250,May,Others,Debit Card,108
+ATQCUS2923,May,Apparel,Net Banking,61
+ATQCUS3378,September,Health & Wellness,Net Banking,53
+ATQCUS2526,July,Health & Wellness,UPI,455
+ATQCUS1535,September,Electronics,Credit Card,815
+ATQCUS1378,September,Apparel,Debit Card,283
+ATQCUS0887,September,Bills,Net Banking,882
+ATQCUS1111,October,Health & Wellness,Net Banking,166
+ATQCUS1806,July,Travel,Net Banking,235
+ATQCUS1762,May,Electronics,Credit Card,1263
+ATQCUS1302,August,Bills,Net Banking,1136
+ATQCUS2568,October,Food,Debit Card,158
+ATQCUS0123,September,Travel,Debit Card,606
+ATQCUS1407,May,Travel,UPI,415
+ATQCUS0315,August,Food,UPI,375
+ATQCUS3824,October,Bills,UPI,1210
+ATQCUS2142,June,Food,Credit Card,514
+ATQCUS1658,June,Electronics,Credit Card,1389
+ATQCUS1875,May,Travel,Debit Card,240
+ATQCUS3320,August,Others,Net Banking,73
+ATQCUS0655,June,Bills,UPI,766
+ATQCUS1415,July,Health & Wellness,Net Banking,567
+ATQCUS3060,August,Bills,Net Banking,137
+ATQCUS1990,August,Others,UPI,149
+ATQCUS2458,September,Health & Wellness,Debit Card,494
+ATQCUS3586,August,Groceries,Credit Card,1459
+ATQCUS1536,July,Health & Wellness,UPI,318
+ATQCUS0476,June,Health & Wellness,Credit Card,886
+ATQCUS3268,September,Groceries,Debit Card,3349
+ATQCUS0327,August,Others,UPI,202
+ATQCUS1793,June,Entertainment,Net Banking,550
+ATQCUS1695,July,Apparel,Debit Card,325
+ATQCUS3729,July,Bills,Net Banking,604
+ATQCUS1710,August,Health & Wellness,Debit Card,529
+ATQCUS1086,May,Bills,Net Banking,514
+ATQCUS1018,October,Entertainment,UPI,355
+ATQCUS2166,July,Groceries,Net Banking,586
+ATQCUS3867,June,Bills,Debit Card,186
+ATQCUS0215,August,Apparel,Net Banking,38
+ATQCUS0907,August,Health & Wellness,UPI,535
+ATQCUS1591,July,Groceries,Credit Card,861
+ATQCUS0533,September,Health & Wellness,Net Banking,88
+ATQCUS0822,May,Travel,Net Banking,134
+ATQCUS3846,July,Others,Net Banking,146
+ATQCUS2887,August,Food,Debit Card,185
+ATQCUS3794,July,Others,Debit Card,129
+ATQCUS3703,May,Entertainment,Debit Card,204
+ATQCUS2508,June,Electronics,Credit Card,1622
+ATQCUS3161,August,Bills,UPI,887
+ATQCUS0955,October,Travel,UPI,176
+ATQCUS3181,October,Electronics,Debit Card,146
+ATQCUS3548,June,Groceries,Debit Card,783
+ATQCUS0744,June,Entertainment,Net Banking,60
+ATQCUS2237,May,Others,UPI,172
+ATQCUS1234,September,Health & Wellness,Debit Card,1398
+ATQCUS3535,August,Food,Credit Card,2324
+ATQCUS0524,July,Bills,UPI,199
+ATQCUS2277,August,Apparel,Credit Card,499
+ATQCUS0197,August,Apparel,UPI,586
+ATQCUS1538,October,Others,Credit Card,133
+ATQCUS1327,June,Food,Credit Card,352
+ATQCUS3714,July,Groceries,Debit Card,1081
+ATQCUS1326,July,Apparel,UPI,1049
+ATQCUS1951,June,Health & Wellness,Debit Card,613
+ATQCUS1063,September,Travel,Credit Card,844
+ATQCUS2490,August,Travel,Debit Card,469
+ATQCUS2578,September,Health & Wellness,Debit Card,818
+ATQCUS1547,June,Others,Credit Card,184
+ATQCUS1782,August,Entertainment,Credit Card,531
+ATQCUS2400,August,Food,UPI,541
+ATQCUS1825,October,Others,UPI,186
+ATQCUS0046,June,Groceries,Net Banking,164
+ATQCUS2573,June,Groceries,Debit Card,505
+ATQCUS2986,May,Electronics,Credit Card,631
+ATQCUS2554,June,Health & Wellness,Debit Card,1476
+ATQCUS3207,July,Bills,Credit Card,2527
+ATQCUS0097,July,Others,UPI,171
+ATQCUS3760,October,Electronics,Debit Card,1199
+ATQCUS0622,July,Food,Credit Card,875
+ATQCUS1527,June,Entertainment,Credit Card,967
+ATQCUS1055,September,Others,Debit Card,121
+ATQCUS1892,August,Groceries,UPI,1848
+ATQCUS0862,August,Entertainment,Net Banking,187
+ATQCUS3753,October,Bills,Credit Card,1441
+ATQCUS1285,July,Health & Wellness,UPI,408
+ATQCUS3376,October,Health & Wellness,Credit Card,1102
+ATQCUS1413,October,Travel,UPI,526
+ATQCUS0492,August,Electronics,Debit Card,383
+ATQCUS1201,August,Others,UPI,205
+ATQCUS2800,May,Apparel,Debit Card,222
+ATQCUS2576,May,Groceries,Net Banking,104
+ATQCUS2154,June,Electronics,Net Banking,258
+ATQCUS0382,May,Apparel,Debit Card,72
+ATQCUS3675,July,Travel,UPI,538
+ATQCUS2271,October,Travel,Debit Card,188
+ATQCUS3012,August,Health & Wellness,Debit Card,916
+ATQCUS3645,August,Bills,Credit Card,1771
+ATQCUS1554,September,Entertainment,Credit Card,311
+ATQCUS0665,August,Others,UPI,145
+ATQCUS0358,August,Electronics,Credit Card,4237
+ATQCUS2991,August,Electronics,UPI,1447
+ATQCUS3070,July,Groceries,Credit Card,436
+ATQCUS1398,June,Others,UPI,68
+ATQCUS1719,September,Bills,Debit Card,1842
+ATQCUS2334,May,Electronics,UPI,184
+ATQCUS1625,July,Food,Credit Card,288
+ATQCUS2738,June,Entertainment,Net Banking,133
+ATQCUS0366,July,Others,UPI,247
+ATQCUS1522,July,Entertainment,UPI,416
+ATQCUS3367,September,Travel,Net Banking,176
+ATQCUS1230,May,Groceries,Net Banking,209
+ATQCUS3610,June,Entertainment,Net Banking,238
+ATQCUS3013,June,Groceries,Debit Card,276
+ATQCUS3672,August,Electronics,Net Banking,199
+ATQCUS0389,October,Entertainment,UPI,395
+ATQCUS1664,July,Others,Credit Card,156
+ATQCUS0807,September,Electronics,Credit Card,2171
+ATQCUS3871,May,Bills,Net Banking,255
+ATQCUS1073,October,Health & Wellness,Net Banking,63
+ATQCUS1195,October,Travel,Net Banking,250
+ATQCUS2302,June,Entertainment,Debit Card,442
+ATQCUS2425,August,Bills,Debit Card,4825
+ATQCUS0902,July,Electronics,Credit Card,1473
+ATQCUS2525,June,Electronics,Debit Card,366
+ATQCUS1400,October,Bills,Credit Card,1329
+ATQCUS0773,August,Food,UPI,465
+ATQCUS2865,October,Bills,Credit Card,2536
+ATQCUS3987,August,Others,UPI,202
+ATQCUS2640,August,Groceries,Credit Card,1413
+ATQCUS1833,June,Apparel,Debit Card,69
+ATQCUS3455,September,Travel,UPI,1088
+ATQCUS0277,September,Apparel,Credit Card,314
+ATQCUS2620,July,Apparel,Net Banking,268
+ATQCUS0411,June,Travel,Credit Card,829
+ATQCUS0452,September,Travel,UPI,998
+ATQCUS3559,September,Electronics,Debit Card,232
+ATQCUS2292,October,Groceries,UPI,1781
+ATQCUS2784,May,Food,Net Banking,97
+ATQCUS1663,October,Entertainment,Credit Card,349
+ATQCUS2550,May,Bills,UPI,500
+ATQCUS3244,May,Groceries,UPI,934
+ATQCUS0404,August,Travel,Debit Card,344
+ATQCUS1152,September,Health & Wellness,Debit Card,870
+ATQCUS3290,May,Electronics,Net Banking,281
+ATQCUS2551,July,Food,UPI,510
+ATQCUS0361,September,Apparel,Debit Card,376
+ATQCUS3134,May,Bills,UPI,430
+ATQCUS0446,October,Travel,Credit Card,274
+ATQCUS3590,June,Health & Wellness,Net Banking,159
+ATQCUS1459,October,Groceries,UPI,749
+ATQCUS2851,September,Apparel,UPI,803
+ATQCUS1494,July,Food,Debit Card,387
+ATQCUS1756,September,Others,Debit Card,97
+ATQCUS3552,June,Electronics,Credit Card,1996
+ATQCUS3983,August,Electronics,Credit Card,687
+ATQCUS3992,September,Apparel,Debit Card,299
+ATQCUS1757,July,Bills,UPI,613
+ATQCUS2448,August,Apparel,Credit Card,358
+ATQCUS3890,August,Health & Wellness,Debit Card,1610
+ATQCUS3999,June,Others,UPI,249
+ATQCUS3411,August,Electronics,Credit Card,3390
+ATQCUS2906,September,Bills,UPI,1033
+ATQCUS2034,August,Bills,Debit Card,82
+ATQCUS3892,July,Bills,Credit Card,1105
+ATQCUS3558,June,Groceries,Credit Card,207
+ATQCUS3373,August,Travel,UPI,507
+ATQCUS2159,May,Apparel,UPI,266
+ATQCUS2595,October,Groceries,Net Banking,204
+ATQCUS0469,July,Apparel,Credit Card,476
+ATQCUS0230,August,Apparel,Debit Card,795
+ATQCUS2492,June,Food,Net Banking,180
+ATQCUS3968,May,Travel,Debit Card,307
+ATQCUS3010,September,Electronics,Credit Card,3148
+ATQCUS1357,August,Health & Wellness,Credit Card,407
+ATQCUS2933,July,Travel,Net Banking,118
+ATQCUS1361,August,Travel,Net Banking,520
+ATQCUS3194,August,Apparel,UPI,981
+ATQCUS0301,July,Bills,Net Banking,265
+ATQCUS2242,October,Health & Wellness,Net Banking,487
+ATQCUS1531,July,Electronics,Credit Card,655
+ATQCUS1996,June,Bills,Net Banking,392
+ATQCUS2765,September,Apparel,Debit Card,176
+ATQCUS0227,May,Health & Wellness,Credit Card,1579
+ATQCUS1171,May,Health & Wellness,UPI,960
+ATQCUS0691,September,Apparel,Credit Card,629
+ATQCUS1713,October,Entertainment,Net Banking,284
+ATQCUS0298,October,Entertainment,Net Banking,78
+ATQCUS2502,September,Bills,UPI,245
+ATQCUS2187,May,Electronics,Debit Card,138
+ATQCUS2071,July,Apparel,Net Banking,30
+ATQCUS3484,October,Bills,Net Banking,445
+ATQCUS0052,June,Food,Credit Card,991
+ATQCUS2023,September,Entertainment,Net Banking,120
+ATQCUS0989,August,Entertainment,Credit Card,1107
+ATQCUS2700,July,Travel,UPI,831
+ATQCUS1216,June,Entertainment,Debit Card,1109
+ATQCUS1783,June,Groceries,Debit Card,713
+ATQCUS0285,June,Entertainment,UPI,60
+ATQCUS3337,June,Apparel,Net Banking,129
+ATQCUS3096,May,Others,Debit Card,38
+ATQCUS0630,October,Others,Net Banking,86
+ATQCUS0172,August,Others,Credit Card,529
+ATQCUS1146,October,Bills,Debit Card,134
+ATQCUS1391,June,Bills,Debit Card,97
+ATQCUS1853,May,Entertainment,Net Banking,211
+ATQCUS3529,August,Others,Credit Card,420
+ATQCUS2600,May,Food,Net Banking,91
+ATQCUS0145,July,Others,Debit Card,87
+ATQCUS1791,July,Travel,UPI,1156
+ATQCUS2932,October,Bills,UPI,1285
+ATQCUS1425,August,Apparel,Credit Card,150
+ATQCUS3499,August,Travel,Net Banking,189
+ATQCUS2517,May,Food,Credit Card,464
+ATQCUS1700,August,Apparel,UPI,183
+ATQCUS1498,June,Health & Wellness,UPI,127
+ATQCUS3848,July,Bills,Debit Card,135
+ATQCUS2114,June,Others,Debit Card,319
+ATQCUS1370,June,Bills,Net Banking,427
+ATQCUS0916,June,Groceries,UPI,612
+ATQCUS3234,August,Others,Debit Card,130
+ATQCUS1120,September,Food,Debit Card,904
+ATQCUS0426,September,Entertainment,UPI,1240
+ATQCUS3381,May,Groceries,Debit Card,546
+ATQCUS0312,June,Travel,Net Banking,121
+ATQCUS1023,October,Apparel,UPI,947
+ATQCUS2544,July,Health & Wellness,UPI,228
+ATQCUS1449,September,Others,Debit Card,240
+ATQCUS1898,May,Entertainment,Debit Card,168
+ATQCUS2245,July,Health & Wellness,Credit Card,315
+ATQCUS1926,September,Food,Credit Card,861
+ATQCUS0950,October,Health & Wellness,UPI,465
+ATQCUS3752,August,Groceries,UPI,2053
+ATQCUS3851,July,Electronics,Debit Card,257
+ATQCUS3544,August,Groceries,Net Banking,611
+ATQCUS2505,July,Others,Net Banking,40
+ATQCUS0888,October,Electronics,Credit Card,879
+ATQCUS2863,September,Apparel,Debit Card,198
+ATQCUS1328,June,Entertainment,Debit Card,115
+ATQCUS3585,September,Food,Debit Card,468
+ATQCUS3163,May,Food,Debit Card,578
+ATQCUS3262,June,Travel,Credit Card,354
+ATQCUS1217,June,Apparel,UPI,155
+ATQCUS3863,August,Others,Credit Card,66
+ATQCUS2812,June,Groceries,Debit Card,238
+ATQCUS3724,May,Electronics,UPI,360
+ATQCUS2966,October,Entertainment,Debit Card,240
+ATQCUS2005,July,Others,UPI,81
+ATQCUS1009,June,Apparel,Net Banking,41
+ATQCUS2758,August,Travel,Net Banking,244
+ATQCUS1866,May,Food,Credit Card,545
+ATQCUS1136,May,Health & Wellness,Net Banking,323
+ATQCUS2225,July,Apparel,Debit Card,171
+ATQCUS1656,May,Electronics,Credit Card,383
+ATQCUS3765,September,Entertainment,Net Banking,1071
+ATQCUS0758,August,Entertainment,Net Banking,249
+ATQCUS3080,October,Travel,Net Banking,59
+ATQCUS0644,May,Travel,Credit Card,422
+ATQCUS1153,October,Groceries,Credit Card,234
+ATQCUS3091,October,Apparel,Net Banking,133
+ATQCUS1673,October,Travel,Credit Card,511
+ATQCUS2072,May,Others,UPI,245
+ATQCUS0625,September,Groceries,Net Banking,546
+ATQCUS2113,September,Travel,Net Banking,171
+ATQCUS2070,October,Apparel,Debit Card,247
+ATQCUS0441,June,Apparel,Credit Card,827
+ATQCUS3615,June,Health & Wellness,Credit Card,1104
+ATQCUS0573,June,Groceries,Credit Card,529
+ATQCUS2698,May,Bills,Debit Card,293
+ATQCUS0698,July,Health & Wellness,Net Banking,136
+ATQCUS2467,May,Bills,UPI,576
+ATQCUS1104,May,Travel,Net Banking,187
+ATQCUS3872,October,Entertainment,UPI,492
+ATQCUS0253,August,Groceries,Net Banking,200
+ATQCUS0779,September,Apparel,Debit Card,392
+ATQCUS3191,October,Health & Wellness,Debit Card,115
+ATQCUS2567,September,Bills,Debit Card,656
+ATQCUS2612,August,Bills,UPI,1518
+ATQCUS0970,August,Food,Debit Card,359
+ATQCUS0967,August,Groceries,Credit Card,1217
+ATQCUS2375,September,Travel,Credit Card,2761
+ATQCUS1541,May,Health & Wellness,Credit Card,3505
+ATQCUS3918,October,Food,Credit Card,910
+ATQCUS3709,May,Food,Debit Card,128
+ATQCUS1954,August,Apparel,UPI,164
+ATQCUS0930,August,Groceries,Debit Card,1103
+ATQCUS2686,August,Apparel,UPI,1500
+ATQCUS3804,July,Apparel,Debit Card,344
+ATQCUS0787,May,Apparel,Net Banking,217
+ATQCUS3583,October,Health & Wellness,UPI,786
+ATQCUS2433,August,Health & Wellness,UPI,469
+ATQCUS2735,September,Apparel,Debit Card,473
+ATQCUS2390,September,Groceries,Net Banking,411
+ATQCUS0449,May,Travel,Net Banking,170
+ATQCUS3641,September,Travel,Credit Card,1416
+ATQCUS0990,September,Groceries,Credit Card,1267
+ATQCUS2671,May,Entertainment,Net Banking,129
+ATQCUS1150,September,Health & Wellness,Credit Card,371
+ATQCUS3072,May,Entertainment,Net Banking,58
+ATQCUS2290,May,Travel,Net Banking,107
+ATQCUS2434,July,Bills,Debit Card,731
+ATQCUS0294,August,Groceries,Credit Card,1767
+ATQCUS0795,July,Apparel,Credit Card,142
+ATQCUS2520,September,Food,Net Banking,192
+ATQCUS2254,October,Entertainment,Credit Card,419
+ATQCUS1408,October,Apparel,Credit Card,311
+ATQCUS1883,August,Others,UPI,208
+ATQCUS3404,July,Entertainment,Net Banking,77
+ATQCUS2470,September,Apparel,Debit Card,619
+ATQCUS2219,May,Apparel,Credit Card,697
+ATQCUS0783,September,Health & Wellness,Net Banking,488
+ATQCUS3954,September,Health & Wellness,Debit Card,441
+ATQCUS0801,October,Groceries,Credit Card,668
+ATQCUS2518,July,Electronics,Credit Card,1489
+ATQCUS3117,June,Food,Credit Card,577
+ATQCUS3818,October,Health & Wellness,Net Banking,787
+ATQCUS0557,September,Entertainment,Debit Card,684
+ATQCUS2953,September,Others,Debit Card,144
+ATQCUS2118,August,Bills,Net Banking,118
+ATQCUS1516,October,Bills,UPI,915
+ATQCUS0609,October,Others,Debit Card,119
+ATQCUS1096,June,Entertainment,Net Banking,196
+ATQCUS2530,August,Entertainment,Credit Card,483
+ATQCUS0739,August,Food,Credit Card,961
+ATQCUS3242,October,Health & Wellness,Credit Card,859
+ATQCUS2987,July,Electronics,UPI,780
+ATQCUS2667,June,Health & Wellness,Net Banking,165
+ATQCUS0592,August,Bills,UPI,2069
+ATQCUS0236,May,Health & Wellness,Debit Card,338
+ATQCUS1389,August,Entertainment,UPI,294
+ATQCUS1342,July,Apparel,Net Banking,37
+ATQCUS1639,May,Travel,Net Banking,86
+ATQCUS3988,May,Travel,UPI,657
+ATQCUS2343,October,Travel,UPI,309
+ATQCUS3462,August,Electronics,Credit Card,1644
+ATQCUS1860,August,Electronics,Debit Card,610
+ATQCUS2894,June,Apparel,Credit Card,551
+ATQCUS1867,September,Others,UPI,378
+ATQCUS2365,July,Electronics,Net Banking,398
+ATQCUS1505,August,Health & Wellness,UPI,384
+ATQCUS3693,October,Food,Credit Card,508
+ATQCUS2922,June,Apparel,Debit Card,558
+ATQCUS2895,June,Apparel,Credit Card,1026
+ATQCUS3327,September,Bills,Debit Card,1610
+ATQCUS0870,September,Others,Debit Card,105
+ATQCUS0535,May,Apparel,Credit Card,333
+ATQCUS1154,August,Bills,UPI,59
+ATQCUS3227,June,Electronics,Credit Card,1840
+ATQCUS1880,September,Bills,Debit Card,1178
+ATQCUS1582,September,Food,Net Banking,144
+ATQCUS1333,May,Groceries,Net Banking,304
+ATQCUS3967,July,Others,UPI,176
+ATQCUS3406,October,Electronics,Net Banking,490
+ATQCUS1035,August,Apparel,Credit Card,713
+ATQCUS2069,August,Groceries,Net Banking,579
+ATQCUS2381,July,Health & Wellness,UPI,326
+ATQCUS3419,June,Electronics,Net Banking,192
+ATQCUS1832,September,Bills,Credit Card,4710
+ATQCUS1688,August,Groceries,Credit Card,1158
+ATQCUS2572,July,Others,UPI,120
+ATQCUS1484,September,Food,Credit Card,1176
+ATQCUS3800,June,Electronics,UPI,951
+ATQCUS1542,June,Bills,Net Banking,278
+ATQCUS3629,September,Bills,UPI,203
+ATQCUS2534,October,Others,Net Banking,41
+ATQCUS2135,June,Apparel,Debit Card,1023
+ATQCUS0287,July,Entertainment,UPI,240
+ATQCUS1512,May,Electronics,Credit Card,2311
+ATQCUS2675,July,Entertainment,Debit Card,173
+ATQCUS0092,August,Electronics,UPI,965
+ATQCUS1788,September,Electronics,UPI,2667
+ATQCUS3925,September,Travel,UPI,309
+ATQCUS3459,October,Travel,Debit Card,536
+ATQCUS3046,July,Electronics,Credit Card,1741
+ATQCUS1677,October,Food,Net Banking,79
+ATQCUS2555,June,Others,UPI,156
+ATQCUS3679,September,Bills,Credit Card,2984
+ATQCUS0569,September,Entertainment,Net Banking,1105
+ATQCUS3137,August,Travel,Debit Card,343
+ATQCUS3264,September,Electronics,Debit Card,186
+ATQCUS0794,May,Food,Debit Card,509
+ATQCUS2661,August,Electronics,UPI,721
+ATQCUS1358,July,Entertainment,UPI,184
+ATQCUS1978,October,Others,Credit Card,227
+ATQCUS0320,July,Entertainment,UPI,82
+ATQCUS1583,August,Apparel,Debit Card,670
+ATQCUS1058,August,Bills,UPI,540
+ATQCUS0717,October,Others,Net Banking,63
+ATQCUS1213,May,Food,Net Banking,88
+ATQCUS0138,August,Groceries,Debit Card,2178
+ATQCUS3510,September,Travel,Credit Card,416
+ATQCUS3690,September,Food,Debit Card,255
+ATQCUS1149,October,Travel,Credit Card,736
+ATQCUS3463,May,Apparel,Net Banking,45
+ATQCUS1243,August,Apparel,Debit Card,283
+ATQCUS2916,August,Groceries,Net Banking,561
+ATQCUS3835,October,Entertainment,Net Banking,57
+ATQCUS2543,June,Travel,UPI,889
+ATQCUS0751,September,Health & Wellness,Credit Card,837
+ATQCUS0651,July,Bills,UPI,400
+ATQCUS2523,July,Apparel,UPI,149
+ATQCUS1030,May,Others,Net Banking,35
+ATQCUS2583,July,Electronics,Credit Card,1480
+ATQCUS1801,July,Food,Credit Card,1305
+ATQCUS1965,June,Electronics,Net Banking,313
+ATQCUS2937,June,Groceries,UPI,902
+ATQCUS1660,May,Bills,Net Banking,473
+ATQCUS0998,August,Others,Debit Card,212
+ATQCUS2344,May,Travel,Net Banking,67
+ATQCUS0645,May,Health & Wellness,Net Banking,70
+ATQCUS3743,September,Apparel,Credit Card,815
+ATQCUS2528,July,Health & Wellness,Debit Card,437
+ATQCUS1549,September,Entertainment,Debit Card,245
+ATQCUS3288,August,Electronics,UPI,190
+ATQCUS0374,October,Apparel,Net Banking,44
+ATQCUS1303,October,Food,Net Banking,259
+ATQCUS0091,September,Apparel,UPI,183
+ATQCUS1432,July,Groceries,Credit Card,1044
+ATQCUS2016,August,Food,UPI,509
+ATQCUS0833,September,Apparel,Net Banking,152
+ATQCUS1042,August,Food,Net Banking,288
+ATQCUS1300,May,Entertainment,Net Banking,143
+ATQCUS0576,October,Food,Net Banking,247
+ATQCUS2659,July,Entertainment,UPI,324
+ATQCUS3410,August,Food,UPI,707
+ATQCUS1703,August,Entertainment,Credit Card,382
+ATQCUS0380,May,Groceries,Net Banking,79
+ATQCUS3742,June,Apparel,UPI,76
+ATQCUS0081,June,Apparel,Net Banking,263
+ATQCUS0418,May,Groceries,UPI,1983
+ATQCUS1980,June,Groceries,Credit Card,976
+ATQCUS0058,September,Health & Wellness,UPI,311
+ATQCUS2910,September,Travel,Debit Card,527
+ATQCUS1595,September,Food,Debit Card,165
+ATQCUS1460,July,Health & Wellness,UPI,433
+ATQCUS1579,August,Groceries,Debit Card,348
+ATQCUS3939,September,Bills,UPI,3171
+ATQCUS2670,September,Groceries,Credit Card,1503
+ATQCUS2935,October,Food,Debit Card,258
+ATQCUS2805,June,Food,Debit Card,246
+ATQCUS1789,July,Health & Wellness,Debit Card,168
+ATQCUS3051,August,Health & Wellness,Debit Card,210
+ATQCUS3206,July,Others,UPI,253
+ATQCUS1653,September,Entertainment,Net Banking,142
+ATQCUS0786,October,Electronics,Credit Card,1899
+ATQCUS2440,July,Health & Wellness,Net Banking,700
+ATQCUS1753,June,Food,UPI,456
+ATQCUS0841,August,Health & Wellness,UPI,749
+ATQCUS2631,July,Entertainment,Debit Card,90
+ATQCUS2093,July,Apparel,UPI,315
+ATQCUS2652,May,Travel,Debit Card,462
+ATQCUS0442,October,Apparel,Debit Card,296
+ATQCUS3936,June,Bills,Debit Card,648
+ATQCUS0310,August,Apparel,Credit Card,1265
+ATQCUS0322,October,Entertainment,Credit Card,1270
+ATQCUS1534,May,Food,Credit Card,496
+ATQCUS3504,July,Food,Credit Card,896
+ATQCUS3750,August,Apparel,Credit Card,904
+ATQCUS0719,August,Food,Debit Card,479
+ATQCUS0104,May,Bills,Debit Card,647
+ATQCUS1770,May,Health & Wellness,Credit Card,544
+ATQCUS0479,August,Travel,Debit Card,509
+ATQCUS3828,May,Electronics,UPI,462
+ATQCUS2038,July,Others,Credit Card,73
+ATQCUS2563,July,Groceries,Net Banking,118
+ATQCUS1103,October,Electronics,Credit Card,2012
+ATQCUS2780,June,Bills,Net Banking,507
+ATQCUS3662,May,Electronics,Net Banking,210
+ATQCUS2398,May,Health & Wellness,Net Banking,145
+ATQCUS2547,June,Groceries,Debit Card,812
+ATQCUS0302,June,Apparel,UPI,116
+ATQCUS1798,July,Electronics,UPI,424
+ATQCUS1559,May,Health & Wellness,UPI,257
+ATQCUS3113,May,Travel,Credit Card,557
+ATQCUS1289,August,Groceries,UPI,589
+ATQCUS1962,August,Bills,Debit Card,1795
+ATQCUS1508,August,Entertainment,UPI,273
+ATQCUS2333,July,Travel,Debit Card,855
+ATQCUS2930,October,Others,Net Banking,82
+ATQCUS0736,May,Entertainment,Net Banking,50
+ATQCUS2480,September,Travel,Debit Card,614
+ATQCUS0437,October,Food,Net Banking,107
+ATQCUS2295,June,Health & Wellness,Debit Card,485
+ATQCUS2464,September,Others,UPI,145
+ATQCUS2417,June,Others,Net Banking,95
+ATQCUS3377,May,Electronics,Credit Card,616
+ATQCUS1918,October,Food,Debit Card,665
+ATQCUS3276,May,Bills,Debit Card,895
+ATQCUS1864,August,Electronics,Debit Card,1604
+ATQCUS3617,June,Groceries,UPI,635
+ATQCUS0961,October,Food,Credit Card,1188
+ATQCUS2328,September,Entertainment,Debit Card,1399
+ATQCUS1206,October,Electronics,Credit Card,989
+ATQCUS0587,May,Apparel,Net Banking,107
+ATQCUS3862,October,Health & Wellness,Credit Card,941
+ATQCUS3301,May,Travel,Net Banking,446
+ATQCUS0602,October,Electronics,UPI,328
+ATQCUS3773,September,Food,UPI,1084
+ATQCUS0155,October,Travel,UPI,589
+ATQCUS3788,August,Others,Credit Card,203
+ATQCUS2538,August,Others,UPI,353
+ATQCUS2842,October,Others,Credit Card,729
+ATQCUS1952,October,Travel,Debit Card,260
+ATQCUS0951,May,Health & Wellness,Debit Card,132
+ATQCUS3022,October,Apparel,Credit Card,236
+ATQCUS2885,July,Travel,UPI,733
+ATQCUS2010,May,Travel,UPI,295
+ATQCUS1807,May,Health & Wellness,Debit Card,529
+ATQCUS3447,October,Electronics,Debit Card,294
+ATQCUS3025,August,Entertainment,UPI,2451
+ATQCUS1617,October,Bills,Net Banking,463
+ATQCUS1003,September,Food,Net Banking,85
+ATQCUS0450,August,Entertainment,Credit Card,1499
+ATQCUS0198,August,Electronics,Debit Card,348
+ATQCUS3030,August,Electronics,UPI,921
+ATQCUS3538,September,Groceries,Net Banking,1168
+ATQCUS1931,July,Travel,Credit Card,196
+ATQCUS2050,September,Health & Wellness,Net Banking,614
+ATQCUS1256,June,Others,Debit Card,255
+ATQCUS1212,July,Entertainment,Net Banking,270
+ATQCUS0461,June,Travel,UPI,258
+ATQCUS0948,May,Electronics,Credit Card,263
+ATQCUS2250,June,Groceries,Debit Card,507
+ATQCUS0444,September,Health & Wellness,Debit Card,3628
+ATQCUS3017,October,Travel,Debit Card,328
+ATQCUS2249,June,Electronics,Net Banking,112
+ATQCUS0229,September,Others,Credit Card,88
+ATQCUS2584,October,Health & Wellness,Debit Card,277
+ATQCUS2299,May,Groceries,UPI,1023
+ATQCUS0517,October,Others,Debit Card,263
+ATQCUS0271,September,Electronics,Debit Card,865
+ATQCUS1912,June,Travel,Debit Card,551
+ATQCUS1701,September,Travel,Debit Card,452
+ATQCUS3446,October,Apparel,UPI,171
+ATQCUS1280,July,Entertainment,Credit Card,576
+ATQCUS2855,June,Travel,Credit Card,963
+ATQCUS0513,September,Groceries,UPI,1136
+ATQCUS3631,September,Food,UPI,2774
+ATQCUS0126,August,Bills,UPI,636
+ATQCUS0927,October,Groceries,Credit Card,977
+ATQCUS1463,October,Bills,Net Banking,337
+ATQCUS2957,May,Travel,Net Banking,105
+ATQCUS0144,September,Bills,Debit Card,95
+ATQCUS2829,August,Groceries,Debit Card,1012
+ATQCUS3444,September,Others,Debit Card,100
+ATQCUS1906,August,Others,Debit Card,160
+ATQCUS0654,August,Electronics,Debit Card,986
+ATQCUS0153,July,Health & Wellness,Debit Card,428
+ATQCUS1581,October,Health & Wellness,Debit Card,612
+ATQCUS3623,October,Entertainment,UPI,982
+ATQCUS3598,June,Others,UPI,310
+ATQCUS3479,July,Groceries,Debit Card,349
+ATQCUS1005,August,Health & Wellness,Debit Card,1317
+ATQCUS0359,October,Food,UPI,315
+ATQCUS3380,June,Food,UPI,385
+ATQCUS2484,September,Food,Net Banking,310
+ATQCUS3706,October,Bills,UPI,1127
+ATQCUS2571,June,Health & Wellness,Credit Card,2093
+ATQCUS3102,October,Electronics,UPI,1136
+ATQCUS3909,July,Food,Credit Card,654
+ATQCUS0898,October,Others,UPI,154
+ATQCUS1572,September,Others,Net Banking,78
+ATQCUS0800,August,Others,Net Banking,33
+ATQCUS1127,July,Health & Wellness,Credit Card,360
+ATQCUS2346,October,Health & Wellness,Credit Card,4299
+ATQCUS2247,June,Apparel,Credit Card,736
+ATQCUS3710,October,Apparel,UPI,282
+ATQCUS3217,September,Entertainment,Credit Card,301
+ATQCUS2834,May,Bills,Net Banking,341
+ATQCUS1294,August,Electronics,UPI,1124
+ATQCUS3118,September,Health & Wellness,Debit Card,611
+ATQCUS3154,October,Bills,Debit Card,962
+ATQCUS0371,September,Apparel,Credit Card,721
+ATQCUS3886,October,Others,Debit Card,117
+ATQCUS1102,August,Apparel,Debit Card,380
+ATQCUS2626,October,Health & Wellness,Net Banking,369
+ATQCUS2731,October,Electronics,Debit Card,1485
+ATQCUS0189,June,Apparel,UPI,947
+ATQCUS2208,May,Electronics,UPI,1189
+ATQCUS2897,June,Travel,Net Banking,83
+ATQCUS0339,July,Groceries,Debit Card,328
+ATQCUS1754,August,Health & Wellness,Credit Card,495
+ATQCUS3440,July,Travel,Credit Card,879
+ATQCUS3656,August,Bills,Debit Card,312
+ATQCUS2059,September,Electronics,Net Banking,189
+ATQCUS1773,October,Travel,Net Banking,311
+ATQCUS3225,October,Travel,Debit Card,797
+ATQCUS3602,July,Entertainment,Net Banking,454
+ATQCUS2315,June,Electronics,Credit Card,793
+ATQCUS3735,October,Bills,Credit Card,2755
+ATQCUS2446,September,Apparel,UPI,854
+ATQCUS1670,June,Food,Net Banking,107
+ATQCUS2721,October,Groceries,UPI,1306
+ATQCUS2947,September,Entertainment,Debit Card,349
+ATQCUS1482,October,Bills,UPI,953
+ATQCUS2804,June,Health & Wellness,Credit Card,1062
+ATQCUS3502,September,Apparel,Debit Card,218
+ATQCUS1156,May,Entertainment,Debit Card,197
+ATQCUS3432,September,Travel,Net Banking,300
+ATQCUS1242,September,Travel,UPI,935
+ATQCUS0078,October,Apparel,UPI,362
+ATQCUS2868,May,Health & Wellness,Credit Card,618
+ATQCUS3033,June,Apparel,UPI,145
+ATQCUS0845,June,Health & Wellness,Net Banking,1007
+ATQCUS0238,July,Bills,Debit Card,278
+ATQCUS3903,October,Entertainment,Net Banking,126
+ATQCUS0045,October,Electronics,Credit Card,715
+ATQCUS3085,August,Entertainment,Debit Card,1033
+ATQCUS3035,June,Apparel,UPI,121
+ATQCUS3946,July,Travel,Debit Card,606
+ATQCUS2098,May,Groceries,Net Banking,205
+ATQCUS0139,October,Others,Net Banking,56
+ATQCUS3635,August,Travel,Credit Card,1166
+ATQCUS3171,September,Food,UPI,471
+ATQCUS2104,October,Others,Net Banking,39
+ATQCUS2431,June,Health & Wellness,Net Banking,321
+ATQCUS2044,October,Health & Wellness,Net Banking,155
+ATQCUS1147,September,Apparel,Debit Card,195
+ATQCUS3736,September,Apparel,Debit Card,142
+ATQCUS0923,October,Others,Credit Card,348
+ATQCUS3855,September,Groceries,Debit Card,2944
+ATQCUS2226,September,Food,Net Banking,266
+ATQCUS0033,October,Bills,UPI,1258
+ATQCUS1443,May,Apparel,Net Banking,59
+ATQCUS2876,June,Apparel,Debit Card,845
+ATQCUS0984,July,Groceries,Net Banking,141
+ATQCUS2892,June,Apparel,Net Banking,39
+ATQCUS0069,June,Entertainment,UPI,222
+ATQCUS3497,June,Food,Net Banking,278
+ATQCUS2655,September,Entertainment,Net Banking,225
+ATQCUS2437,October,Apparel,Debit Card,714
+ATQCUS3651,June,Apparel,UPI,572
+ATQCUS2772,May,Electronics,Debit Card,388
+ATQCUS2190,September,Travel,Net Banking,358
+ATQCUS3807,July,Food,Debit Card,508
+ATQCUS2087,May,Travel,Debit Card,1147
+ATQCUS0943,May,Health & Wellness,Credit Card,1202
+ATQCUS3520,August,Groceries,Debit Card,729
+ATQCUS3716,June,Apparel,Net Banking,186
+ATQCUS3133,September,Others,Credit Card,113
+ATQCUS1697,August,Health & Wellness,Credit Card,3832
+ATQCUS3036,May,Others,UPI,135
+ATQCUS1259,May,Entertainment,UPI,153
+ATQCUS0710,September,Apparel,Net Banking,269
+ATQCUS1157,October,Food,UPI,365
+ATQCUS2293,June,Others,Debit Card,70
+ATQCUS1739,June,Bills,Debit Card,569
+ATQCUS3834,May,Groceries,Credit Card,1244
+ATQCUS0687,July,Groceries,Net Banking,110
+ATQCUS2143,May,Groceries,Debit Card,1008
+ATQCUS2955,September,Electronics,Credit Card,1410
+ATQCUS0475,October,Others,Net Banking,82
+ATQCUS3310,October,Others,Net Banking,51
+ATQCUS3403,August,Apparel,Debit Card,455
+ATQCUS1976,August,Food,Credit Card,555
+ATQCUS2004,July,Travel,Credit Card,1251
+ATQCUS1084,May,Electronics,Debit Card,577
+ATQCUS1429,June,Food,UPI,379
+ATQCUS3949,May,Health & Wellness,Debit Card,1462
+ATQCUS1675,October,Groceries,UPI,673
+ATQCUS3554,October,Travel,Credit Card,562
+ATQCUS0029,August,Travel,Net Banking,326
+ATQCUS2013,August,Apparel,UPI,94
+ATQCUS3360,October,Groceries,UPI,336
+ATQCUS0564,September,Others,Debit Card,220
+ATQCUS1470,June,Entertainment,Net Banking,83
+ATQCUS2341,May,Groceries,UPI,386
+ATQCUS2512,August,Others,Net Banking,33
+ATQCUS3882,July,Apparel,UPI,90
+ATQCUS2094,June,Food,Credit Card,574
+ATQCUS1775,May,Bills,Net Banking,487
+ATQCUS0284,May,Food,Debit Card,284
+ATQCUS1997,August,Bills,Debit Card,1456
+ATQCUS0767,September,Electronics,Credit Card,887
+ATQCUS3325,June,Others,Net Banking,130
+ATQCUS1641,September,Electronics,Debit Card,320
+ATQCUS1792,June,Apparel,Debit Card,268
+ATQCUS1364,September,Health & Wellness,UPI,446
+ATQCUS0006,June,Apparel,Credit Card,573
+ATQCUS1894,August,Entertainment,Debit Card,895
+ATQCUS0174,October,Electronics,Net Banking,666
+ATQCUS2965,September,Bills,Debit Card,1124
+ATQCUS0168,May,Health & Wellness,Credit Card,177
+ATQCUS2707,July,Health & Wellness,Credit Card,629
+ATQCUS0623,September,Groceries,Debit Card,614
+ATQCUS1088,July,Electronics,Debit Card,841
+ATQCUS1002,October,Bills,Debit Card,369
+ATQCUS1964,May,Health & Wellness,Credit Card,2584
+ATQCUS3625,July,Electronics,UPI,543
+ATQCUS3911,July,Electronics,Net Banking,130
+ATQCUS3452,October,Bills,Net Banking,223
+ATQCUS0722,October,Entertainment,Debit Card,90
+ATQCUS2727,June,Others,Net Banking,139
+ATQCUS2430,May,Others,UPI,135
+ATQCUS2319,July,Entertainment,Net Banking,85
+ATQCUS1651,July,Entertainment,Credit Card,1813
+ATQCUS0900,May,Entertainment,UPI,161
+ATQCUS2198,May,Apparel,UPI,171
+ATQCUS2460,August,Entertainment,Net Banking,89
+ATQCUS0912,May,Health & Wellness,Credit Card,573
+ATQCUS0827,July,Food,Net Banking,157
+ATQCUS2926,October,Others,Debit Card,100
+ATQCUS1478,May,Travel,Net Banking,622
+ATQCUS0370,July,Health & Wellness,Credit Card,436
+ATQCUS0413,September,Food,Net Banking,152
+ATQCUS0017,August,Others,Credit Card,239
+ATQCUS0398,August,Others,Credit Card,216
+ATQCUS0014,July,Apparel,Debit Card,301
+ATQCUS1209,October,Health & Wellness,Debit Card,1684
+ATQCUS0493,May,Food,Net Banking,178
+ATQCUS1338,September,Electronics,Credit Card,3757
+ATQCUS0761,May,Food,UPI,338
+ATQCUS1618,October,Electronics,UPI,728
+ATQCUS3829,July,Electronics,Net Banking,111
+ATQCUS1590,July,Travel,UPI,247
+ATQCUS3002,June,Others,Net Banking,23
+ATQCUS0525,July,Food,Credit Card,678
+ATQCUS0070,August,Groceries,UPI,3491
+ATQCUS0431,May,Travel,Net Banking,211
+ATQCUS2617,July,Groceries,Debit Card,715
+ATQCUS0083,June,Bills,Debit Card,1175
+ATQCUS1707,September,Electronics,UPI,667
+ATQCUS3755,June,Electronics,Debit Card,541
+ATQCUS0036,August,Travel,UPI,690
+ATQCUS2639,September,Health & Wellness,Credit Card,5251
+ATQCUS0582,September,Apparel,Credit Card,573
+ATQCUS1272,May,Health & Wellness,Credit Card,2277
+ATQCUS0897,October,Electronics,UPI,1322
+ATQCUS2260,May,Entertainment,Debit Card,111
+ATQCUS2522,May,Apparel,Debit Card,93
+ATQCUS0826,June,Electronics,Credit Card,2647
+ATQCUS3822,June,Apparel,Credit Card,338
+ATQCUS3859,August,Groceries,Credit Card,671
+ATQCUS0387,September,Groceries,Debit Card,1118
+ATQCUS1727,October,Travel,Debit Card,466
+ATQCUS2116,June,Entertainment,Debit Card,508
+ATQCUS3252,May,Apparel,Debit Card,125
+ATQCUS2958,September,Bills,Credit Card,2853
+ATQCUS0764,August,Health & Wellness,Net Banking,513
+ATQCUS1052,June,Groceries,Debit Card,548
+ATQCUS0373,July,Food,Net Banking,128
+ATQCUS0379,October,Others,Credit Card,239
+ATQCUS0909,July,Travel,UPI,831
+ATQCUS1645,June,Bills,Debit Card,451
+ATQCUS0959,October,Apparel,Credit Card,266
+ATQCUS3003,September,Electronics,UPI,1450
+ATQCUS2588,October,Others,Net Banking,32
+ATQCUS1485,October,Others,Credit Card,331
+ATQCUS2743,July,Food,Credit Card,289
+ATQCUS2657,May,Entertainment,Net Banking,63
+ATQCUS1684,May,Food,Debit Card,220
+ATQCUS3081,September,Groceries,Net Banking,218
+ATQCUS3031,August,Electronics,Credit Card,890
+ATQCUS2699,October,Travel,Credit Card,246
+ATQCUS2749,September,Apparel,Credit Card,506
+ATQCUS3786,June,Travel,Debit Card,310
+ATQCUS1748,June,Groceries,Debit Card,118
+ATQCUS0222,October,Apparel,Net Banking,87
+ATQCUS1857,August,Food,Credit Card,1546
+ATQCUS0175,September,Others,Debit Card,145
+ATQCUS0940,May,Others,Credit Card,433
+ATQCUS3037,September,Apparel,UPI,1064
+ATQCUS0958,September,Food,Credit Card,686
+ATQCUS3591,July,Bills,Credit Card,226
+ATQCUS2874,June,Apparel,Debit Card,191
+ATQCUS1861,September,Groceries,Debit Card,1635
+ATQCUS2025,October,Entertainment,Debit Card,295
+ATQCUS1627,July,Others,Net Banking,32
+ATQCUS1228,June,Apparel,UPI,342
+ATQCUS1953,August,Apparel,Net Banking,303
+ATQCUS2405,August,Travel,Credit Card,1055
+ATQCUS1269,July,Apparel,Debit Card,412
+ATQCUS0125,September,Health & Wellness,Credit Card,297
+ATQCUS2196,August,Others,Debit Card,59
+ATQCUS3680,September,Electronics,Net Banking,339
+ATQCUS2332,May,Electronics,Debit Card,393
+ATQCUS2969,June,Groceries,Debit Card,881
+ATQCUS2650,June,Travel,Net Banking,298
+ATQCUS3307,October,Food,UPI,811
+ATQCUS2171,October,Travel,Debit Card,205
+ATQCUS1405,June,Food,UPI,1001
+ATQCUS1966,August,Others,Credit Card,384
+ATQCUS0537,July,Entertainment,UPI,114
+ATQCUS2396,October,Apparel,Credit Card,280
+ATQCUS3697,June,Apparel,Debit Card,37
+ATQCUS0478,June,Entertainment,Net Banking,162
+ATQCUS3910,June,Others,UPI,231
+ATQCUS0196,May,Electronics,Debit Card,684
+ATQCUS0148,September,Groceries,Credit Card,2218
+ATQCUS1616,September,Apparel,Debit Card,951
+ATQCUS1428,September,Bills,Credit Card,1190
+ATQCUS1145,June,Groceries,Debit Card,876
+ATQCUS1769,October,Others,Debit Card,30
+ATQCUS0723,May,Others,Credit Card,413
+ATQCUS0260,May,Entertainment,Net Banking,123
+ATQCUS3667,July,Apparel,Debit Card,288
+ATQCUS0296,October,Others,Net Banking,49
+ATQCUS0176,June,Health & Wellness,Net Banking,611
+ATQCUS1114,July,Entertainment,Credit Card,1777
+ATQCUS3599,June,Travel,Net Banking,354
+ATQCUS3219,May,Entertainment,Debit Card,393
+ATQCUS3487,July,Entertainment,UPI,465
+ATQCUS2155,May,Health & Wellness,Net Banking,207
+ATQCUS2184,October,Entertainment,Net Banking,246
+ATQCUS3185,October,Others,Net Banking,38
+ATQCUS3389,July,Electronics,Credit Card,1355
+ATQCUS2221,June,Bills,Net Banking,262
+ATQCUS0303,August,Electronics,Credit Card,923
+ATQCUS3393,July,Apparel,UPI,126
+ATQCUS3241,June,Groceries,Debit Card,1126
+ATQCUS3275,July,Entertainment,Net Banking,101
+ATQCUS3813,October,Apparel,Credit Card,608
+ATQCUS1282,August,Apparel,Net Banking,212
+ATQCUS0778,October,Apparel,Net Banking,53
+ATQCUS3976,August,Electronics,UPI,309
+ATQCUS1841,July,Travel,Credit Card,670
+ATQCUS1137,July,Health & Wellness,Net Banking,246
+ATQCUS0799,June,Entertainment,Debit Card,179
+ATQCUS1011,October,Food,Debit Card,171
+ATQCUS0391,May,Entertainment,Debit Card,323
+ATQCUS1626,July,Health & Wellness,Debit Card,863
+ATQCUS1631,August,Groceries,Net Banking,460
+ATQCUS0082,June,Health & Wellness,Net Banking,49
+ATQCUS3507,October,Health & Wellness,Credit Card,576
+ATQCUS2669,August,Electronics,UPI,898
+ATQCUS0750,August,Health & Wellness,Debit Card,503
+ATQCUS3382,August,Entertainment,Net Banking,97
+ATQCUS3164,October,Travel,Net Banking,121
+ATQCUS0839,June,Others,Net Banking,103
+ATQCUS1813,June,Electronics,Credit Card,1154
+ATQCUS0585,July,Electronics,UPI,939
+ATQCUS2036,August,Others,Debit Card,201
+ATQCUS2781,May,Electronics,Debit Card,428
+ATQCUS3413,July,Health & Wellness,UPI,671
+ATQCUS3189,August,Travel,Net Banking,483
+ATQCUS3881,September,Health & Wellness,UPI,788
+ATQCUS1767,May,Health & Wellness,Debit Card,718
+ATQCUS3852,July,Travel,Credit Card,194
+ATQCUS3257,July,Others,UPI,90
+ATQCUS3399,July,Entertainment,Net Banking,199
+ATQCUS2054,June,Electronics,UPI,628
+ATQCUS0903,September,Bills,Debit Card,272
+ATQCUS0351,May,Others,Credit Card,150
+ATQCUS2952,May,Electronics,Net Banking,233
+ATQCUS3513,July,Health & Wellness,UPI,1917
+ATQCUS0041,July,Health & Wellness,Credit Card,1823
+ATQCUS1368,August,Food,Credit Card,785
+ATQCUS1369,September,Apparel,Debit Card,266
+ATQCUS1811,July,Health & Wellness,Net Banking,221
+ATQCUS0187,July,Bills,Net Banking,569
+ATQCUS1730,May,Apparel,UPI,291
+ATQCUS0983,October,Groceries,Net Banking,59
+ATQCUS0120,October,Travel,Net Banking,317
+ATQCUS2079,July,Health & Wellness,Credit Card,587
+ATQCUS1240,August,Groceries,Credit Card,1561
+ATQCUS3784,October,Entertainment,UPI,643
+ATQCUS1848,August,Entertainment,Net Banking,470
+ATQCUS2497,August,Groceries,UPI,1110
+ATQCUS0883,October,Others,UPI,326
+ATQCUS3179,May,Health & Wellness,UPI,234
+ATQCUS0115,June,Bills,Credit Card,2530
+ATQCUS1065,August,Others,UPI,232
+ATQCUS0056,June,Food,UPI,566
+ATQCUS1884,July,Groceries,Net Banking,870
+ATQCUS0976,September,Travel,Net Banking,1213
+ATQCUS3415,August,Others,UPI,311
+ATQCUS0485,October,Food,UPI,657
+ATQCUS0565,July,Bills,Credit Card,3379
+ATQCUS3165,May,Groceries,Credit Card,1158
+ATQCUS0584,June,Entertainment,Net Banking,54
+ATQCUS3985,October,Apparel,Debit Card,873
+ATQCUS0399,October,Food,Net Banking,191
+ATQCUS2823,July,Others,Credit Card,289
+ATQCUS2485,August,Apparel,UPI,276
+ATQCUS0835,October,Health & Wellness,Net Banking,94
+ATQCUS0707,May,Apparel,UPI,245
+ATQCUS2228,June,Others,UPI,129
+ATQCUS2449,May,Others,Net Banking,50
+ATQCUS2970,June,Bills,Debit Card,1410
+ATQCUS0715,May,Food,Net Banking,312
+ATQCUS3781,October,Health & Wellness,Debit Card,184
+ATQCUS3156,August,Travel,UPI,370
+ATQCUS3201,June,Entertainment,UPI,829
+ATQCUS1168,June,Health & Wellness,Debit Card,845
+ATQCUS1381,July,Food,UPI,261
+ATQCUS2180,May,Entertainment,Debit Card,337
+ATQCUS0071,October,Food,Debit Card,363
+ATQCUS1180,June,Groceries,Credit Card,410
+ATQCUS3448,September,Travel,Credit Card,250
+ATQCUS1720,August,Entertainment,UPI,4081
+ATQCUS2552,July,Food,UPI,417
+ATQCUS1911,May,Others,Net Banking,25
+ATQCUS1672,September,Health & Wellness,Net Banking,127
+ATQCUS2603,August,Travel,UPI,526
+ATQCUS1722,September,Electronics,Debit Card,562
+ATQCUS1671,August,Travel,Debit Card,437
+ATQCUS0864,October,Bills,UPI,1039
+ATQCUS1930,June,Groceries,Debit Card,392
+ATQCUS3700,June,Travel,Credit Card,1295
+ATQCUS2337,July,Food,UPI,252
+ATQCUS0937,June,Electronics,Debit Card,235
+ATQCUS0221,September,Others,Credit Card,316
+ATQCUS2606,September,Entertainment,Credit Card,1196
+ATQCUS0757,June,Electronics,Net Banking,342
+ATQCUS3160,May,Travel,Debit Card,261
+ATQCUS0211,October,Bills,UPI,727
+ATQCUS2459,June,Others,Credit Card,356
+ATQCUS3115,August,Travel,Debit Card,487
+ATQCUS2262,May,Health & Wellness,Credit Card,411
+ATQCUS0823,May,Apparel,Credit Card,860
+ATQCUS2753,August,Entertainment,Debit Card,312
+ATQCUS3109,June,Bills,UPI,1000
+ATQCUS1264,October,Food,Net Banking,116
+ATQCUS2265,June,Entertainment,Credit Card,267
+ATQCUS0147,October,Bills,Net Banking,402
+ATQCUS3528,September,Travel,Net Banking,282
+ATQCUS1166,June,Entertainment,Credit Card,550
+ATQCUS2685,June,Food,Net Banking,298
+ATQCUS3357,July,Groceries,Net Banking,308
+ATQCUS3937,October,Apparel,UPI,71
+ATQCUS3379,July,Entertainment,Net Banking,82
+ATQCUS3929,September,Health & Wellness,Debit Card,345
+ATQCUS0512,October,Others,Credit Card,356
+ATQCUS2001,August,Apparel,Net Banking,160
+ATQCUS0001,August,Food,UPI,539
+ATQCUS2514,August,Bills,Net Banking,300
+ATQCUS2359,June,Entertainment,UPI,124
+ATQCUS3283,May,Electronics,Net Banking,405
+ATQCUS1619,May,Electronics,Debit Card,851
+ATQCUS3825,August,Groceries,Debit Card,1598
+ATQCUS2931,September,Groceries,Debit Card,1231
+ATQCUS3857,October,Food,Debit Card,261
+ATQCUS0216,August,Apparel,Net Banking,398
+ATQCUS2720,May,Entertainment,Net Banking,325
+ATQCUS3727,July,Apparel,UPI,226
+ATQCUS0106,October,Food,UPI,465
+ATQCUS0105,September,Entertainment,UPI,260
+ATQCUS0018,September,Apparel,Credit Card,1776
+ATQCUS2444,June,Groceries,Debit Card,418
+ATQCUS0705,August,Electronics,Net Banking,585
+ATQCUS1497,October,Health & Wellness,Credit Card,3319
+ATQCUS0925,October,Food,Net Banking,166
+ATQCUS0695,June,Travel,Net Banking,227
+ATQCUS3532,August,Apparel,Net Banking,162
+ATQCUS0044,October,Others,Debit Card,42
+ATQCUS3646,July,Food,UPI,338
+ATQCUS3853,September,Health & Wellness,Credit Card,1178
+ATQCUS0965,October,Health & Wellness,Net Banking,298
+ATQCUS1922,October,Electronics,Credit Card,569
+ATQCUS0714,July,Health & Wellness,UPI,402
+ATQCUS2258,July,Health & Wellness,UPI,650
+ATQCUS3261,July,Groceries,UPI,1136
+ATQCUS0348,September,Groceries,UPI,600
+ATQCUS2662,June,Groceries,Debit Card,1360
+ATQCUS3951,July,Electronics,Credit Card,846
+ATQCUS1897,July,Groceries,Debit Card,347
+ATQCUS3431,June,Bills,Debit Card,1602
+ATQCUS2678,August,Food,UPI,565
+ATQCUS1721,August,Apparel,Debit Card,106
+ATQCUS1263,October,Apparel,Debit Card,133
+ATQCUS2741,June,Groceries,Net Banking,372
+ATQCUS3790,July,Travel,Net Banking,71
+ATQCUS1440,July,Bills,UPI,1308
+ATQCUS3267,September,Entertainment,Net Banking,122
+ATQCUS3965,August,Bills,Credit Card,1572
+ATQCUS2963,July,Entertainment,Credit Card,542
+ATQCUS1020,October,Entertainment,Debit Card,394
+ATQCUS1652,July,Apparel,UPI,399
+ATQCUS1434,September,Apparel,UPI,634
+ATQCUS1383,July,Travel,Credit Card,920
+ATQCUS2542,August,Groceries,UPI,2672
+ATQCUS3215,July,Entertainment,UPI,411
+ATQCUS1786,July,Entertainment,Debit Card,759
+ATQCUS0425,June,Apparel,Debit Card,198
+ATQCUS0488,October,Groceries,Credit Card,705
+ATQCUS1955,August,Bills,Debit Card,691
+ATQCUS1838,August,Health & Wellness,Debit Card,2208
+ATQCUS3494,June,Travel,Net Banking,132
+ATQCUS1661,July,Apparel,UPI,166
+ATQCUS0820,May,Electronics,Credit Card,1053
+ATQCUS2404,September,Entertainment,Debit Card,288
+ATQCUS0190,October,Food,Net Banking,191
+ATQCUS0191,September,Health & Wellness,UPI,1299
+ATQCUS0231,September,Travel,Credit Card,1498
+ATQCUS0089,July,Others,Credit Card,91
+ATQCUS3576,September,Apparel,UPI,730
+ATQCUS0960,May,Electronics,Debit Card,939
+ATQCUS2998,October,Apparel,Credit Card,912
+ATQCUS1760,May,Travel,UPI,595
+ATQCUS3894,September,Bills,Net Banking,650
+ATQCUS0267,August,Others,Debit Card,164
+ATQCUS1517,September,Others,Debit Card,127
+ATQCUS0798,July,Others,Credit Card,183
+ATQCUS0559,August,Electronics,Net Banking,142
+ATQCUS3173,May,Food,Net Banking,72
+ATQCUS1070,August,Entertainment,Net Banking,95
+ATQCUS3956,May,Food,Net Banking,367
+ATQCUS0388,September,Food,UPI,1331
+ATQCUS2314,August,Travel,Net Banking,412
+ATQCUS0855,September,Bills,Net Banking,427
+ATQCUS0534,May,Apparel,Net Banking,48
+ATQCUS0824,September,Entertainment,Net Banking,54
+ATQCUS1247,June,Bills,Net Banking,720
+ATQCUS1845,May,Groceries,Net Banking,102
+ATQCUS1254,October,Entertainment,Net Banking,138
+ATQCUS0086,May,Bills,UPI,342
+ATQCUS1363,June,Entertainment,UPI,541
+ATQCUS0865,June,Electronics,Credit Card,609
+ATQCUS0328,July,Travel,Credit Card,417
+ATQCUS3000,May,Electronics,UPI,586
+ATQCUS0596,May,Food,Net Banking,357
+ATQCUS3584,October,Food,UPI,553
+ATQCUS2909,June,Entertainment,Debit Card,332
+ATQCUS1905,September,Electronics,Credit Card,1270
+ATQCUS3104,October,Apparel,UPI,236
+ATQCUS1173,September,Bills,Credit Card,3102
+ATQCUS0458,October,Bills,UPI,1262
+ATQCUS1143,July,Electronics,Net Banking,446
+ATQCUS0932,July,Others,UPI,197
+ATQCUS2728,May,Entertainment,Credit Card,126
+ATQCUS3674,June,Health & Wellness,Debit Card,237
+ATQCUS0484,September,Entertainment,Net Banking,89
+ATQCUS2990,October,Bills,Credit Card,1726
+ATQCUS1483,October,Electronics,UPI,513
+ATQCUS1569,September,Apparel,Net Banking,245
+ATQCUS0580,July,Electronics,Net Banking,296
+ATQCUS0392,July,Others,Credit Card,158
+ATQCUS0270,July,Groceries,Net Banking,625
+ATQCUS2808,May,Electronics,Credit Card,1621
+ATQCUS2300,September,Apparel,UPI,384
+ATQCUS0913,October,Travel,Debit Card,735
+ATQCUS1751,September,Bills,UPI,807
+ATQCUS3628,May,Electronics,UPI,588
+ATQCUS0466,July,Groceries,UPI,2241
+ATQCUS2285,October,Health & Wellness,Credit Card,4267
+ATQCUS2279,October,Electronics,Net Banking,196
+ATQCUS1255,July,Food,UPI,257
+ATQCUS1191,October,Electronics,Credit Card,995
+ATQCUS1575,August,Health & Wellness,Net Banking,70
+ATQCUS0338,June,Others,Debit Card,250
+ATQCUS2233,August,Bills,UPI,1373
+ATQCUS2099,June,Health & Wellness,Net Banking,247
+ATQCUS0408,August,Apparel,Debit Card,276
+ATQCUS3850,May,Travel,Credit Card,1073
+ATQCUS2973,July,Electronics,Net Banking,317
+ATQCUS1532,May,Others,UPI,229
+ATQCUS0326,October,Health & Wellness,UPI,389
+ATQCUS1079,August,Food,UPI,839
+ATQCUS2455,August,Electronics,Debit Card,590
+ATQCUS1928,May,Travel,UPI,768
+ATQCUS0733,May,Bills,Credit Card,556
+ATQCUS1059,May,Apparel,Net Banking,41
+ATQCUS1332,August,Others,Net Banking,59
+ATQCUS0575,August,Bills,Debit Card,1509
+ATQCUS0225,May,Bills,UPI,181
+ATQCUS1577,October,Bills,UPI,1433
+ATQCUS3486,May,Food,UPI,461
+ATQCUS0372,May,Groceries,Net Banking,232
+ATQCUS3912,June,Health & Wellness,Debit Card,655
+ATQCUS2471,May,Electronics,Credit Card,1194
+ATQCUS2144,July,Electronics,Net Banking,306
+ATQCUS0747,August,Electronics,Net Banking,263
+ATQCUS2762,June,Bills,Credit Card,1981
+ATQCUS0501,June,Health & Wellness,Debit Card,1269
+ATQCUS0280,August,Bills,UPI,330
+ATQCUS1416,September,Food,Debit Card,424
+ATQCUS2886,May,Others,Credit Card,327
+ATQCUS2370,June,Health & Wellness,UPI,221
+ATQCUS1772,August,Others,Credit Card,522
+ATQCUS3791,June,Food,UPI,479
+ATQCUS2366,May,Electronics,Net Banking,171
+ATQCUS1179,June,Groceries,Debit Card,1205
+ATQCUS1683,June,Food,Credit Card,571
+ATQCUS2112,October,Travel,Debit Card,318
+ATQCUS3952,June,Entertainment,Net Banking,756
+ATQCUS3266,August,Health & Wellness,UPI,960
+ATQCUS3864,August,Bills,Debit Card,144
+ATQCUS2305,September,Food,Credit Card,658
+ATQCUS0647,September,Bills,Debit Card,229
+ATQCUS1310,October,Entertainment,UPI,357
+ATQCUS2709,September,Travel,UPI,1313
+ATQCUS3428,May,Others,Net Banking,34
+ATQCUS2610,October,Food,UPI,569
+ATQCUS1706,October,Electronics,Net Banking,324
+ATQCUS0574,August,Groceries,Net Banking,268
+ATQCUS2821,June,Food,Net Banking,111
+ATQCUS0171,May,Electronics,UPI,490
+ATQCUS3076,July,Groceries,Debit Card,372
+ATQCUS3396,May,Electronics,Debit Card,195
+ATQCUS3135,October,Entertainment,Net Banking,62
+ATQCUS2162,October,Electronics,UPI,740
+ATQCUS3555,October,Bills,UPI,1950
+ATQCUS0424,August,Bills,Debit Card,638
+ATQCUS3542,May,Health & Wellness,Debit Card,482
+ATQCUS1750,July,Food,Debit Card,316
+ATQCUS1718,July,Travel,Credit Card,1480
+ATQCUS3474,October,Travel,Credit Card,1768
+ATQCUS2602,May,Apparel,UPI,392
+ATQCUS2624,August,Groceries,Debit Card,577
+ATQCUS2691,July,Travel,UPI,723
+ATQCUS1091,October,Entertainment,Credit Card,576
+ATQCUS0813,August,Others,UPI,154
+ATQCUS1276,September,Others,Debit Card,183
+ATQCUS3123,September,Groceries,Credit Card,1221
+ATQCUS2164,October,Apparel,UPI,172
+ATQCUS2540,June,Food,Net Banking,133
+ATQCUS2566,October,Apparel,UPI,212
+ATQCUS2085,August,Food,Credit Card,308
+ATQCUS0200,September,Groceries,Net Banking,625
+ATQCUS3068,August,Entertainment,UPI,374
+ATQCUS1550,September,Entertainment,Debit Card,450
+ATQCUS0212,June,Health & Wellness,UPI,704
+ATQCUS0784,May,Apparel,Debit Card,37
+ATQCUS1766,September,Groceries,Net Banking,133
+ATQCUS1308,May,Travel,Debit Card,844
+ATQCUS2177,May,Electronics,Debit Card,687
+ATQCUS2107,September,Travel,UPI,392
+ATQCUS3797,June,Travel,Debit Card,183
+ATQCUS0713,July,Groceries,Debit Card,2051
+ATQCUS3443,June,Electronics,UPI,1376
+ATQCUS1248,August,Food,Credit Card,481
+ATQCUS1318,October,Apparel,Debit Card,257
+ATQCUS0386,September,Food,Net Banking,329
+ATQCUS0844,May,Travel,Debit Card,193
+ATQCUS2378,June,Groceries,Debit Card,844
+ATQCUS3087,June,Electronics,Credit Card,720
+ATQCUS2273,September,Entertainment,Credit Card,1079
+ATQCUS0510,June,Travel,UPI,732
+ATQCUS0777,May,Entertainment,Debit Card,367
+ATQCUS2126,May,Entertainment,Credit Card,1216
+ATQCUS1493,September,Entertainment,UPI,545
+ATQCUS1056,August,Groceries,Net Banking,362
+ATQCUS1373,May,Groceries,Credit Card,798
+ATQCUS3904,October,Groceries,Debit Card,224
+ATQCUS1561,May,Travel,Credit Card,1220
+ATQCUS3145,September,Others,Debit Card,77
+ATQCUS2879,August,Travel,Net Banking,210
+ATQCUS3879,June,Others,Credit Card,345
+ATQCUS0246,September,Health & Wellness,Net Banking,137
+ATQCUS3524,July,Food,Credit Card,355
+ATQCUS3962,July,Apparel,UPI,156
+ATQCUS1121,September,Apparel,UPI,183
+ATQCUS1551,October,Apparel,Debit Card,293
+ATQCUS1844,September,Bills,Debit Card,664
+ATQCUS0352,September,Bills,Credit Card,2310
+ATQCUS3938,May,Groceries,UPI,646
+ATQCUS1567,October,Electronics,Net Banking,105
+ATQCUS3125,September,Apparel,UPI,330
+ATQCUS2807,July,Electronics,Credit Card,507
+ATQCUS2732,October,Others,Debit Card,195
+ATQCUS3639,August,Travel,Debit Card,399
+ATQCUS0179,August,Electronics,Debit Card,262
+ATQCUS3270,August,Entertainment,Net Banking,76
+ATQCUS2466,October,Electronics,Credit Card,404
+ATQCUS2127,May,Travel,Net Banking,87
+ATQCUS2423,June,Others,Credit Card,443
+ATQCUS3816,October,Entertainment,Net Banking,191
+ATQCUS3670,October,Others,Net Banking,75
+ATQCUS0292,May,Health & Wellness,Debit Card,373
+ATQCUS2647,October,Food,Credit Card,849
+ATQCUS3341,May,Travel,Debit Card,322
+ATQCUS0137,August,Apparel,Credit Card,1506
+ATQCUS3142,July,Apparel,Net Banking,99
+ATQCUS1004,October,Entertainment,UPI,117
+ATQCUS0785,June,Apparel,Net Banking,66
+ATQCUS3038,August,Travel,Credit Card,347
+ATQCUS3059,July,Groceries,Debit Card,750
+ATQCUS2468,October,Electronics,Net Banking,89
+ATQCUS2482,May,Travel,Net Banking,164
+ATQCUS3049,October,Health & Wellness,Credit Card,1622
+ATQCUS1649,August,Travel,Debit Card,809
+ATQCUS3247,October,Electronics,Net Banking,230
+ATQCUS1871,September,Health & Wellness,Net Banking,610
+ATQCUS0456,May,Travel,Net Banking,237
+ATQCUS3400,July,Groceries,Debit Card,737
+ATQCUS2908,June,Apparel,Debit Card,1151
+ATQCUS3107,June,Electronics,UPI,714
+ATQCUS3249,August,Travel,Debit Card,427
+ATQCUS0918,June,Apparel,Credit Card,318
+ATQCUS0629,May,Groceries,Net Banking,460
+ATQCUS3795,October,Others,Credit Card,184
+ATQCUS1886,May,Groceries,UPI,912
+ATQCUS2872,July,Food,Net Banking,272
+ATQCUS2984,October,Apparel,Debit Card,221
+ATQCUS2174,July,Entertainment,Credit Card,692
+ATQCUS1467,June,Groceries,Net Banking,429
+ATQCUS0562,October,Health & Wellness,Credit Card,2685
+ATQCUS2102,June,Groceries,Net Banking,145
+ATQCUS1742,June,Groceries,UPI,954
+ATQCUS3841,May,Travel,Credit Card,241
+ATQCUS3877,June,Bills,UPI,967
+ATQCUS2742,July,Health & Wellness,Credit Card,428
+ATQCUS1812,June,Electronics,Net Banking,296
+ATQCUS0110,July,Bills,Debit Card,2308
+ATQCUS1488,June,Food,Credit Card,774
+ATQCUS3272,May,Food,Credit Card,338
+ATQCUS0850,July,Food,UPI,1146
+ATQCUS2183,October,Groceries,Debit Card,1059
+ATQCUS0742,May,Others,UPI,215
+ATQCUS3065,May,Entertainment,Net Banking,186
+ATQCUS1914,June,Travel,Net Banking,264
+ATQCUS0480,June,Health & Wellness,Credit Card,1538
+ATQCUS1270,July,Entertainment,Net Banking,169
+ATQCUS0141,October,Others,Credit Card,466
+ATQCUS2996,June,Bills,Debit Card,1692
+ATQCUS0851,June,Travel,Net Banking,241
+ATQCUS3001,October,Apparel,Debit Card,441
+ATQCUS3344,July,Bills,UPI,2351
+ATQCUS0103,June,Groceries,Net Banking,460
+ATQCUS2220,October,Electronics,Net Banking,185
+ATQCUS2565,May,Groceries,Credit Card,1555
+ATQCUS2598,June,Apparel,UPI,635
+ATQCUS1979,July,Food,UPI,474
+ATQCUS1606,July,Food,UPI,716
+ATQCUS0797,September,Travel,Credit Card,4983
+ATQCUS3831,July,Bills,Credit Card,3108
+ATQCUS2318,May,Health & Wellness,Credit Card,956
+ATQCUS3009,September,Groceries,Debit Card,1528
+ATQCUS1821,August,Groceries,Debit Card,549
+ATQCUS2086,May,Others,UPI,104
+ATQCUS2090,October,Entertainment,Credit Card,1442
+ATQCUS2524,July,Electronics,Debit Card,741
+ATQCUS0032,October,Apparel,Net Banking,344
+ATQCUS3296,September,Apparel,UPI,275
+ATQCUS2040,September,Food,Credit Card,583
+ATQCUS0631,September,Apparel,Net Banking,196
+ATQCUS3845,September,Entertainment,Net Banking,773
+ATQCUS1183,July,Travel,Debit Card,302
+ATQCUS0436,May,Entertainment,UPI,255
+ATQCUS3178,July,Food,Debit Card,368
+ATQCUS2289,October,Groceries,UPI,1903
+ATQCUS1320,September,Groceries,Debit Card,234
+ATQCUS0741,June,Food,UPI,620
+ATQCUS1251,October,Health & Wellness,UPI,314
+ATQCUS2383,July,Bills,Credit Card,2226
+ATQCUS0598,August,Food,Net Banking,168
+ATQCUS3652,October,Travel,Net Banking,101
+ATQCUS0968,October,Health & Wellness,Net Banking,269
+ATQCUS2811,October,Entertainment,UPI,433
+ATQCUS1298,June,Electronics,Credit Card,1017
+ATQCUS1578,July,Food,Net Banking,119
+ATQCUS0832,August,Groceries,Credit Card,976
+ATQCUS2705,June,Groceries,Debit Card,845
+ATQCUS2186,September,Electronics,Credit Card,733
+ATQCUS3057,September,Apparel,UPI,241
+ATQCUS1050,May,Apparel,Net Banking,64
+ATQCUS3777,June,Travel,Credit Card,1296
+ATQCUS0991,July,Groceries,Credit Card,826
+ATQCUS1828,August,Entertainment,UPI,329
+ATQCUS1681,October,Food,Net Banking,150
+ATQCUS0349,May,Others,UPI,109
+ATQCUS3518,September,Health & Wellness,UPI,1506
+ATQCUS1887,August,Health & Wellness,Debit Card,536
+ATQCUS1116,July,Food,UPI,358
+ATQCUS0593,September,Others,Credit Card,240
+ATQCUS0566,July,Groceries,Net Banking,78
+ATQCUS1417,June,Bills,Credit Card,1488
+ATQCUS0572,July,Food,Net Banking,161
+ATQCUS1699,May,Others,UPI,116
+ATQCUS0788,October,Food,Net Banking,328
+ATQCUS1200,September,Electronics,UPI,786
+ATQCUS3439,July,Travel,Net Banking,154
+ATQCUS1045,August,Travel,UPI,332
+ATQCUS1973,July,Apparel,Net Banking,161
+ATQCUS3702,June,Travel,Credit Card,197
+ATQCUS3058,October,Electronics,Net Banking,193
+ATQCUS1319,August,Electronics,Net Banking,324
+ATQCUS0416,October,Entertainment,Debit Card,206
+ATQCUS0694,July,Apparel,Credit Card,269
+ATQCUS2082,September,Groceries,Credit Card,2237
+ATQCUS3945,October,Entertainment,Net Banking,239
+ATQCUS2533,July,Entertainment,UPI,283
+ATQCUS0815,July,Health & Wellness,Credit Card,1034
+ATQCUS3854,August,Apparel,UPI,91
+ATQCUS0156,June,Groceries,Debit Card,287
+ATQCUS0957,May,Entertainment,UPI,390
+ATQCUS2486,September,Food,Debit Card,212
+ATQCUS3166,September,Apparel,Net Banking,114
+ATQCUS0454,May,Health & Wellness,UPI,311
+ATQCUS3644,June,Groceries,Net Banking,354
+ATQCUS3029,May,Travel,Debit Card,216
+ATQCUS3144,October,Food,Net Banking,383
+ATQCUS1725,June,Groceries,Net Banking,334
+ATQCUS2752,June,Apparel,Credit Card,502
+ATQCUS1061,September,Others,Debit Card,273
+ATQCUS3619,June,Apparel,Net Banking,67
+ATQCUS1410,September,Electronics,UPI,839
+ATQCUS2810,September,Food,Debit Card,898
+ATQCUS0877,August,Others,Credit Card,216
+ATQCUS1155,August,Apparel,Debit Card,187
+ATQCUS0289,September,Health & Wellness,UPI,704
+ATQCUS1069,May,Bills,Debit Card,67
+ATQCUS0169,July,Groceries,UPI,481
+ATQCUS3353,October,Others,Net Banking,86
+ATQCUS3468,September,Health & Wellness,Credit Card,606
+ATQCUS2979,July,Others,UPI,101
+ATQCUS1130,May,Electronics,Debit Card,361
+ATQCUS1768,September,Apparel,Debit Card,226
+ATQCUS2844,September,Electronics,Net Banking,304
+ATQCUS3287,October,Groceries,Debit Card,733
+ATQCUS3054,September,Health & Wellness,Net Banking,170
+ATQCUS0072,July,Travel,Net Banking,192
+ATQCUS1555,July,Bills,Net Banking,728
+ATQCUS3582,August,Others,Debit Card,97
+ATQCUS1636,October,Food,UPI,316
+ATQCUS0966,September,Others,Debit Card,166
+ATQCUS0910,August,Apparel,Net Banking,87
+ATQCUS0614,July,Bills,Debit Card,1436
+ATQCUS3338,October,Electronics,Credit Card,2439
+ATQCUS0199,September,Others,Debit Card,188
+ATQCUS3483,August,Others,UPI,290
+ATQCUS3593,August,Travel,UPI,793
+ATQCUS3188,September,Food,Debit Card,779
+ATQCUS0472,June,Health & Wellness,Debit Card,336
+ATQCUS1687,August,Entertainment,Net Banking,722
+ATQCUS2710,August,Electronics,Debit Card,2460
+ATQCUS3414,August,Apparel,Credit Card,318
+ATQCUS0816,July,Food,UPI,453
+ATQCUS0182,July,Health & Wellness,Net Banking,223
+ATQCUS3972,October,Apparel,Net Banking,179
+ATQCUS0546,July,Electronics,Credit Card,1903
+ATQCUS2679,May,Travel,Debit Card,261
+ATQCUS0369,October,Electronics,UPI,1068
+ATQCUS0165,October,Travel,Net Banking,216
+ATQCUS1117,July,Entertainment,Debit Card,158
+ATQCUS0486,May,Others,Credit Card,219
+ATQCUS3233,May,Electronics,Debit Card,146
+ATQCUS3333,September,Bills,UPI,768
+ATQCUS3876,May,Food,Net Banking,193
+ATQCUS2288,July,Food,Debit Card,603
+ATQCUS2270,July,Bills,Debit Card,973
+ATQCUS0577,May,Travel,Credit Card,225
+ATQCUS3868,July,Health & Wellness,Debit Card,1068
+ATQCUS3205,August,Electronics,Credit Card,1240
+ATQCUS1469,October,Bills,Debit Card,87
+ATQCUS2401,October,Food,Net Banking,514
+ATQCUS0987,October,Electronics,Credit Card,624
+ATQCUS3861,July,Electronics,Debit Card,186
+ATQCUS0746,July,Electronics,Net Banking,414
+ATQCUS1092,July,Electronics,Credit Card,1491
+ATQCUS3597,June,Health & Wellness,Debit Card,906
+ATQCUS2770,June,Others,Net Banking,80
+ATQCUS0854,July,Entertainment,UPI,303
+ATQCUS2374,May,Health & Wellness,UPI,263
+ATQCUS1418,October,Health & Wellness,Credit Card,1342
+ATQCUS0447,October,Bills,Net Banking,1196
+ATQCUS3168,May,Bills,Credit Card,1923
+ATQCUS2695,September,Food,Credit Card,286
+ATQCUS0729,October,Groceries,Debit Card,1284
+ATQCUS1305,October,Apparel,UPI,240
+ATQCUS0540,May,Food,Credit Card,396
+ATQCUS1740,October,Apparel,Debit Card,531
+ATQCUS2570,October,Electronics,Credit Card,240
+ATQCUS3471,July,Food,UPI,1682
+ATQCUS0496,September,Health & Wellness,UPI,149
+ATQCUS3258,October,Others,Net Banking,63
+ATQCUS1142,May,Entertainment,Debit Card,92
+ATQCUS2928,September,Electronics,Debit Card,1263
+ATQCUS1237,May,Others,Net Banking,103
+ATQCUS3045,May,Others,Credit Card,145
+ATQCUS0255,October,Health & Wellness,Net Banking,315
+ATQCUS0329,May,Electronics,Debit Card,890
+ATQCUS3720,August,Food,UPI,1334
+ATQCUS1558,May,Apparel,UPI,190
+ATQCUS2110,August,Travel,Net Banking,245
+ATQCUS0357,October,Groceries,Debit Card,223
+ATQCUS0964,June,Electronics,Credit Card,1353
+ATQCUS1170,July,Others,Credit Card,197
+ATQCUS1260,October,Electronics,Debit Card,809
+ATQCUS2452,August,Apparel,UPI,187
+ATQCUS0249,July,Health & Wellness,UPI,691
+ATQCUS3757,September,Electronics,Net Banking,728
+ATQCUS2030,May,Health & Wellness,Credit Card,606
+ATQCUS3187,August,Health & Wellness,UPI,1197
+ATQCUS3263,August,Bills,Credit Card,2095
+ATQCUS1994,June,Food,Credit Card,374
+ATQCUS0760,October,Travel,UPI,337
+ATQCUS0406,June,Entertainment,Credit Card,186
+ATQCUS3052,July,Entertainment,Debit Card,104
+ATQCUS0568,May,Apparel,Net Banking,324
+ATQCUS0354,June,Food,UPI,572
+ATQCUS2760,June,Bills,Net Banking,192
+ATQCUS0608,August,Others,Credit Card,618
+ATQCUS0749,May,Bills,Net Banking,244
+ATQCUS1989,June,Bills,Net Banking,334
+ATQCUS2739,October,Entertainment,Credit Card,727
+ATQCUS0170,October,Travel,Net Banking,277
+ATQCUS3761,July,Groceries,Debit Card,1116
+ATQCUS3874,May,Food,Debit Card,427
+ATQCUS3592,May,Health & Wellness,UPI,569
+ATQCUS0988,October,Electronics,UPI,341
+ATQCUS3203,August,Apparel,Credit Card,541
+ATQCUS2633,October,Travel,UPI,1753
+ATQCUS1458,June,Travel,Debit Card,192
+ATQCUS3802,May,Health & Wellness,Net Banking,136
+ATQCUS3717,September,Electronics,UPI,2107
+ATQCUS1438,October,Health & Wellness,UPI,963
+ATQCUS0922,May,Bills,Net Banking,90
+ATQCUS1245,September,Travel,Credit Card,1075
+ATQCUS1728,August,Electronics,Debit Card,1025
+ATQCUS0817,September,Food,Debit Card,331
+ATQCUS3896,September,Health & Wellness,Net Banking,372
+ATQCUS0506,July,Electronics,Net Banking,850
+ATQCUS0207,October,Electronics,Debit Card,590
+ATQCUS3725,June,Travel,UPI,587
+ATQCUS1646,June,Apparel,Credit Card,317
+ATQCUS2646,June,Bills,Debit Card,1214
+ATQCUS0334,October,Entertainment,Net Banking,418
+ATQCUS1901,August,Groceries,Credit Card,222
+ATQCUS3090,September,Food,Credit Card,1094
+ATQCUS0921,June,Travel,Net Banking,33
+ATQCUS1785,August,Groceries,Debit Card,939
+ATQCUS2017,October,Health & Wellness,Debit Card,270
+ATQCUS3817,August,Electronics,UPI,1348
+ATQCUS1197,July,Apparel,Net Banking,109
+ATQCUS3061,May,Food,Net Banking,216
+ATQCUS2408,September,Electronics,Credit Card,3216
+ATQCUS1423,June,Groceries,Debit Card,851
+ATQCUS2350,October,Apparel,UPI,428
+ATQCUS3475,June,Groceries,Credit Card,1231
+ATQCUS2323,September,Health & Wellness,UPI,357
+ATQCUS0660,October,Entertainment,Net Banking,97
+ATQCUS1049,June,Apparel,Debit Card,367
+ATQCUS1161,September,Groceries,Net Banking,597
+ATQCUS2101,July,Electronics,Credit Card,2506
+ATQCUS2027,September,Health & Wellness,Credit Card,575
+ATQCUS3182,July,Health & Wellness,Debit Card,1139
+ATQCUS3671,May,Bills,UPI,609
+ATQCUS3106,September,Others,Credit Card,163
+ATQCUS2877,July,Apparel,Credit Card,329
+ATQCUS3643,May,Electronics,Debit Card,238
+ATQCUS2388,June,Bills,Debit Card,1299
+ATQCUS3940,May,Food,Debit Card,393
+ATQCUS0972,June,Travel,Net Banking,90
+ATQCUS2763,September,Apparel,Credit Card,1154
+ATQCUS0180,September,Entertainment,Credit Card,2046
+ATQCUS1388,July,Groceries,Net Banking,456
+ATQCUS2096,September,Others,Debit Card,62
+ATQCUS2501,September,Others,Debit Card,171
+ATQCUS3500,June,Apparel,Net Banking,87
+ATQCUS1067,May,Electronics,Net Banking,276
+ATQCUS0201,June,Bills,Debit Card,851
+ATQCUS0683,May,Electronics,Credit Card,465
+ATQCUS3412,July,Others,Debit Card,200
+ATQCUS1507,August,Groceries,Debit Card,868
+ATQCUS0980,May,Bills,UPI,129
+ATQCUS1991,May,Bills,Debit Card,964
+ATQCUS0793,May,Apparel,Net Banking,67
+ATQCUS3177,October,Electronics,Net Banking,61
+ATQCUS1366,August,Travel,Net Banking,578
+ATQCUS2899,June,Groceries,Net Banking,287
+ATQCUS1447,June,Travel,Net Banking,103
+ATQCUS3028,October,Travel,Net Banking,165
+ATQCUS2871,May,Groceries,Credit Card,561
+ATQCUS3869,September,Health & Wellness,UPI,256
+ATQCUS3589,June,Health & Wellness,Net Banking,237
+ATQCUS1519,June,Groceries,UPI,952
+ATQCUS2421,June,Apparel,UPI,118
+ATQCUS2041,July,Others,Credit Card,235
+ATQCUS3055,August,Apparel,Credit Card,200
+ATQCUS1529,July,Groceries,Debit Card,912
+ATQCUS0290,June,Health & Wellness,Net Banking,394
+ATQCUS3953,September,Apparel,UPI,167
+ATQCUS3209,September,Bills,Credit Card,1495
+ATQCUS3392,July,Health & Wellness,Net Banking,73
+ATQCUS3245,June,Entertainment,Debit Card,145
+ATQCUS3098,October,Bills,Net Banking,787
+ATQCUS1479,June,Apparel,Net Banking,215
+ATQCUS1100,August,Travel,Credit Card,790
+ATQCUS2854,May,Health & Wellness,UPI,121
+ATQCUS1026,June,Entertainment,Net Banking,157
+ATQCUS1910,May,Apparel,Debit Card,103
+ATQCUS2989,May,Bills,Net Banking,272
+ATQCUS3056,September,Entertainment,Credit Card,754
+ATQCUS0895,October,Electronics,Net Banking,165
+ATQCUS1967,August,Food,Credit Card,987
+ATQCUS0235,October,Health & Wellness,Credit Card,1552
+ATQCUS0259,September,Others,Credit Card,753
+ATQCUS1580,May,Food,Net Banking,60
+ATQCUS1208,September,Others,Debit Card,137
+ATQCUS1915,June,Bills,Debit Card,1440
+ATQCUS0628,October,Bills,Debit Card,1550
+ATQCUS0963,August,Food,UPI,773
+ATQCUS1637,September,Travel,UPI,819
+ATQCUS1856,July,Electronics,Debit Card,303
+ATQCUS0863,August,Bills,Debit Card,976
+ATQCUS2326,September,Food,Debit Card,355
+ATQCUS2815,July,Bills,Debit Card,758
+ATQCUS2754,August,Entertainment,UPI,463
+ATQCUS3129,June,Apparel,Debit Card,388
+ATQCUS0065,September,Electronics,Credit Card,1028
+ATQCUS2745,June,Apparel,Net Banking,264
+ATQCUS1178,October,Food,Net Banking,141
+ATQCUS0680,June,Others,UPI,171
+ATQCUS3339,September,Apparel,UPI,118
+ATQCUS2971,September,Health & Wellness,Credit Card,767
+ATQCUS0656,September,Electronics,Debit Card,961
+ATQCUS3606,September,Groceries,UPI,1405
+ATQCUS1060,August,Health & Wellness,UPI,352
+ATQCUS0936,September,Bills,Credit Card,264
+ATQCUS3445,September,Others,Debit Card,168
+ATQCUS0679,July,Travel,Debit Card,781
+ATQCUS1128,June,Bills,Debit Card,186
+ATQCUS0515,August,Health & Wellness,Credit Card,2120
+ATQCUS1375,July,Electronics,Credit Card,614
+ATQCUS3596,July,Health & Wellness,Credit Card,786
+ATQCUS3630,October,Electronics,Debit Card,719
+ATQCUS2207,October,Entertainment,Net Banking,87
+ATQCUS2148,September,Others,Credit Card,464
+ATQCUS1731,October,Electronics,Credit Card,3967
+ATQCUS4000,May,Electronics,Debit Card,383
+ATQCUS0896,May,Others,Debit Card,150
+ATQCUS3543,June,Bills,Net Banking,63
+ATQCUS1349,October,Groceries,UPI,628
+ATQCUS1716,August,Bills,Net Banking,426
+ATQCUS3127,September,Apparel,Debit Card,1042
+ATQCUS1454,October,Travel,Debit Card,680
+ATQCUS3138,June,Groceries,Net Banking,436
+ATQCUS2616,October,Electronics,Debit Card,977
+ATQCUS1624,October,Bills,UPI,1006
+ATQCUS3032,August,Health & Wellness,Debit Card,2334
+ATQCUS0220,June,Travel,Net Banking,199
+ATQCUS3311,May,Bills,UPI,542
+ATQCUS3472,June,Entertainment,Credit Card,338
+ATQCUS0554,August,Groceries,Net Banking,112
+ATQCUS2168,October,Others,Net Banking,54
+ATQCUS3860,September,Bills,Debit Card,1203
+ATQCUS1506,October,Electronics,Net Banking,221
+ATQCUS3611,August,Health & Wellness,Debit Card,404
+ATQCUS2320,September,Electronics,Credit Card,2944
+ATQCUS2263,September,Groceries,Debit Card,268
+ATQCUS3111,July,Apparel,Credit Card,328
+ATQCUS1815,September,Apparel,UPI,331
+ATQCUS3092,September,Bills,Net Banking,296
+ATQCUS3993,June,Food,Net Banking,128
+ATQCUS0681,June,Travel,Net Banking,429
+ATQCUS3430,October,Others,Net Banking,56
+ATQCUS2012,July,Travel,Debit Card,339
+ATQCUS3195,June,Groceries,Credit Card,2263
+ATQCUS2918,May,Apparel,UPI,146
+ATQCUS1341,June,Electronics,Debit Card,705
+ATQCUS2324,July,Groceries,Debit Card,252
+ATQCUS2824,June,Health & Wellness,Debit Card,200
+ATQCUS1648,September,Entertainment,Credit Card,1122
+ATQCUS1638,October,Entertainment,Net Banking,89
+ATQCUS2029,July,Electronics,Debit Card,325
+ATQCUS3011,June,Travel,Net Banking,157
+ATQCUS0242,June,Others,Credit Card,83
+ATQCUS0410,May,Groceries,Credit Card,866
+ATQCUS3650,June,Health & Wellness,Debit Card,822
+ATQCUS2222,June,Travel,UPI,246
+ATQCUS1747,July,Health & Wellness,Net Banking,878
+ATQCUS0796,August,Apparel,Credit Card,578
+ATQCUS2608,August,Bills,UPI,666
+ATQCUS1427,June,Health & Wellness,Net Banking,101
+ATQCUS2609,May,Bills,Net Banking,563
+ATQCUS1869,August,Groceries,Net Banking,309
+ATQCUS0345,August,Health & Wellness,Net Banking,256
+ATQCUS2850,August,Food,Debit Card,272
+ATQCUS1611,October,Apparel,Net Banking,51
+ATQCUS2122,October,Others,Credit Card,363
+ATQCUS1219,October,Entertainment,Net Banking,65
+ATQCUS3891,September,Bills,Net Banking,265
+ATQCUS2432,May,Entertainment,Net Banking,39
+ATQCUS0129,May,Food,Credit Card,509
+ATQCUS0756,July,Electronics,UPI,1054
+ATQCUS2412,September,Others,UPI,383
+ATQCUS1199,August,Electronics,Net Banking,604
+ATQCUS1743,September,Bills,Credit Card,2370
+ATQCUS2558,October,Others,Net Banking,145
+ATQCUS1573,June,Groceries,Credit Card,1019
+ATQCUS1437,August,Entertainment,Credit Card,515
+ATQCUS1348,September,Groceries,Net Banking,250
+ATQCUS0997,July,Entertainment,Credit Card,608
+ATQCUS0256,July,Travel,Debit Card,142
+ATQCUS3553,September,Apparel,Debit Card,516
+ATQCUS2870,May,Apparel,UPI,287
+ATQCUS1225,August,Entertainment,Debit Card,247
+ATQCUS2150,July,Groceries,UPI,1391
+ATQCUS1340,May,Electronics,Debit Card,453
+ATQCUS1899,August,Apparel,UPI,126
+ATQCUS2438,June,Others,Net Banking,18
+ATQCUS1262,June,Others,Net Banking,89
+ATQCUS2788,June,Groceries,Net Banking,171
+ATQCUS0708,October,Groceries,UPI,792
+ATQCUS3799,September,Others,Net Banking,76
+ATQCUS0973,September,Groceries,Credit Card,2019
+ATQCUS1439,August,Groceries,Net Banking,219
+ATQCUS3105,May,Apparel,Debit Card,247
+ATQCUS3990,October,Travel,Net Banking,121
+ATQCUS1007,September,Travel,Credit Card,3894
+ATQCUS3418,May,Travel,Debit Card,356
+ATQCUS1902,August,Entertainment,Net Banking,199
+ATQCUS3594,May,Food,Net Banking,271
+ATQCUS0317,October,Entertainment,Debit Card,215
+ATQCUS0581,September,Groceries,Debit Card,910
+ATQCUS0880,October,Health & Wellness,UPI,425
+ATQCUS1868,June,Entertainment,Debit Card,153
+ATQCUS2510,October,Entertainment,Credit Card,338
+ATQCUS0038,June,Others,Net Banking,26
+ATQCUS0716,September,Health & Wellness,Credit Card,1279
+ATQCUS2491,August,Health & Wellness,UPI,1576
+ATQCUS2176,June,Others,UPI,110
+ATQCUS1031,October,Bills,Debit Card,173
+ATQCUS0101,July,Health & Wellness,Debit Card,553
+ATQCUS0875,August,Apparel,Credit Card,448
+ATQCUS0901,July,Entertainment,UPI,865
+ATQCUS2545,July,Food,Debit Card,339
+ATQCUS3146,August,Entertainment,Debit Card,347
+ATQCUS1189,August,Entertainment,Debit Card,138
+ATQCUS2622,May,Electronics,UPI,759
+ATQCUS2304,May,Electronics,Net Banking,249
+ATQCUS0578,May,Bills,Debit Card,129
+ATQCUS3806,May,Travel,Net Banking,157
+ATQCUS2997,July,Travel,Debit Card,331
+ATQCUS1072,September,Food,UPI,258
+ATQCUS2475,July,Food,UPI,182
+ATQCUS1657,August,Food,Credit Card,388
+ATQCUS0094,July,Food,Debit Card,357
+ATQCUS2676,September,Electronics,Credit Card,600
+ATQCUS3097,August,Electronics,UPI,803
+ATQCUS2336,May,Electronics,UPI,519
+ATQCUS0262,May,Health & Wellness,UPI,157
+ATQCUS0364,September,Bills,UPI,357
+ATQCUS1252,June,Food,Credit Card,399
+ATQCUS2105,June,Apparel,Credit Card,199
+ATQCUS3359,August,Bills,UPI,1651
+ATQCUS1552,June,Apparel,Debit Card,1032
+ATQCUS0942,September,Travel,Credit Card,2597
+ATQCUS1746,October,Electronics,Net Banking,160
+ATQCUS1499,August,Others,Credit Card,188
+ATQCUS1557,October,Entertainment,Net Banking,141
+ATQCUS2942,October,Groceries,Net Banking,101
+ATQCUS3364,June,Apparel,Net Banking,128
+ATQCUS1017,September,Electronics,Debit Card,618
+ATQCUS1131,May,Others,Credit Card,163
+ATQCUS3366,October,Bills,Net Banking,818
+ATQCUS1598,June,Electronics,UPI,774
+ATQCUS0279,June,Groceries,Debit Card,1223
+ATQCUS2395,September,Apparel,Net Banking,44
+ATQCUS1167,September,Health & Wellness,Debit Card,943
+ATQCUS3067,June,Others,UPI,126
+ATQCUS2297,August,Bills,Debit Card,1010
+ATQCUS1158,September,Apparel,Credit Card,333
+ATQCUS3689,June,Bills,Debit Card,1154
+ATQCUS2995,June,Others,Net Banking,40
+ATQCUS3943,September,Food,Credit Card,981
+ATQCUS2580,June,Groceries,UPI,612
+ATQCUS0066,June,Groceries,UPI,1354
+ATQCUS2058,August,Others,Net Banking,34
+ATQCUS2456,May,Travel,Credit Card,2318
+ATQCUS3722,July,Others,Credit Card,360
+ATQCUS3460,July,Electronics,Credit Card,850
+ATQCUS0178,May,Electronics,Net Banking,210
+ATQCUS1426,June,Apparel,UPI,569
+ATQCUS3280,May,Bills,UPI,907
+ATQCUS0682,October,Bills,Net Banking,444
+ATQCUS0661,May,Apparel,Debit Card,301
+ATQCUS0130,June,Health & Wellness,Credit Card,1948
+ATQCUS2232,June,Apparel,UPI,123
+ATQCUS0931,July,Entertainment,UPI,234
+ATQCUS0814,May,Health & Wellness,UPI,500
+ATQCUS0183,October,Bills,Net Banking,806
+ATQCUS0939,October,Entertainment,UPI,739
+ATQCUS3900,July,Others,UPI,180
+ATQCUS0511,August,Travel,UPI,870
+ATQCUS3839,July,Travel,UPI,1264
+ATQCUS3746,October,Others,UPI,69
+ATQCUS3039,September,Others,Debit Card,62
+ATQCUS2924,August,Others,UPI,119
+ATQCUS3281,June,Others,UPI,97
+ATQCUS3766,May,Groceries,Debit Card,790
+ATQCUS3358,May,Others,Credit Card,186
+ATQCUS0474,August,Apparel,UPI,179
+ATQCUS1539,July,Travel,UPI,892
+ATQCUS1360,June,Health & Wellness,Debit Card,887
+ATQCUS2934,July,Others,Debit Card,42
+ATQCUS2282,June,Bills,Net Banking,134
+ATQCUS1623,July,Groceries,Credit Card,2719
+ATQCUS2802,September,Apparel,Credit Card,795
+ATQCUS2379,August,Travel,UPI,796
+ATQCUS0701,June,Groceries,UPI,690
+ATQCUS0353,September,Travel,UPI,749
+ATQCUS3136,August,Apparel,Net Banking,56
+ATQCUS2929,September,Food,Credit Card,976
+ATQCUS2210,July,Health & Wellness,Net Banking,160
+ATQCUS0789,July,Bills,Debit Card,377
+ATQCUS3789,July,Apparel,UPI,117
+ATQCUS0434,September,Health & Wellness,Net Banking,436
+ATQCUS3704,June,Electronics,Debit Card,379
+ATQCUS2473,August,Apparel,Net Banking,652
+ATQCUS2307,August,Travel,Debit Card,759
+ATQCUS2419,September,Food,UPI,1262
+ATQCUS3994,September,Groceries,Debit Card,1495
+ATQCUS1286,July,Others,Credit Card,100
+ATQCUS1903,September,Health & Wellness,Net Banking,211
+ATQCUS2061,August,Health & Wellness,Credit Card,522
+ATQCUS1218,August,Bills,Credit Card,1816
+ATQCUS1924,July,Entertainment,UPI,814
+ATQCUS3354,October,Food,UPI,428
+ATQCUS3101,May,Electronics,Net Banking,158
+ATQCUS2896,August,Electronics,Credit Card,1458
+ATQCUS0944,July,Apparel,UPI,439
+ATQCUS2488,May,Electronics,Net Banking,181
+ATQCUS2199,July,Electronics,Debit Card,314
+ATQCUS2205,August,Health & Wellness,Net Banking,126
+ATQCUS1510,September,Electronics,UPI,2158
+ATQCUS3238,June,Electronics,Credit Card,4669
+ATQCUS0926,October,Bills,Debit Card,1973
+ATQCUS0237,June,Entertainment,Credit Card,629
+ATQCUS2429,June,Entertainment,Credit Card,371
+ATQCUS2613,September,Apparel,Net Banking,109
+ATQCUS1686,October,Bills,Debit Card,964
+ATQCUS2791,August,Groceries,Net Banking,95
+ATQCUS3715,August,Bills,Net Banking,862
+ATQCUS0149,October,Entertainment,UPI,355
+ATQCUS1511,September,Electronics,UPI,2464
+ATQCUS2521,September,Electronics,Debit Card,916
+ATQCUS1087,September,Bills,UPI,856
+ATQCUS3239,July,Apparel,Net Banking,132
+ATQCUS2203,September,Others,Credit Card,350
+ATQCUS1780,September,Electronics,UPI,1664
+ATQCUS1113,July,Entertainment,Credit Card,1120
+ATQCUS3754,May,Groceries,Credit Card,236
+ATQCUS1523,July,Electronics,Net Banking,160
+ATQCUS1106,July,Travel,UPI,376
+ATQCUS0383,June,Entertainment,Net Banking,193
+ATQCUS2774,September,Food,UPI,909
+ATQCUS1556,May,Others,Debit Card,56
+ATQCUS1585,August,Food,Credit Card,741
+ATQCUS0402,October,Electronics,Net Banking,249
+ATQCUS0275,October,Others,UPI,147
+ATQCUS1457,August,Food,Net Banking,111
+ATQCUS1353,August,Food,Debit Card,888
+ATQCUS0748,October,Health & Wellness,Debit Card,1113
+ATQCUS2191,May,Entertainment,Debit Card,359
+ATQCUS1324,August,Travel,Credit Card,866
+ATQCUS0226,May,Groceries,Debit Card,753
+ATQCUS3783,May,Apparel,Credit Card,302
+ATQCUS0536,July,Entertainment,Credit Card,933
+ATQCUS0752,May,Bills,Debit Card,423
+ATQCUS1401,June,Groceries,Net Banking,311
+ATQCUS2673,May,Food,Debit Card,126
+ATQCUS2349,June,Others,Debit Card,82
+ATQCUS2200,October,Others,Credit Card,91
+ATQCUS3309,August,Bills,Credit Card,1634
+ATQCUS1851,August,Bills,Net Banking,900
+ATQCUS2108,May,Entertainment,Debit Card,200
+ATQCUS3315,May,Health & Wellness,UPI,427
+ATQCUS0696,August,Food,Credit Card,368
+ATQCUS0567,October,Electronics,Net Banking,113
+ATQCUS3093,June,Health & Wellness,UPI,958
+ATQCUS1827,August,Entertainment,Credit Card,765
+ATQCUS2453,August,Others,Net Banking,52
+ATQCUS0460,September,Food,Credit Card,521
+ATQCUS1644,June,Health & Wellness,Debit Card,486
+ATQCUS1919,May,Food,Net Banking,79
+ATQCUS3213,June,Others,Net Banking,137
+ATQCUS2272,June,Apparel,UPI,49
+ATQCUS2654,September,Electronics,Net Banking,224
+ATQCUS2252,October,Apparel,Debit Card,108
+ATQCUS3686,May,Entertainment,UPI,160
+ATQCUS1273,July,Health & Wellness,UPI,1314
+ATQCUS1390,May,Apparel,Net Banking,160
+ATQCUS2642,May,Bills,Net Banking,643
+ATQCUS1502,May,Others,Net Banking,31
+ATQCUS3525,July,Health & Wellness,Debit Card,402
+ATQCUS1715,May,Entertainment,Net Banking,86
+ATQCUS2881,June,Others,Credit Card,203
+ATQCUS3077,October,Bills,Credit Card,483
+ATQCUS1820,May,Groceries,Debit Card,1281
+ATQCUS0999,July,Entertainment,UPI,1023
+ATQCUS3767,October,Bills,Credit Card,239
+ATQCUS0087,August,Electronics,Credit Card,1067
+ATQCUS2259,July,Travel,UPI,334
+ATQCUS2531,July,Travel,UPI,397
+ATQCUS3668,October,Apparel,UPI,150
+ATQCUS0952,August,Travel,Net Banking,437
+ATQCUS3782,October,Health & Wellness,Credit Card,817
+ATQCUS0384,August,Health & Wellness,UPI,1239
+ATQCUS0443,October,Health & Wellness,Debit Card,225
+ATQCUS0804,May,Bills,Debit Card,291
+ATQCUS3924,August,Food,UPI,1111
+ATQCUS1929,September,Bills,Net Banking,349
+ATQCUS0131,October,Travel,UPI,738
+ATQCUS3908,July,Groceries,Debit Card,1042
+ATQCUS3476,May,Electronics,Credit Card,3095
+ATQCUS1452,July,Apparel,Net Banking,117
+ATQCUS3355,August,Apparel,Debit Card,571
+ATQCUS0624,May,Apparel,Net Banking,17
+ATQCUS1680,June,Bills,Debit Card,2269
+ATQCUS2009,June,Food,Net Banking,138
+ATQCUS0051,July,Food,Debit Card,418
+ATQCUS0941,September,Travel,Debit Card,407
+ATQCUS3654,September,Others,Net Banking,69
+ATQCUS1352,July,Bills,Credit Card,3672
+ATQCUS3082,October,Health & Wellness,Net Banking,151
+ATQCUS1362,June,Health & Wellness,Debit Card,227
+ATQCUS3966,September,Electronics,UPI,526
+ATQCUS2883,July,Entertainment,Net Banking,242
+ATQCUS1816,October,Apparel,Credit Card,313
+ATQCUS2216,May,Bills,Debit Card,1277
+ATQCUS1082,October,Apparel,Debit Card,325
+ATQCUS2992,October,Electronics,Net Banking,95
+ATQCUS3969,June,Bills,Credit Card,3727
+ATQCUS2901,September,Travel,Debit Card,1192
+ATQCUS2775,September,Others,Net Banking,38
+ATQCUS3130,October,Groceries,Credit Card,1220
+ATQCUS1691,August,Entertainment,UPI,1699
+ATQCUS1198,July,Health & Wellness,Debit Card,1396
+ATQCUS2674,June,Electronics,Net Banking,358
+ATQCUS1207,May,Entertainment,Net Banking,188
+ATQCUS3456,July,Bills,Net Banking,405
+ATQCUS3159,September,Groceries,UPI,2409
+ATQCUS0978,August,Travel,Debit Card,345
+ATQCUS2614,May,Health & Wellness,UPI,306
+ATQCUS2435,June,Groceries,Debit Card,488
+ATQCUS3762,October,Entertainment,Credit Card,377
+ATQCUS0858,August,Apparel,Credit Card,325
+ATQCUS3778,August,Bills,Credit Card,333
+ATQCUS2902,July,Electronics,Credit Card,2174
+ATQCUS3961,June,Groceries,Credit Card,2429
+ATQCUS1655,May,Groceries,Credit Card,183
+ATQCUS1051,May,Food,Debit Card,375
+ATQCUS0459,October,Travel,Net Banking,449
+ATQCUS1970,August,Electronics,UPI,917
+ATQCUS2081,May,Apparel,UPI,485
+ATQCUS3007,October,Health & Wellness,UPI,253
+ATQCUS2515,September,Groceries,UPI,1178
+ATQCUS1089,October,Groceries,UPI,1280
+ATQCUS1095,May,Others,UPI,135
+ATQCUS1984,September,Others,Debit Card,80
+ATQCUS3885,May,Health & Wellness,UPI,286
+ATQCUS2153,July,Bills,Credit Card,1255
+ATQCUS1689,July,Apparel,UPI,115
+ATQCUS0473,May,Apparel,Credit Card,598
+ATQCUS3041,September,Food,Debit Card,548
+ATQCUS2757,July,Travel,Debit Card,186
+ATQCUS0637,September,Bills,Net Banking,477
+ATQCUS3350,June,Health & Wellness,Debit Card,1654
+ATQCUS0252,July,Entertainment,Debit Card,417
+ATQCUS1151,October,Apparel,Credit Card,119
+ATQCUS0268,October,Food,Debit Card,500
+ATQCUS2317,May,Food,Net Banking,246
+ATQCUS0528,September,Food,Credit Card,588
+ATQCUS3427,September,Groceries,Credit Card,744
+ATQCUS2046,October,Food,Debit Card,659
+ATQCUS2852,July,Others,Credit Card,185
+ATQCUS3421,June,Food,Debit Card,383
+ATQCUS3282,May,Food,Net Banking,63
+ATQCUS1817,May,Travel,UPI,559
+ATQCUS1465,September,Entertainment,Credit Card,366
+ATQCUS2719,September,Entertainment,Debit Card,209
+ATQCUS3820,July,Apparel,Credit Card,810
+ATQCUS1385,September,Apparel,Debit Card,458
+ATQCUS3114,October,Electronics,Net Banking,214
+ATQCUS0467,October,Groceries,Credit Card,1441
+ATQCUS1241,July,Entertainment,Debit Card,150
+ATQCUS2238,August,Health & Wellness,Credit Card,1187
+ATQCUS2311,July,Others,Debit Card,126
+ATQCUS1299,June,Apparel,Credit Card,131
+ATQCUS2943,August,Food,Credit Card,792
+ATQCUS2913,May,Bills,Debit Card,241
+ATQCUS3384,August,Food,Credit Card,620
+ATQCUS3495,May,Travel,Debit Card,270
+ATQCUS3330,May,Food,Net Banking,119
+ATQCUS3587,August,Food,Credit Card,547
+ATQCUS2329,October,Bills,Debit Card,2880
+ATQCUS2246,June,Bills,Debit Card,670
+ATQCUS2147,May,Apparel,Debit Card,121
+ATQCUS2848,July,Travel,Net Banking,152
+ATQCUS0429,July,Apparel,Credit Card,509
+ATQCUS1879,July,Health & Wellness,Net Banking,737
+ATQCUS0024,May,Electronics,Debit Card,346
+ATQCUS3279,September,Entertainment,Credit Card,3351
+ATQCUS1849,October,Others,Net Banking,58
+ATQCUS3243,September,Bills,UPI,384
+ATQCUS0597,June,Bills,Credit Card,1502
+ATQCUS3647,October,Others,UPI,92
+ATQCUS2967,August,Groceries,Credit Card,929
+ATQCUS2981,May,Food,Credit Card,506
+ATQCUS2389,August,Food,Net Banking,184
+ATQCUS0986,July,Electronics,Debit Card,792
+ATQCUS2294,June,Bills,Debit Card,1516
+ATQCUS2988,October,Bills,Debit Card,908
+ATQCUS3792,May,Food,Debit Card,430
+ATQCUS3712,July,Bills,Net Banking,844
+ATQCUS0617,October,Health & Wellness,UPI,385
+ATQCUS1545,July,Groceries,Net Banking,255
+ATQCUS0210,July,Bills,Debit Card,624
+ATQCUS1043,September,Apparel,Debit Card,793
+ATQCUS2783,August,Health & Wellness,UPI,432
+ATQCUS2386,October,Food,Credit Card,491
+ATQCUS2306,July,Others,UPI,99
+ATQCUS0549,October,Bills,Net Banking,395
+ATQCUS0124,September,Apparel,Net Banking,167
+ATQCUS3751,September,Apparel,Debit Card,480
+ATQCUS1779,July,Groceries,Credit Card,387
+ATQCUS1436,September,Apparel,Debit Card,194
+ATQCUS2031,July,Groceries,Net Banking,299
+ATQCUS0080,September,Travel,UPI,1489
+ATQCUS2353,June,Bills,Net Banking,665
+ATQCUS0435,October,Electronics,Net Banking,246
+ATQCUS0347,May,Entertainment,Debit Card,360
+ATQCUS1942,September,Electronics,UPI,849
+ATQCUS0497,October,Apparel,Net Banking,123
+ATQCUS3779,June,Health & Wellness,UPI,520
+ATQCUS1015,July,Health & Wellness,Credit Card,519
+ATQCUS1613,July,Electronics,UPI,1039
+ATQCUS2042,June,Food,Credit Card,721
+ATQCUS1367,July,Health & Wellness,Debit Card,231
+ATQCUS0933,October,Bills,Net Banking,53
+ATQCUS2138,August,Groceries,UPI,812
+ATQCUS2312,August,Travel,Net Banking,121
+ATQCUS3884,May,Entertainment,Debit Card,171
+ATQCUS0869,July,Travel,Debit Card,846
+ATQCUS0882,August,Bills,UPI,813
+ATQCUS2117,July,Groceries,Net Banking,752
+ATQCUS3016,June,Bills,Debit Card,489
+ATQCUS0470,May,Others,Net Banking,10
+ATQCUS2201,July,Apparel,Net Banking,237
+ATQCUS3821,October,Apparel,Credit Card,388
+ATQCUS3749,October,Groceries,UPI,828
+ATQCUS2124,August,Food,Net Banking,98
+ATQCUS1354,May,Travel,Net Banking,84
+ATQCUS1736,June,Electronics,UPI,805
+ATQCUS0718,July,Travel,Net Banking,133
+ATQCUS1737,May,Electronics,Credit Card,540
+ATQCUS0243,August,Travel,UPI,1127
+ATQCUS0061,September,Bills,Debit Card,1375
+ATQCUS2717,May,Entertainment,UPI,192
+ATQCUS3112,September,Apparel,Debit Card,160
+ATQCUS1490,October,Health & Wellness,Debit Card,767
+ATQCUS2360,June,Electronics,Credit Card,3676
+ATQCUS3772,May,Bills,Net Banking,378
+ATQCUS1846,August,Travel,Debit Card,1335
+ATQCUS0657,July,Apparel,Credit Card,187
+ATQCUS3349,October,Travel,UPI,365
+ATQCUS0954,October,Electronics,Credit Card,1359
+ATQCUS1176,July,Health & Wellness,Debit Card,95
+ATQCUS2993,June,Others,Credit Card,287
+ATQCUS2403,October,Others,UPI,105
+ATQCUS2211,June,Others,Credit Card,162
+ATQCUS0295,May,Travel,Credit Card,456
+ATQCUS3730,October,Food,Credit Card,228
+ATQCUS2111,July,Food,Debit Card,198
+ATQCUS0023,May,Bills,Net Banking,248
+ATQCUS0409,June,Health & Wellness,Debit Card,741
+ATQCUS3578,May,Bills,UPI,1673
+ATQCUS2539,October,Food,UPI,609
+ATQCUS2357,May,Groceries,Debit Card,464
+ATQCUS1814,June,Apparel,UPI,72
